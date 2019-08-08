@@ -1,4 +1,4 @@
-# PerilousVentures
+# Perilous Ventures
 Perilous Ventures tabletop role-playing game rules
 
 Are you ready for a fast, easy, and dangerous medieval fantasy role-playing system that you won't spend a lifetime learning and setting up? Then Perilous Ventures is for you!
