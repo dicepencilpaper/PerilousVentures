@@ -8,7 +8,7 @@
 
 Playtest Edition 0.7.2
 
-
+## Dedication
 
 This book couldn’t have been written without the help of some special people that have given me advice and ideas on improving this game.
 
@@ -40,18 +40,11 @@ And also the rest of the #TTRPG community. To all of you, thank you so much! Als
 
 **Copyright © 2019 Jose T. Kercado - All Rights Reserved.**
 
-
-## CONTENTS
-
+## Contents
 
 [TOC]
 
-
-
-##
-
-
-## FOREWORD
+## Foreword
 
 Tabletop role-playing games are the only type of game that give you total freedom of action. Of course, that freedom is regulated by a ruleset that provides the limits and constraints of the fantasy world you are playing in; otherwise, it would be just playing pretend.
 
@@ -73,10 +66,7 @@ _Kick open the door, fight the monsters, get the gold, and as a side quest… Sa
 
 -- Jose T. Kercado
 
-
-
-
-## CREATING A CHARACTER
+## Creating a character
 
 So you want to be in this fantastic and dangerous world? Welcome, future adventurer, you will have a great time! We will have a character created very quickly, and you will be ready to play in no time. Character creation is quite simplified and you can definitely have the basic definition for your character in less than five minutes.
 
@@ -86,58 +76,44 @@ However, even if you are planning to be the Game Master, it’s important that y
 
 In this game, race and class options are limited, with clear and specific advantages to each one. We keep these roles clearly sharp and well defined, which makes it easy for players to establish how they intend to delve into the adventure.
 
-All you need to create your character is the following items: \
-
-
-
+All you need to create your character is the following items:
 
 *   A few six-sided dice (d6), about four or five is a good amount.
 *   Blank ruled paper.
 *   Pencil and eraser.
 *   This book!
 
-
 ### Character creation steps
-
 
 #### Select a race
 
 Your character’s race will determine certain bonuses or disadvantages that you will have for your character. However, the importance of race goes beyond that, as it also can become a huge element in the role-playing part of your character and help define their personality and backstory.
 
-
 #### Select a class
 
 The character’s class determines their profession. Do you want to be a fearless sword-wielder? Do you want to control arcane powers? Think of what you want from your character, and how you want to approach the adventure. Each class provides special abilities and advantages that do not exist in other character classes, and sometimes, some disadvantages. Like everything, it is all a matter of compromise.
-
 
 #### Choose magic fields (optional)
 
 If you select a spellcasting class like priest of wizard, you must select one or more magic fields for your character. Spells belong to certain arcane areas depending on what they manipulate, and these areas are called magic fields.
 
-
 #### Choose backgrounds
 
 Backgrounds are part of your character’s backstory, and help define your character’s capabilities in matters that go beyond combat situations. Is your character good at negotiation? Will it be able to repair a piece of armor? Can it survive in the wilderness? Your choice of backgrounds defines this.
-
 
 #### Get money & equipment
 
 Choose any weapons and armor that the character will use in the adventure. Note that some classes have limitations in terms of which weapons and armor they can use. Make sure to pick things your character will be able to use. Also, do not forget adventuring gear; it is not all about weapons and armor. The player character will need tools to help them explore the world.
 
-
 #### Name and describe your character
 
 Now think of who this person is, its name, personality traits, and some brief backstory ideas you can think up. Alternatively, simply give it a name and let the game session define it! This can be a fun, simple approach that ends up with colorful, interesting characters.
 
-
-
-
-## DEFINING YOUR CHARACTER
+## Defininf your character
 
 Player characters in this system have no ability scores as usually defined by other RPG systems, such as strength or intelligence scores. Instead, modifiers provided by the race, class, and background selections made by the player in the character creation process define the characteristics and features of the player character.
 
 Grab a sheet of paper and a pencil, and write down the information for your new adventurer. At the top of the sheet, leave a space for each of the following items: Name, Race, and Class.
-
 
 ### Action rolls
 
@@ -147,61 +123,44 @@ The score of each one of these rolls is equal to how many dice you will be rolli
 
 
         Combat
-
-
         PA:	1
-
-
         PD: 	1
-
-
         MA:  	1
-
-
         MD:  	1
 
 Here’s a quick explanation of these actions and how they are used in gameplay.
 
+#### Physical Action (PA)
 
-#### Physical Attack (PA)
-
-This action dice roll is for when a character strikes with a physical weapon, either melee or missile, or performs an unarmed strike.
-
+This action dice roll is for when a character strikes with a physical weapon (either melee, missile, or an unarmed strike), and it's also used for moves and actions that might not be easy to perform and will require a check, like somersaulting over a fence while being pursued.
 
 #### Physical Defense (PD)
 
-The target of a Physical Attack performs this action roll to compete against the attack roll and avoid receiving damage.
+The target of a physical attack performs this action roll to compete against the attack roll and avoid receiving damage. It can also be used for things like being freed out of a grappling move, or avoid being hit by a tumbling rock.
 
+#### Mental Action (MA)
 
-#### Magical Action (MA)
+Spells are ultimately controlled by the caster's mental strength. This is the action roll used by spell casters to determine their success when utilizing spells. Any player characters, regardless of their class, that use magical devices such as staves or wands also perform this action roll. This roll is also used to determine mental acumen and perception.
 
-This is the action roll used by spell casters to determine their success when utilizing spells. Any player characters, regardless of their class, that use magical devices such as staves or wands also perform this action roll.
+#### Mental Defense (MD)
 
-
-#### Magical Defense (MD)
-
-This is the action roll made by the target of a Magical Action attack, whether from a spell or a magical device, to avoid receiving damage. Note that for magical weapons, you must use PD as your defense action roll.
-
+Being that magic is controlled from the spellcaster's mind, avoiding magical damage also is based on the target's mental prowess. This is the action roll made by the target of a magical strike, whether from a spell or a magical device, to avoid receiving damage. Note that for magical weapons, you must use Physical Defense as your defense action roll. This action roll is also used for avoiding being tricked.
 
 ### Damage
 
 You need to keep a tally of the damage received during combat. On another section of the page, write down the following base stats related to damage. Write down a label, “Damage”, and below that write down the information explained below.
 
-
 #### Hero Points (HP)
 
 All characters start with a base of 4 hero points. So, below the “Damage” title, write down “HP: 4”. Hero points account for a mixture of resistance to combat fatigue and your character’s willfulness to push forward in combat in spite of being hurt. As your character exerts themselves in combat, your stamina and ability to withstand minor hits diminishes, and this is reflected through a diminishing hero point count. However, even after losing all your hero points, your character can still keep on fighting.
-
 
 #### Life Points (LP)
 
 All characters start with 2 life points. You start counting off these points in two situations: when your character’s hero points reach zero, or when you have a lethal hit, meaning that your opponent rolled a 6 on a successful attack roll. Once a character runs out of life points, they are unconscious and dying. Below “HP: 4”, write down “LP: 2”.
 
-
 #### Death Points (DP)
 
 Death points are used when the character is unconscious and dying after receiving enough damage to run out of life points. Characters will always have an amount of death points equal to their life points, therefore, below your life point score, write down “DP: 2”.
-
 
 ## RACES
 
@@ -216,17 +175,15 @@ If the race shows that you get a boost on any of the action rolls (PA, PD, and s
 
 Your character’s race can also modify how many hero points your character has. If the chosen race increases or decreases your hero point amount, make sure to change the number you’ve written down in the Damage section.
 
-
 ### Backgrounds
 
 There are suggested backgrounds that are deemed appropriate for each particular race. These are just guidelines, as you can select whichever backgrounds you prefer for your character. Details about backgrounds and how they work is found in the Backgrounds section below.
-
 
 ### Dwarf
 
 Dwarves are strong, stocky folk, with a penchant for strong drink & hard work. They are usually about four to four and a half feet tall, although a few unique individuals can reach five feet in stature. Dwarves usually live to about 170 years old, and some reach 200 years of life.
 
-They excel at fighting due to their innate physical strength and their centuries-old warfare traditions and defender of the dwarven kingdoms, therefore all dwarves get 1 boost on Physical Attack (PA).
+They excel at fighting due to their innate physical strength and their centuries-old warfare traditions and defender of the dwarven kingdoms, therefore all dwarves get 1 boost on Physical Action (PA).
 
 Suggested backgrounds for dwarves are Metalworking or Stonemason.
 
@@ -234,17 +191,15 @@ Dwarven society’s base is the clan, which is defined and named by whoever was 
 
 Dwarves were originally created by the deities of Change and Preservation, Ambius and Aja, respectively. This reflects on their abilities and desire to change the world by building things, and their fierce attitude towards defending those in need and preserving traditions.
 
-
 ### Elf
 
 Elves are lithe, graceful, beautiful creatures, with beautiful almond-shaped eyes, large pointed ears, and slim but muscular bodies. They usually are around five to five and a half feet in height. They live very long lives, with some elves surpassing the 300 year old mark.
 
 Elven society is defined by gens, which is a group with a similar culture and origin. Each gen has their own domain, or elvendom. These domains are usually well-guarded, although some gens are more welcoming of other races and species.
 
-The elves were created by Erra, Element goddess, and Mosferi, god of the Ethereal. This is demonstrated by the elves affinity to the physical universe and nature, and their highly spiritual approach to life. For this reason, they have a strong natural inclination to the magical and natural worlds, and get 1 boost on Magic Attack (MA) action rolls.
+The elves were created by Erra, Element goddess, and Mosferi, god of the Ethereal. This is demonstrated by the elves affinity to the physical universe and nature, and their highly spiritual approach to life. For this reason, they have a strong natural inclination to the magical and natural worlds, and get 1 boost on Mental Attack (MA) action rolls.
 
 Suggested backgrounds for elf characters are Crafting or Survivalist.
-
 
 ### Halfling
 
@@ -259,7 +214,7 @@ Halflings are a creation of the mischievous god of Deceit, Ruco, and this is dem
 
 ### Human
 
-They are the most populous race, reliable, resilient and versatile, and this natural toughness grants humans 1 boost on Magic Defense (MD) rolls. Humans have no recommended background choices due to their diversity and for having spread to literally all corners of the world.
+They are the most populous race, reliable, resilient and versatile, and this natural toughness grants humans 1 boost on Mental Defense (MD) rolls. Humans have no recommended background choices due to their diversity and for having spread to literally all corners of the world.
 
 Like modern humans, they usually live to 85 years of age, but some have surpassed that, living for more than 120 years of age.
 
@@ -267,11 +222,9 @@ They are the most versatile of all races, and as such can be found organized in 
 
 Humans were the first creation of the gods, and are the joint effort of Vid, god of Life, and Muer, goddess of Death. This is demonstrated by their intense love of life and the world they live in, and their acceptance and infliction of death unto others throughout history.
 
-
 ### Playing other races
 
 It might be that you are interested in playing a character from a race different from the ones shown here. This system is flexible enough to allow for something like that, and it is easy to do so. Here are two ways you can use to create a race for your player character.
-
 
 #### Use an existing race as a template
 
@@ -279,24 +232,17 @@ Take the race that you want to play and compare it with the existing ones, then 
 
 For example, if you wanted to play a goblin, using a halfling as the base would make sense, since they are both small and agile. You might want to change the background depending on your concept of goblins. However, assuming that most goblins live in the wild in almost barbarian-like tribes, a background of Survival or Naturalist would probably fit well.
 
-
 #### Create a race or species from scratch
 
 As an option, you could try create a brand-new race not based on an existing one. In its most basic form, you will need to set up three elements for it:
 
-
-
-1. **Combat roll boost** - If desired, choose only one roll to boost: Physical Attack, Physical Defense, Magical Attack or Magical Defense. \
+1. **Combat roll boost** - If desired, choose only one roll to boost: Physical Action, Physical Defense, Magical Attack or Mental Defense. \
 
 2. **Default backgrounds** - This is where you can get much more freedom, but also can become a bit more involving. Think up a couple of backgrounds that could fit this new race. They do not even have to be in the background list presented in this book. \
 
-3. **Divine background - **Optionally, you can also define their divine background. Which deity or deities created this race? How does that influence their nature? \
-
+3. **Divine background - **Optionally, you can also define their divine background. Which deity or deities created this race? How does that influence their nature?
 
 As always, regardless of which path you choose for your new race, make sure to discuss it with your Game Master! You have to agree upon it and confirm that it will fit the game style and world you will be playing in.
-
-
-
 
 ## CLASSES
 
@@ -306,7 +252,6 @@ Any class-related action roll boosts need to be written down. As we did with the
 
 Classes can modify the life points available to your character. Don’t forget to increase or decrease this score if needed, and the related death point score, as they’re always equal.
 
-
 ### Action points
 
 Each character class has a pool of Action Points (AP) available. These points are used differently on each character class; for warriors and thieves, they are used to perform special combat maneuvers. For priests and wizards, it determines their spellcasting capacity.
@@ -315,30 +260,24 @@ All player characters start off with 6 action points regardless of race or class
 
 As action points fluctuate during combat actions, you might find that adding and subtracting them on paper might not be as easy as you would like. An easy way to keep track of your current AP is to use a d6 as a counter as it goes up and down. Tokens can be used too, anything from game pieces to pennies.
 
-
 ### Backgrounds
 
 There are suggested backgrounds that are deemed appropriate for each particular character class. However, these are just guidelines, as you can select whichever backgrounds you prefer for your character.
-
 
 ### Priest
 
 Priests are divine warriors that fight in the name of one or more divine beings. They defend their deities’ goals and purpose for the world, and they can be good or evil.
 
-A priest gets 1 boost on Magic Defense (MD). They can cast spells, although their casting abilities are less diverse than those of wizards. Priests can use magical items, one-handed weapons, and can wear armor but not shields.
-
+A priest gets 1 boost on Mental Defense (MD). They can cast spells, although their casting abilities are less diverse than those of wizards. Priests can use magical items, one-handed weapons, and can wear armor but not shields.
 
 #### Background
 
 A priest character could choose among the following suggested backgrounds:
 
-
-
 *   Clergy
 *   Scholar
 *   Noble adviser
 *   Revolutionary
-
 
 #### Magic field
 
@@ -346,16 +285,13 @@ As a devoted servant of a single deity, a priest must choose only one magic fiel
 
 It is rare but possible that, through some life crisis or other special situation that provokes a change of allegiance, a priest can change deities. In such a case, the priest would immediately gain the magic field from the chosen deity, and forget how to cast spells in the previous field.
 
-
-##### EFFECT ON MAGIC ITEM USAGE
+##### Effects on magic item use
 
 If a priest uses a magical device that belongs to their selected magic field, they gain 1 boost when using it. Similarly, if they use a magical device from their diametric magic field, the priest will have 1 drop applied to their roll when using it.
-
 
 #### Spell aspect action points cost
 
 Casting spells draws from the priest’s action point pool as a representation of willpower and faith needed to execute wondrous acts of divine power. Priests have a base spell action cost of 2. For details on how magic works, please consult the Magic & Spells section. Priests recover action points at the rate of 1 point per combat round.
-
 
 ### Thief
 
@@ -363,12 +299,9 @@ Masters of the night, stealth and shadows, thieves are the only characters that 
 
 Thieves get 1 boost on Physical Defense (PD) due to their learned nimbleness and skill to avoid damage, and can use magical items and weapons. They are limited to one-handed melee weapons but can use any missile weapon, including two-handed devices like longbows. A thief cannot wear armor nor use a shield.
 
-
 #### Background
 
 A thief character could have one of these suggested backgrounds:
-
-
 
 *   Criminal
 *   Streetwise
@@ -382,94 +315,35 @@ These actions are special to the thief, and no other class can perform these suc
 
 By default, the thief will roll 2d6 when performing these skills, however, as shown below, the player can choose to spend AP to add boosts to their rolls at the cost of 1 AP per boost.
 
-
-##### HIDING & STEALTH
+##### Hiding & stealth
 
 A thief character can “hide” in plain sight, even in the middle of combat. It does this through knowledge of the environment, intuitive knowledge of people, distraction techniques, and physical dexterity. However, they cannot hide from an opponent they’re engaged with; they can only do so if they move away from the engaged opponent.
 
 They’re also able to move very silently as to avoid detection. They might get 1 additional boost on these rolls when environmental situations are pertinent, like hiding in a dark room, or being stealthy while walking on a stone floor.
 
-
-##### FIND & REMOVE TRAPS
+##### Find & remove traps
 
 The thief is the only character skilled in the fine art of finding and removing sophisticated traps like those found protecting a room or a piece of furniture like a chest, although they can also find simpler traps like those set in the wilderness to hunt for animals
 
-
-##### PICK POCKETS
+##### Pick pockets
 
 They are capable of stealing personal belongings from people without being noticed by the victims. A thief can gain a boost when performing this action in a very crowded situation like in the middle of a busy market, or in the darkness (combined with stealth).
 
-
-##### OPEN LOCKS
+##### Open locks
 
 Thieves are adept at lock picking. The chances of success depends on the sophistication of the lock.
-
 
 #### Maneuvers
 
 Thieves have access to special maneuvers in combat. Note that the action points are spent regardless of the action being successful or not. A thief character recovers 1 action point per combat round.
 
-
-<table>
-  <tr>
-   <td>EVENT
-   </td>
-   <td>MANEUVER
-   </td>
-   <td>COST
-   </td>
-  </tr>
-  <tr>
-   <td>Attack
-   </td>
-   <td>Hide in combat
-   </td>
-   <td>3
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Move silently in combat
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Knock opponent unconscious
-   </td>
-   <td>3
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Attack additional target
-   </td>
-   <td>5
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Attack same target again
-   </td>
-   <td>4
-   </td>
-  </tr>
-  <tr>
-   <td>Other
-   </td>
-   <td>Add boost to thief special skill
-   </td>
-   <td>1
-   </td>
-  </tr>
-</table>
-
-
+Event         | Maneuver                          | Cost
+--------------|-----------------------------------|------
+Attack        | Hide in combat                    | 3
+              | Move silently in combat           | 2
+              | Knock opponent unconscious        | 2
+              | Attack additional target          | 5
+Other         | Add boost to thief special skill  | 1
 
 #### Backstabbing
 
@@ -477,12 +351,11 @@ Thief characters have the skill to backstab enemies. To do so successfully, the 
 
 Once the backstabbing attack occurs, the thief is no longer hidden in combat.
 
-
 ### Warrior
 
 Masters of combat, slayers of beasts, defenders of the weak: warriors are unarguably fearsome in melee and missile combat. Whether they are soldiers, mercenaries, or simply seasoned adventurers, they are the ones who bring the cold steel to the party.
 
-They get 1 boost on Physical Attack (PA) due to their intensive training and experience, and also start with 1 additional life point. Warriors are the only class who can use all types of weapons, armor, and shields, including magical versions of these.
+They get 1 boost on Physical Action (PA) due to their intensive training and experience, and also start with 1 additional life point. Warriors are the only class who can use all types of weapons, armor, and shields, including magical versions of these.
 
 However, warriors are unable to use magical devices such as wands, rods, and scrolls.
 
@@ -502,7 +375,6 @@ These are suggested backgrounds for a warrior character:
 #### Combat maneuvers
 
 Warriors use their action point pool in combat for additional damage or special maneuvers. These maneuvers are used on attack and defense rolls. Note that the action points are spent regardless of the attack or defense being successful or not. The warrior can spend as many points as desired in a combat round, and they recover 1 action point per round.
-
 
 <table>
   <tr>
@@ -625,7 +497,7 @@ When parrying, the warrior can opt to try and disarm their opponent. On a succes
 
 These are the masters of the arcane arts. Through diligent study and commitment, they have learned to control the divine forces of magic that shape the world and have studied the anatomy and minds of creatures to understand how those powers are channeled through their physical bodies.
 
-They get a boost on Magical Action (MA), but start with 1 less life point due to their dedication to studies leading to a sedentary life. Wizards can only use one-handed weapons, simple missile weapons, and cannot wear any armor or use shields.
+They get a boost on Mental Action (MA), but start with 1 less life point due to their dedication to studies leading to a sedentary life. Wizards can only use one-handed weapons, simple missile weapons, and cannot wear any armor or use shields.
 
 
 #### Background
@@ -991,7 +863,7 @@ Spells have certain categories that reflect the source of their particular chara
 
 Each magic field has a direct link to a particular deity that is the source for that type of magic. Each field also has an opposite, or diametric, field as a manifestation of the universal balance around which life revolves.
 
-When presenting the spell effects, particularly those that are offensive in nature, the effect being explained occur only when the target fails their Magical Defense action roll.
+When presenting the spell effects, particularly those that are offensive in nature, the effect being explained occur only when the target fails their Mental Defense action roll.
 
 
 #### Change
@@ -1452,7 +1324,7 @@ When casting this spell upon an object, it reveals all the objects characteristi
 
 ###### Obvious Target
 
-When cast upon an object or entity, it causes them to attract physical attacks onto them by revealing their possible future movements to anyone within sight. For the duration of the spell, the target gets 1 drop added to all their PD rolls. Additional drops can be added to the effect at the rate of 1 drop per AP spent.
+When cast upon an object or entity, it causes them to attract attacks onto them by revealing their possible future movements to anyone within sight. For the duration of the spell, the target gets 1 drop added to all their PD rolls. Additional drops can be added to the effect at the rate of 1 drop per AP spent.
 
 
 ###### Understand Languages
@@ -1614,7 +1486,7 @@ For all the actions listed below, if the spellcaster’s roll is an Acme (meanin
 
 ###### Damage
 
-All spells cast for damage will deduct a hero point to their target on a successful attack, or a life point if the top die Magical Action attack result is a 6 and is greater than the target’s Magical Defense roll.
+All spells cast for damage will deduct a hero point to their target on a successful attack, or a life point if the top die Mental Action attack result is a 6 and is greater than the target’s Mental Defense roll.
 
 
 ###### Effect
@@ -1877,7 +1749,7 @@ An option when starting up is to let the players get whatever equipment the char
 
 ### Weapons
 
-There are two types of melee weapons available: one-handed and two-handed. A one-handed weapon adds 1 boost to the Physical Attack roll, and a two-handed weapon adds 2 boosts to Physical Attack rolls. Being that there are only two weapon types available, weapon choice within each type becomes more of a way to give color and style to a character.
+There are two types of melee weapons available: one-handed and two-handed. A one-handed weapon adds 1 boost to the Physical Action roll, and a two-handed weapon adds 2 boosts to Physical Action rolls. Being that there are only two weapon types available, weapon choice within each type becomes more of a way to give color and style to a character.
 
 The equipment list shows which weapons are single-handed, and which are two-handed. A few weapons can be both one-handed and two-handed, and the player can choose in which “mode” to use the weapon. However, to use a weapon as two-handed, the character cannot be wearing a shield.
 
@@ -1891,7 +1763,7 @@ Some character classes can wear armor to protect themselves from damage. Wearing
 
 #### Shields
 
-Using a shield gives you 1 boost to your Physical Defense and your Magical Defense. Not all classes can use a shield, and it can only be worn if the weapon used is a one-handed unit.
+Using a shield gives you 1 boost to your Physical Defense and your Mental Defense. Not all classes can use a shield, and it can only be worn if the weapon used is a one-handed unit.
 
 
 ### Adventuring gear
@@ -2402,31 +2274,31 @@ Characters and creatures do not have ability stats as in other RPGs. Capabilitie
 ##### MELEE & MISSILE WEAPON COMBAT
 
 
-###### Physical Attack (PA)
+###### Physical Action (PA)
 
 Covers all the skills involved in melee and missile combat: using a weapon properly, knowing its strengths and weaknesses, and how to use it most effectively.
 
-Physical Attack is used when a character or creature attempts to strike an opponent with a physical weapon, either melee or missile, or performs an unarmed attack. This also includes creature attacks made with claws, biting, or similar types of strikes.
+Physical Action is used when a character or creature attempts to strike an opponent with a physical weapon, either melee or missile, or performs an unarmed attack. This also includes creature attacks made with claws, biting, or similar types of strikes.
 
 
 ###### Physical Defense (PD)
 
 This action covers defensive battle knowledge such as parrying, knowing the limits and capabilities of weapons and using that to avoid damage, and strategic movement in combat to better defend themselves.
 
-The target of a Physical Attack performs this dice roll to compete against the attack roll and avoid receiving damage.
+The target of a Physical Action performs this dice roll to compete against the attack roll and avoid receiving damage.
 
 
 ##### SPELLS & MAGICAL DEVICES
 
 
-###### Magical Action (MA)
+###### Mental Action (MA)
 
 This action roll covers knowledge of the arcane and the mystical. It also delves into an entity’s ability to manage and handle magical powers, either by nature or by training. This combination of factors makes someone being able to handle magical powers either through magic spells or by using a magical device.
 
 This is the roll used by spellcasters to determine their success when utilizing spells. Any player characters using magical devices such as staves or wands also performs this dice roll.
 
 
-###### Magical Defense (MD)
+###### Mental Defense (MD)
 
 This is a mix of natural resilience and resistance to magic, and also knowledge on how to diminish or entirely avoid spells and their effects. This is the dice roll made by the target of a Magic Action attack to avoid receiving damage or any other spell effects. Note that if the target of a spell is a willing recipient of such magic, this roll is not needed.
 
@@ -2632,11 +2504,11 @@ It can be that one of the character’s skills will be useful in the combat roun
 
 ##### CAST A SPELL OR USE MAGIC DEVICE
 
-A player or creature can choose instead to use their turn to cast a spell or use a magical device like a scroll or staff. If the spell being cast is an attack or something else for which the spell’s target is not a voluntary target, the caster rolls the dice determined by their Magical Action, and the target rolls their Magical Defense dice. Damage (and its results including any other spell effects) are applied immediately after a successful attack.
+A player or creature can choose instead to use their turn to cast a spell or use a magical device like a scroll or staff. If the spell being cast is an attack or something else for which the spell’s target is not a voluntary target, the caster rolls the dice determined by their Mental Action, and the target rolls their Mental Defense dice. Damage (and its results including any other spell effects) are applied immediately after a successful attack.
 
 As with physical attacks, damage inflicted is counted as hero points, unless the target of the attack has run out of hero points, in which case it will be counted as a life point. If the attacker rolls a 6 for their top die, the attack will directly inflict a life point for damage.
 
-In the case of a spell that doesn’t affect a creature or object in particular, the caster must roll their Magical Action against a difficulty level from 1 to 5. This difficulty level is set by the GM and is based on the character’s current situation.
+In the case of a spell that doesn’t affect a creature or object in particular, the caster must roll their Mental Action against a difficulty level from 1 to 5. This difficulty level is set by the GM and is based on the character’s current situation.
 
 Due to the unstable and unreliable way magic works, the player must roll for success even for something as simple as illuminating an area with magical light.
 
@@ -2648,12 +2520,12 @@ A warrior or thief might choose to use one of the available combat maneuvers. Th
 
 ##### DEFEND
 
-A player or creature might choose to defend. When doing this, the entity cannot attack or cast spells, as its busy defending and trying not to be hit. However, they get 1 additional boost on all its physical and magical defense rolls. The defend action lasts for the whole combat round, and must be declared before the whole round begins (as opposed to declaring it on their turn).
+A player or creature might choose to defend. When doing this, the entity cannot attack or cast spells, as its busy defending and trying not to be hit. However, they get 1 additional boost on all its physical and mental defense rolls. The defend action lasts for the whole combat round, and must be declared before the whole round begins (as opposed to declaring it on their turn).
 
 
 ##### PHYSICAL ATTACK
 
-To perform a melee or missile strike against an opponent, the attacker needs to roll their Physical Attack dice, and the defender rolls their Physical Defense dice. If the attacker’s top die roll is greater than the defender’s top die, the attack is successful and damage is immediately applied.
+To perform a melee or missile strike against an opponent, the attacker needs to roll their Physical Action dice, and the defender rolls their Physical Defense dice. If the attacker’s top die roll is greater than the defender’s top die, the attack is successful and damage is immediately applied.
 
 Damage inflicted is counted as hero points, unless the target of the attack has run out of hero points, in which case it will become life point damage. If the attacker rolls a 6 for their top die, the attack will directly inflict a life point for damage regardless of the existing hero point count.
 
@@ -2839,12 +2711,12 @@ There are two types of weapons available for players, one-handed and two-handed.
 
 #### One-Handed
 
-These weapons add 1 boost to Physical Attack rolls. Examples of one-handed weapons are daggers, clubs, hand axes, longswords, slings, and morningstars.
+These weapons add 1 boost to Physical Action rolls. Examples of one-handed weapons are daggers, clubs, hand axes, longswords, slings, and morningstars.
 
 
 #### Two-handed
 
-These types of weapons add 2 boosts to Physical Attack rolls. Examples of these are: Two-handed swords, bastard swords, flails, great axes, all bows and crossbows.
+These types of weapons add 2 boosts to Physical Action rolls. Examples of these are: Two-handed swords, bastard swords, flails, great axes, all bows and crossbows.
 
 
 ### Armor
@@ -2854,7 +2726,7 @@ Most character classes can wear armor to protect themselves from damage. Armor a
 
 #### Shields
 
-There’s only one type of shield available. A shield adds 1 boost to all of the defender’s rolls, both Physical Defense and Magical Defense.
+There’s only one type of shield available. A shield adds 1 boost to all of the defender’s rolls, both Physical Defense and Mental Defense.
 
 
 ## MONSTERS
@@ -2906,7 +2778,7 @@ This section shows the statistics used in physical combat, in the form of how ma
 
 ##### ATTACK
 
-This is the number of dice rolled when performing a physical attack for the monster.
+This is the number of dice rolled when performing a physical action for the monster.
 
 
 ##### DEFENSE
@@ -2923,7 +2795,7 @@ If the number shown is a negative, drop the roll by the number indicated.  When 
 
 ##### ACTION
 
-This is the total number of dice that must be rolled when performing a magical action for the monster. It applies when using any spellcasting abilities or when manipulating a magical device.
+This is the total number of dice that must be rolled when performing a mental action for the monster. It applies when using any spellcasting abilities or when manipulating a magical device.
 
 
 ##### DEFENSE
@@ -3440,7 +3312,7 @@ Their bodies are not that good at controlling their temperature, so ogres enjoy 
 
 **Attacks**		Weapon.
 
-Orcs are, together with bugbears and dwarves, arguably the best melee warriors on the battlefield. Fierce, master of two-handed weapons, and a naturally high resistance to magic attacks makes confronting an orc something to be seriously considered.
+Orcs are, together with bugbears and dwarves, arguably the best melee warriors on the battlefield. Fierce, master of two-handed weapons, and a naturally high resistance to magical attacks makes confronting an orc something to be seriously considered.
 
 Their skin ranges from dark to light sepia-gray, with prominent body hair throughout in the same pattern as humans. Their mouths have two large, upward-protruding fangs which they like to adorn with gold rings and other pieces of jewelry.  Their eyes tend to be small and mostly black, although rarely you can find an individual with brown or even hazel eyes. Hair color is mostly shades of brown and black. They love braiding their hair in complicated patterns.
 
@@ -4296,7 +4168,7 @@ Magical items can have a permanent effect, or a limited set of uses, either on a
 
 ##### PERMANENT
 
-Things like magical armor, shields, or wearables usually have permanent effects attached to them. For example, a Leather Armor of Preservation that provides a permanent boost for Physical Defense rolls, or a Bow of Truth that receives a permanent boost to Physical Attack rolls performed with it.
+Things like magical armor, shields, or wearables usually have permanent effects attached to them. For example, a Leather Armor of Preservation that provides a permanent boost for Physical Defense rolls, or a Bow of Truth that receives a permanent boost to Physical Action rolls performed with it.
 
 
 ##### LIMITED
@@ -4418,7 +4290,7 @@ Here are a few examples of magical items that could be found in your adventures.
   <tr>
    <td><strong>Effect</strong>
    </td>
-   <td>This armor makes the wearer harder to hit by blurring and distorting the attacker’s sight when striking the wearer. It adds 1 drop to the attacker’s Physical Attack rolls.
+   <td>This armor makes the wearer harder to hit by blurring and distorting the attacker’s sight when striking the wearer. It adds 1 drop to the attacker’s Physical Action rolls.
    </td>
   </tr>
   <tr>
