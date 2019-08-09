@@ -1,39 +1,26 @@
 # Perilous Ventures
 
-
-## Medieval Fantasy Role-Playing Game
-
-
-## Rulebook
-
-Playtest Edition 0.7.2
+Medieval Fantasy Role-Playing Game
+Rulebook
+Playtest Edition 0.8.0
 
 ## Dedication
 
 This book couldn’t have been written without the help of some special people that have given me advice and ideas on improving this game.
 
 **Jonathan Buchanan**
-
 **Michael Lombardi**
-
 **Jon Boyles**
-
 **Ordoalaea Publishing**
-
 **Jason Martin**
 
 And I’m also grateful for the following people for the sheer inspiration, without them I probably would’ve never written this game, and the funny thing is that probably they have absolutely no idea about this!
 
 **Alberto Martínez**
-
 **Matthew Mercer**
-
 **Matt Colville**
-
 **Chris Perkins**
-
 **Mike Shea**
-
 **Chris Gonnerman**
 
 And also the rest of the #TTRPG community. To all of you, thank you so much! Also thanks to my patrons on Patreon for your support. It means a lot to me.
@@ -78,10 +65,10 @@ In this game, race and class options are limited, with clear and specific advant
 
 All you need to create your character is the following items:
 
-*   A few six-sided dice (d6), about four or five is a good amount.
-*   Blank ruled paper.
-*   Pencil and eraser.
-*   This book!
+* A few six-sided dice (d6), about four or five is a good amount.
+* Blank ruled paper.
+* Pencil and eraser.
+* This book!
 
 ### Character creation steps
 
@@ -121,14 +108,14 @@ There are four basic action dice rolls for determining combat results: two oppos
 
 The score of each one of these rolls is equal to how many dice you will be rolling when executing the action. All characters start with 1 six-sided die as their base roll. So write down the rolls (explained below), in a list format, and write “1” (your base roll for each action) beside each score, similar to this:
 
+Combat |
+-------|---
+PA     | 1
+PD     | 1
+MA     | 1
+MD     | 1
 
-        Combat
-        PA:	1
-        PD: 	1
-        MA:  	1
-        MD:  	1
-
-Here’s a quick explanation of these actions and how they are used in gameplay.
+Here’s a quick explanation of these action rolls and how they are used in gameplay.
 
 #### Physical Action (PA)
 
@@ -165,7 +152,6 @@ Death points are used when the character is unconscious and dying after receivin
 ## RACES
 
 Next step is to choose a race for our character. As standard option, there are four classic fantasy races available for player characters: dwarf, elf, halfling, and human. However, we have also included simple guidelines for creating a character for another race, if you wish to do so.
-
 
 ### Race modifiers
 
@@ -211,7 +197,6 @@ They are wanderers and nomads, and such, they have no permanent settlements in t
 
 Halflings are a creation of the mischievous god of Deceit, Ruco, and this is demonstrated by their tendency to be sneaky, tricky and furtive. Ruco created them together with Erda, god of Truth, which explains why halflings are friendly, open, brash, and blatantly honest.
 
-
 ### Human
 
 They are the most populous race, reliable, resilient and versatile, and this natural toughness grants humans 1 boost on Mental Defense (MD) rolls. Humans have no recommended background choices due to their diversity and for having spread to literally all corners of the world.
@@ -236,11 +221,11 @@ For example, if you wanted to play a goblin, using a halfling as the base would 
 
 As an option, you could try create a brand-new race not based on an existing one. In its most basic form, you will need to set up three elements for it:
 
-1. **Combat roll boost** - If desired, choose only one roll to boost: Physical Action, Physical Defense, Magical Attack or Mental Defense. \
+1. **Combat roll boost** - If desired, choose only one roll to boost: Physical Action, Physical Defense, Magical Attack or Mental Defense.
 
-2. **Default backgrounds** - This is where you can get much more freedom, but also can become a bit more involving. Think up a couple of backgrounds that could fit this new race. They do not even have to be in the background list presented in this book. \
+2. **Default backgrounds** - This is where you can get much more freedom, but also can become a bit more involving. Think up a couple of backgrounds that could fit this new race. They do not even have to be in the background list presented in this book.
 
-3. **Divine background - **Optionally, you can also define their divine background. Which deity or deities created this race? How does that influence their nature?
+3. **Divine background** - Optionally, you can also define their divine background. Which deity or deities created this race? How does that influence their nature?
 
 As always, regardless of which path you choose for your new race, make sure to discuss it with your Game Master! You have to agree upon it and confirm that it will fit the game style and world you will be playing in.
 
@@ -308,7 +293,6 @@ A thief character could have one of these suggested backgrounds:
 *   Forgery
 *   Smuggler
 
-
 #### Thief skills
 
 These actions are special to the thief, and no other class can perform these successfully, as they have no training on performing them. Utilizing a thief skill takes one full action from a combat round, although the character can move if applicable. Note that you do not need to spend action points to use these special skills when not engaged in battle.
@@ -359,12 +343,9 @@ They get 1 boost on Physical Action (PA) due to their intensive training and exp
 
 However, warriors are unable to use magical devices such as wands, rods, and scrolls.
 
-
 #### Background
 
 These are suggested backgrounds for a warrior character:
-
-
 
 *   Soldier
 *   Mercenary
@@ -376,122 +357,48 @@ These are suggested backgrounds for a warrior character:
 
 Warriors use their action point pool in combat for additional damage or special maneuvers. These maneuvers are used on attack and defense rolls. Note that the action points are spent regardless of the attack or defense being successful or not. The warrior can spend as many points as desired in a combat round, and they recover 1 action point per round.
 
-<table>
-  <tr>
-   <td>EVENT
-   </td>
-   <td>MANEUVER
-   </td>
-   <td>COST
-   </td>
-  </tr>
-  <tr>
-   <td>Attack
-   </td>
-   <td>Additional attack at same opponent
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Attack secondary target
-   </td>
-   <td>4
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Drop opponent’s Physical Defense, per drop
-   </td>
-   <td>3
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Disarm opponent, when applicable
-   </td>
-   <td>4
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Knock opponent unconscious
-   </td>
-   <td>4
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Push opponent out of engaged range
-   </td>
-   <td>3
-   </td>
-  </tr>
-  <tr>
-   <td>Defense
-   </td>
-   <td>Parry
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Disarm opponent on parry
-   </td>
-   <td>4
-   </td>
-  </tr>
-</table>
+Event         | Maneuver                                   | Cost
+--------------|--------------------------------------------|------
+Attack        | Additional attack at same opponent         | 2
+              | Attack secondary target                    | 4
+              | Drop opponent’s Physical Defense, per drop | 3
+              | Disarm opponent (when applicable)          | 2
+              | Knock opponent unconscious                 | 4
+              | Push opponent out of engaged range         | 3
+Defense       | Parry                                      | 2
+              | Disarm opponent on parry (when applicable) | 4
 
-
-
-##### ADDITIONAL ATTACK AT SAME OPPONENT
+##### Additional attack at same opponent
 
 The warrior executes additional attacks to his current opponent.
 
-
-##### ATTACK SECONDARY TARGET
+##### Attack secondary target
 
 The warrior switches to attack a secondary target within range in the same round. Note that the attack must be made with the same type of weapon; the warrior cannot switch between a sword and a longbow, for example.
 
-
-##### DROP OPPONENT’S PHYSICAL DEFENSE
+##### Drop opponent's Physical Defense
 
 The warrior executes feints, fancy footwork, and other deceiving moves to distract their opponent, causing a drop on the target’s Physical Defense score.
 
-
-##### DISARM OPPONENT
+##### Disarm opponent
 
 When applicable, the warrior performs a move to cause their opponent to drop their weapon immediately. This maneuver does not inflict damage on the victim.
 
-
-##### KNOCK OPPONENT UNCONSCIOUS
+##### Knock opponent unconscious
 
 On a successful roll, the warrior’s opponent is knocked unconscious but does not receive damage. The victim is under the _unconscious _condition and all the regular rules apply.
 
-
-##### PUSH OPPONENT OUT OF ENGAGED RANGE
+##### Push opponent out of engaged range
 
 The warrior can only perform this move with a melee weapon. By applying force to their attack, the warrior can make the opponent move back out of engaged distance (ZZ).
 
-
-##### PARRY
+##### Parry
 
 By using defensive maneuvering, controlled parrying and evasive movements, the warrior can increase their physical defense by 1 boost.
 
-
-##### DISARM OPPONENT ON PARRY
+##### Disarm opponent on parry
 
 When parrying, the warrior can opt to try and disarm their opponent. On a successful Physical Defense roll, the opponent will be forced to drop their weapon, if applicable.
-
 
 ### Wizard
 
@@ -499,18 +406,14 @@ These are the masters of the arcane arts. Through diligent study and commitment,
 
 They get a boost on Mental Action (MA), but start with 1 less life point due to their dedication to studies leading to a sedentary life. Wizards can only use one-handed weapons, simple missile weapons, and cannot wear any armor or use shields.
 
-
 #### Background
 
 These are some suggested backgrounds for wizards:
-
-
 
 *   Alchemist
 *   Arcanist
 *   Charlatan
 *   Seer
-
 
 #### Magic fields
 
@@ -523,313 +426,38 @@ Spending 1 mastery level on a field makes the wizard an Initiate of that magic f
 
 Like priests, wizards do not need to have spell memorized. Base cost is presented per Field Mastery level. Wizards recover 1 AP per combat round regardless of the mastery level.
 
-**MASTERY LEVEL			BASE COST**
-
-Initiate				        3
-
-Veteran				        2
-
-Master				        1
+Mastery Level | Base Cost
+--------------|----------
+Initiate      | 3
+Veteran       | 2
+Master        | 1
 
 For details on how magic works, please consult the _Magic & Spells _section.
-
-
-##
-
 
 ## CLASS/RACE ACTION ROLLS
 
 To ease basic character creation, here’s a matrix showing the different combat rolls based on class and race. This table also allows direct comparison between the different race and class combinations, allowing you to choose the one closer to what you want in your character.
 
+Class   | Roll | Elf | Dwarf | Halfling | Human
+--------|------|-----|-------|----------|------
+Priest  | PA   | 1   | 2     | 1        | 1
+        | PD   | 1   | 1     | 2        | 1
+        | MA   | 2   | 1     | 1        | 1
+        | MD   | 2   | 2     | 2        | 3
+Thief   | PA   | 1   | 2     | 1        | 1
+        | PD   | 2   | 2     | 3        | 2
+        | MA   | 2   | 1     | 1        | 1
+        | MD   | 1   | 1     | 1        | 2
+Warrior | PA   | 2   | 3     | 2        | 2
+        | PD   | 1   | 1     | 2        | 1
+        | MA   | 2   | 1     | 1        | 1
+        | MD   | 1   | 1     | 1        | 2
+Wizard  | PA   | 1   | 2     | 1        | 1
+        | PD   | 1   | 1     | 2        | 1
+        | MA   | 3   | 1     | 2        | 2
+        | MD   | 1   | 1     | 1        | 2
 
-<table>
-  <tr>
-   <td><strong>CLASS</strong>
-   </td>
-   <td><strong>ROLL</strong>
-   </td>
-   <td><strong>ELF</strong>
-   </td>
-   <td><strong>DWARF</strong>
-   </td>
-   <td><strong>HALFLING</strong>
-   </td>
-   <td><strong>HUMAN</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Priest</strong>
-   </td>
-   <td>PA
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>PD
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>MA
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>MD
-   </td>
-   <td>2
-   </td>
-   <td>2
-   </td>
-   <td>2
-   </td>
-   <td>3
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Thief</strong>
-   </td>
-   <td>PA
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>PD
-   </td>
-   <td>2
-   </td>
-   <td>2
-   </td>
-   <td>3
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>MA
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>MD
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Warrior</strong>
-   </td>
-   <td>PA
-   </td>
-   <td>2
-   </td>
-   <td>3
-   </td>
-   <td>2
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>PD
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>MA
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>MD
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Wizard</strong>
-   </td>
-   <td>PA
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>PD
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>MA
-   </td>
-   <td>3
-   </td>
-   <td>2
-   </td>
-   <td>2
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>MD
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-  </tr>
-</table>
-
-
-
-
-
-## MAGIC & SPELLS
+## Magic & spells
 
 Perilous Ventures uses an action point system to manage magic. Action points, as the name implies, allow your character to perform certain actions by spending them in combat situations.
 
@@ -841,21 +469,17 @@ When a spell is cast, no other action can be performed, not even moving, as cast
 
 Magic works as a sudden opening of the divine gates of power intrinsic in all creatures. Sustaining the flow of that magical power for extended periods would kill any creature, no matter how powerful. Due to this, all magic spells have very short duration, relatively speaking, with only the most powerful creatures and a few select individuals being able to cast spells that last more than half a minute.
 
-
 ### Spellcasters relationship with magic
 
 Magic has deep links to the deities that rule over the known universe. They use creatures of the world as a channel to extend their power and domain throughout the planes of existence. Each principal deity is directly linked to a magic field.
-
 
 #### Priests
 
 Priests are chosen as heralds of a deity, and as such are their direct representatives on the material world, focusing all their magical casting in the single field that their deity represents and controls.
 
-
 #### Wizards
 
 Wizards study and channel magic by tapping and utilizing the life energy conduits used by deities that allow creatures the use of magic and cast spells. This allows them to dabble in diverse magic fields, and why they have magic field mastery levels available to them, as it is dependent on where they’ve placed their efforts as they study the arcane.
-
 
 ### Magic fields
 
@@ -865,7 +489,6 @@ Each magic field has a direct link to a particular deity that is the source for 
 
 When presenting the spell effects, particularly those that are offensive in nature, the effect being explained occur only when the target fails their Mental Defense action roll.
 
-
 #### Change
 
 Ambius is the god of transition, change and evolution. His holy symbol is a black and white five-pointed star with angled points, representing movement and change. Ambius’ physical manifestation is that of an elder, male human tinkerer with endless pouches and tools, and six-fingered hands.
@@ -874,64 +497,51 @@ The magic that Ambius grants allows the spellcaster to alter the physical proper
 
 Its diametric magic field is Preservation.
 
-
-##### LIMITATIONS
+##### Limitations
 
 The alterations performed through Change magic that go against the natural state of things are not permanent; they only last as long as the spell duration takes place. For example, if a spell reduces the size of a creature, it will come back to its normal size after the spell’s effect ends. This magic only is able to change existing properties of their target and not add new ones.
 
-
-##### SPELLS
-
+##### Spells
 
 ###### Flip
 
 The spell causes the target to flip position as chosen by the spellcaster: upside down, sideways, prone, or facing in the opposite direction.
 
-
 ###### Hold Movement
 
 When successful, this spell prevents the target from moving, whether a creature or an object. In the case of a creature, they will be under the Paralyzed condition, totally aware but unable to move for the duration of the spell.
-
 
 ###### Hold Portal
 
 This spell is usually cast on a door, gate, or other type of portal closure system. When successful, it prevents the portal from being open for the duration of the spell.
 
-
 ###### Increase Speed
 
 This spell increases the movement speed of the spell’s target(s). This includes movement and action speed. For every AP spent on the spell’s effect, movement will be increased by 1 zone, and add 1 boost to every PD roll through the duration of the spell.
-
 
 ###### Open Portal
 
 This spell will force open any type of gate, door, or portcullis. Its effect is immediate upon success and the portal will remain open until it is closed by normal means or by a spell like _hold portal_.
 
-
 ###### Petrify
 
 This spell causes the target, whether a creature or object, to be turned to stone for the duration of the spell. In the case of a living being, they are not dead, but rather in a suspended, limbo-like condition, meaning that they will have no memories of anything that happens while they are in this state. Any damage received in stone form will affect the spell’s target when they return to their normal state.
-
 
 ###### Reduce Size
 
 This spell reduces the size of the target object or creature by half. This has the effect of boosting the PD of the target by 1 per every AP spent due to the smaller size, but will also simultaneously add 1 drop to the target’s PA. The spell can also focus a part of the target and not the whole entity.
 
-
 ###### Teleport
 
 The spell instantly changes the location of the spellcaster or a creature or object to a base distance of 1 zone. Additional distance is determined by the amount of effect AP spent in the spell, at the rate of 1 additional zone per AP.
-
 
 ###### Transform Water
 
 This spell allows the caster to transform water between their three normal states of matter: liquid, gaseous, and solid. The base AP cost of the spell will cover a maximum of 1 cubic zone of matter; more quantity costs 1 AP per additional zone.
 
-
 ###### Tunnel
 
 This spell enables the caster to open a temporary tunnel through any material. The depth of the tunnel is 1 zone by default, with extra zones of depth applied for every AP spent in its effect.
-
 
 #### Death
 
@@ -939,59 +549,47 @@ Muer is the goddess of death and despair. Her symbol is an orange and black circ
 
 Using this type of magic, a spellcaster can animate and control corpses as undead, speak with the dead, poison creatures, and cause putrefaction and sickness.
 
+##### Limitations
 
-##### LIMITATIONS
+The spellcaster wielding this magic cannot cause permanent direct death on a victim; they can only cause damage and effects that might kill an opponent.
 
-The spellcaster wielding this magic cannot cause immediate death on a victim; they can only cause damage and effects that might kill an opponent.
-
-
-##### SPELLS
-
+##### Spells
 
 ###### Banish Soul
 
 For the duration of the spell, the target’s soul is sent to the domain of Muer. Their body will fall to the ground lifeless; in fact, for all purposes, the creature is dead until the soul returns back to their body. Due to the traumatic effect of the soul leaving the body, on a roll of 6 the victim will take one point of damage when returning.
 
-
 ###### Control Undead
 
 This spell allows the caster to control undead beings that are within the casting area at the time it is cast. If successful, they will follow all the commands given by the spellcaster for the duration of the spell. Control over undead creatures lasts only as long as the spell is in effect; once the spell ends, the undead creature will keep moving about on its own will.
-
 
 ###### Imbue Fear
 
 By casting this spell, the caster awakens the fear of death in any creature, which is under the afraid condition for the duration of the spell.
 
-
 ###### Inflict Sickness
 
 This spell inflicts an ailment chosen by the spellcaster against their victim(s). Upon success, the victim will be under the incapacitated condition for the duration of the spell.
-
 
 ###### Poison Cloud
 
 This spell creates a cloud of poisonous gas that hover over an area. The location of the cloud, its size, and duration are determined by the number of AP spent. Any creature inside the cloud that is successfully affected will fall under the poisoned condition.
 
-
 ###### Raise Undead
 
 This spell allows the caster to raise one or more dead creatures as undead. The type of undead depends on the condition of the corpse. Skeletons will raise and function as such, while corpses that have some or all or their flesh (regardless of the state) will be raised as zombies. Raising the undead creatures do not automatically grant control of them.
-
 
 ###### Speak with Dead
 
 By casting the spell, the caster can talk to any dead creature that might understand spoken language. They can converse with the corpse for the duration of the spell.
 
-
 ###### Spoil Sustenance
 
 When cast on an edible item, it will become poisoned. A creature that eats or drinks the product by failing their MD roll will be under the poisoned condition.
 
-
 ###### System Shock
 
 When this spell is cast on a creature, it causes a brief pause to the victim’s life support mechanisms; heart, lungs, and brain are stopped for a split second. On a successful spell, the victim will be under the Incapacitated condition for the duration of the spell.
-
 
 #### Deceit
 
@@ -1001,34 +599,27 @@ Ruco’s magic temporarily tricks the minds and senses of others. It can also af
 
 The diametric of Deceit magic is Truth.
 
-
-##### LIMITATIONS
+##### Limitations
 
 None of the effects performed with Deceit magic are permanent. Trying to imbue a completely unnatural thought into a creature, such as killing themselves or a close relative, will have no effect on the target.
 
-
-##### SPELLS
-
+##### Spells
 
 ###### Appear Invisible
 
 When this spell is cast on a creature, it will make whatever is chosen by the caster to appear invisible, including themselves. This does not mean that the object or creature chosen is invisible, but rather that the target(s) of the spell cannot see the object being hidden by the spell.
 
-
 ###### Deafness
 
 When cast upon a creature, it will cause the target to not be able to hear any sounds for the duration of the spell.
-
 
 ###### Disguise
 
 For the duration of the spell, the caster can make themself or another creature look totally different, based on the imagination and images in the mind of the caster.
 
-
 ###### Fool Senses
 
 For the duration of the spell, the caster can change any one of the target’s senses to perceive something different than reality; a foul smell, darkness, a bitter taste in the mouth, a bitter cold.
-
 
 ###### Friend
 
@@ -1039,31 +630,25 @@ The target of the spell will think that the spellcaster is their friend. Therefo
 
 The spellcaster can create a complete illusion with visual, auditory, and olfactory aspects. The size and duration of this illusion is dependent on the amount of action AP spent in it.
 
-
 ###### Invisibility
 
 The spellcaster makes themself or another object or creature invisible for the duration of the spell. Not that, unlike _Appear Invisible_, where it affects a select group of targets  in this case the target of the spell is actually invisible.
-
 
 ###### Nightmares
 
 This spell allows the caster to cause one or more creatures to see their worst fears and nightmares in their minds. Under these circumstances, the victims will be under the panic condition, unable to act coherently and will try to run away to escape the visions in their head.
 
-
 ###### Produce Sounds
 
 The spellcaster produces a sound, any sound, to come from themselves or from another area. The sound can also be made to last a certain amount of time, at the rate of 1 effect AP per every 5 seconds.
-
 
 ###### Silent Sphere
 
 This spell creates an invisible sphere that suppresses all kinds of sounds in their totality, even from magical sources.
 
-
 ###### Ventriloquism
 
 The spellcaster can make his voice appear to sound from another part of the area for the duration of the spell.
-
 
 #### Element
 
@@ -1071,59 +656,47 @@ Some say Erra created the physical parts of the world as it is known, and still 
 
 With this magic field, the spellcaster can channel and manipulate the elements and energies of the universe to cause a certain effect, like producing fire, electricity, control water, or create a magnetic field. The diametric of Element is Ethereal magic.
 
-
-##### LIMITATIONS
+##### Limitations
 
 Being able to control these elements does not grant invulnerability to them; for example, the spellcaster can be burned as easily as anyone else by their own fire if they’re not careful.
 
-
-##### SPELLS
-
+##### Spells
 
 ###### Earthen Wall
 
 With this spell, the caster raises a rock and dirt solid wall from the ground to use as a barrier against attacks, or to deter the advance of enemies.
 
-
 ###### Fireball
 
 A huge fire explosion covers a sphere defined by the spellcaster, causing damage to all targets within it on a failed MD roll. If the attack roll is a 6, the targets will be on fire until it is put out. If the fireball lasts for more than one round, the targets that have failed their defense roll and still within its coverage area will receive an additional point of damage per round.
-
 
 ###### Firestream
 
 The spellcaster shoots a stream of fire from their hands, striking a target. The victim receives damage from this attack, plus if applicable, will be also set on fire until it is put out.
 
-
 ###### Gale Push
 
 An extremely strong gust of wind is generated by the spellcaster, solidly hitting a creature or object. The target will be pushed a base distance of 1 zone. The target can be pushed and additional distance at the rate of 1 zone per AP spent. On a successful roll of 6 the target will also receive damage.
-
 
 ###### Hailstorm
 
 The spellcaster raises their arms causing an intense hail storm to strike their opponents. One a failed defense roll, the target(s) will receive one point of damage per round that they remain within the area of the storm.
 
-
 ###### Light
 
 The spellcaster is able to produce light of whatever intensity it is desired to be. The power and area it covers is determined by the amount of AP spent on its action effect.
-
 
 ###### Lightning Strike
 
 On a successful attack, the target of this spell is hit with a lightning bolt that comes from the caster’s hands, receiving immediate damage. On a roll of 6 the target will catch fire due to the high temperature of the electric bolt.
 
-
 ###### Magnetic Vortex
 
 A central point chosen by the spellcaster becomes a highly-powered magnetic field that attracts anything that is made of a ferromagnetic material like steel and iron. Someone wearing metal armor will be under the paralysis condition, and will not be able to move away from this vortex or attack for the duration of the spell.
 
-
 ###### Tidal Wave
 
 A forceful wave of water generates from the caster’s hands and slams on a chosen target, causing immediate damage.
-
 
 #### Ethereal
 
@@ -1133,54 +706,43 @@ His magic, when granted to material creatures, allows them to control the invisi
 
 Wielders of this magic can have powers such as telekinesis, being able to invoke and control spirits (which can do things for them, including fighting and defending), and form ghostly force fields and barriers.
 
-
-##### LIMITATIONS
+##### Limitations
 
 The influence over any spiritual creatures invoked through this magic will go away as soon as the spell’s effect ends.
 
-
-##### SPELLS
-
+##### Spells
 
 ###### Empyreal Blade
 
 A wonderful weapon made of sheer ethereal forces appears in the hands of the spellcaster or a target for the duration of the spell. This weapon cannot be lost or dropped unless the spellcaster recalls it. The caster can choose what kind of weapon it will be (one-handed or two-handed), and the usage and damage will be as established by the weapon type.
 
-
 ###### Escaping Soul
 
 The spellcaster can cause themselves or a target creature to have the soul escape their body for the duration of the spell. In this amount of time, their body will fall to the ground lifeless, and the soul will be able to roam about, allowing them to go through walls and wander around the area harmlessly.
-
 
 ###### Ethereal Grasp
 
 The spellcaster invokes forces from the spiritual plane to grasp and prevent a creature or object from moving for the duration of the spell.
 
-
 ###### Floating Platform
 
 This spell creates a shimmering platform of ethereal power that serves as a platform for carrying objects or people. The amount of weight it can support is basically unlimited, but items placed on the platform must be balanced or they will fall down just like if they were placed on a regular flat surface.
-
 
 ###### Levitate
 
 This allows the caster, a creature, or an object to float above the ground as they are being held by invisible spiritual entities. This spell can also be used to avoid hitting the ground in the case of a fall from a great height, thus not receiving any damage.
 
-
 ###### Spirit Helper
 
 When cast, this spell will cause a ghostly being to appear and help the spellcaster in anything they request, for the duration of the spell. They can invoke more helpers are the rate of 1 AP per helper. For combat purposes, these spiritual creatures are considered as ghosts.
-
 
 ###### Spiritual Shield
 
 Entities from the spiritual world revolve around the caster or a chosen target, protecting them from receiving damage. On its most basic form the spell provides 1 boost to the PD and MD rolls of the target for the duration of the spell. More protection can be applied at the rate of 1 boost per action AP spent.
 
-
 ###### Telekinesis
 
 Through ethereal forces, the spellcaster can move objects for the duration of the spell.
-
 
 #### Life
 
@@ -1190,102 +752,81 @@ A wielder of Life magic can heal damage and sickness, provide resistance against
 
 Its diametric magic is Death.
 
-
-##### LIMITATIONS
+##### Limitations
 
 Life magic can heal and bring back an entity from the brink of death, but cannot resuscitate a creature; once a living being dies, it is final.
 
-
-##### SPELLS
-
+##### Spells
 
 ###### Destroy Undead
 
 Through this spell, the caster can destroy one or more undead creatures instantly on a successful attack. The undead creature will drop to the ground and will disintegrate quickly, leaving behind anything that it might have been wearing or carrying.
 
-
 ###### Divine Strike
 
 A floating, glowing weapon appears out of thin air, and it strikes one opponent for damage.
-
 
 ###### Healing
 
 Casting this spell on a wounded creature or on themselves heals 1 point of damage. As stated in the rules, life point damage is healed first, then hero point damage.
 
-
 ###### Hero’s Inspiration
 
 Through this spell, the caster grants inspiration and power to the target(s), as long as they are defending themselves or others. The recipient gains 1 boost on PA and MA rolls for the duration of the spell.
-
 
 ###### Remove Poison
 
 This spell allows the caster to remove poison from any food, liquid, or a person.
 
-
 ###### Restore Health
 
 The spellcaster can remove any illness or other unnatural condition by casting this spell on another entity or themselves.
-
 
 ###### Tangleweeds
 
 By casting this spell, strong vines sprout out of the bare earth, ensnaring and grappling its victims within the spells area of effect and for the duration of the spell. An entity trapped by these vines has to make a PD roll to be freed, against a PA of 2 for the tangleweeds.
 
-
 #### Preservation
 
 Aja is the goddess of preservation and protection. Her holy symbol is a gold and green shield, and her physical depiction is of a fully armored dwarven woman wielding two large spiked shields. Preservation magic deals with protection, shielding, stabilization and restoration of creatures, objects, or the environment, and with keeping things as intended. The diametric magic of Preservation is Change.
 
-
-##### LIMITATIONS
+##### Limitations
 
 Any shields created by this magic only last for the duration of the spell.
 
-
-##### SPELLS
-
+##### Spells
 
 ###### Negate Damage
 
 When this spell is cast over an entity, it provides invisible protection from physical and magical attacks. The recipient of the spell will add 1 boost to their defense action rolls for the duration of the spell. The spellcaster must spend 1 AP for each additional boost beyond 1 that the spellcaster wishes to add to the effect.
 
-
 ###### Banish Entity
 
 This spell causes any entity that does not belong to the material plane to be sent back to their place of origin.
-
 
 ###### Ensnare
 
 For the duration of the spell, or until it’s triggered, the caster places an invisible trap in an area. If an entity crosses that area and fails their MD roll, they will be ensnared and trapped for the remaining duration of the spell, under the incapacitated condition.
 
-
 ###### Leave No Trace
 
 This spell allows the spellcaster to erase any traces of any creature’s passing, including the caster and their companions. The location is restored to its condition before any clues, traces, or tracks were made, including visual and olfactory changes.
-
 
 ###### Mend
 
 When casting this spell on an object, it repairs the item to its original, undamaged condition.
 
-
 ###### Purify Sustenance
 
 This spell allows the caster to take back any food or water to an untainted condition, ready for consumption by any living being.
-
 
 ###### Restore Naturality
 
 This spell removes any unnatural condition from a victim, such as magical paralyzation, magically-induced illness, poisoning, or any other condition that has been caused through magical intervention. Natural illness cannot be removed with this spell.
 
-
 ###### Send Back
 
 This spell causes any physical entity that has been brought to a location via magical effects to be returned immediately to its original location. The spellcaster doesn’t need to see the original location for the spell to be effective.
-
 
 #### Truth
 
@@ -1293,49 +834,39 @@ Erda is the seeker of the truths of the universe, even though he was a part of t
 
 The spells from this magic field reveal information like glimpses of the future, finding hidden objects, or see through the veil of falsehood. Deceit is the diametric of this magic field.
 
-
-##### LIMITATIONS
+##### Limitations
 
 Divinations are not necessarily accurate, as the future is relatively unpredictable, shifting and changing as events occur in the present.
 
-
-##### SPELLS
-
+##### Spells
 
 ###### Detect Magic
 
 By casting this spell, the caster can see and detect magical sources like magical devices, magic-imbued buildings and items, and those who are able to manipulate magic.
 
-
 ###### Find Object
 
 This spell allows the caster to find any object they might know about wither by having seen it, or by description. The spellcaster must have a clear image of the subject, or have been in contact with it. If the spellcaster only knows the object by description, they will have 1 drop applied to their MA roll.
-
 
 ###### Ignore Illusion
 
 This spell allows the caster or a recipient to see through any magical illusions that might have been placed upon an object or an entity.
 
-
 ###### Know Object
 
 When casting this spell upon an object, it reveals all the objects characteristics and features to the spellcaster. A sentient or magical object will not automatically reveal its origins, meaning the GM needs to roll 1d6 as MD against the spell when cast on these types of devices. If the spell fails, it can be cast again, but every time it is retried, the object’s MD is boosted by 1.
-
 
 ###### Obvious Target
 
 When cast upon an object or entity, it causes them to attract attacks onto them by revealing their possible future movements to anyone within sight. For the duration of the spell, the target gets 1 drop added to all their PD rolls. Additional drops can be added to the effect at the rate of 1 drop per AP spent.
 
-
 ###### Understand Languages
 
 This spell allows the caster to understand any language, heard or written, for the duration of the spell.
 
-
 ###### Visionary Strike
 
 When this spell is cast on someone fighting with weapons, it provides a momentary glimpse of the target’s movements in the future, allowing for an increased chance to hit the target. This spell adds 1 boost to the target’s PA roll. Additional boosts can be added at the rate of 1 boost for 1 AP spent.
-
 
 ###### Word of Auspice
 
@@ -1343,201 +874,87 @@ The spellcaster gets a blurry vision of the future. The end result of that visio
 
 The divination powers offered by this spell are not completely accurate, as the future fluctuates and changes; therefore the farther in to the future that the spellcaster views, the more blurry and uncertain it will be.
 
-
 ### Building a spell
 
 To build a spell and figure out the total action point cost required to cast it, you start off from the base action point cost for the character class. Details of those costs are presented in each class description, and in the summary table at the end of this section.
-
 
 #### Using verb & noun combinations
 
 Something that might help in building spells is to think of them in terms of basic verb & noun combinations. With this system, you have an action or effect, and the recipient of that verb. Here are some simple examples.
 
-
-<table>
-  <tr>
-   <td><strong>MAGIC FIELD</strong>
-   </td>
-   <td><strong>VERB</strong>
-   </td>
-   <td><strong>NOUN</strong>
-   </td>
-   <td><strong>EFFECT</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Change</strong>
-   </td>
-   <td>Increase
-   </td>
-   <td>Speed
-   </td>
-   <td>Makes a creature or moving object to move faster per the spell’s duration.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Death</strong>
-   </td>
-   <td>Raise
-   </td>
-   <td>Dead
-   </td>
-   <td>Raise a creature from death and control it as a zombie.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Deceit</strong>
-   </td>
-   <td>Appear
-   </td>
-   <td>Invisible
-   </td>
-   <td>The spellcaster can make themselves, an object, or another creature to seem invisible to the targets of the spell for its duration.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Element</strong>
-   </td>
-   <td>Shoot
-   </td>
-   <td>Fire
-   </td>
-   <td>Flames spring from the spellcaster’s hands, hitting a creature or object for damage.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Ethereal</strong>
-   </td>
-   <td>Invoke
-   </td>
-   <td>Spirit
-   </td>
-   <td>Invoke a spiritual creature that will follow the caster’s commands without fail.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Life</strong>
-   </td>
-   <td>Heal
-   </td>
-   <td>Wound
-   </td>
-   <td>The spellcaster heals damage from a willing creature.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Preservation</strong>
-   </td>
-   <td>Raise
-   </td>
-   <td>Shield
-   </td>
-   <td>An invisible protection shield is created, making it difficult for whoever is behind the shield to receive physical damage.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Truth</strong>
-   </td>
-   <td>Find
-   </td>
-   <td>Object
-   </td>
-   <td>Find an object of which the spellcaster knows about either by having seen it, or being in contact with it.
-   </td>
-  </tr>
-</table>
-
-
+Magic Field  | Verb       | Nun       | Effect
+-------------|------------|-----------|-----------------------------------------------------------
+Change       | Increase   | Speed     | Makes a creature or moving object faster.
+Death        | Raise      | Dead      | Raise a creature as an undead entity.
+Deceit       | Appear     | Invisible | Make themselves appear invisible to the spell's targets.
+Element      | Shoot      | Fire      | Flames spring from the caster's hands against a target.
+Life         | Heal       | Wounds    | Heals damage to a creature.
+Preservation | Raise      | Shield    | An invisible protection shield is raised around a target.
+Truth        | Find       | Object    | Find an object of which the spellcaster knows about.
 
 #### Spell aspects
 
 Spells are defined by elements known as aspects. Each of these aspects represents the basic characteristics of a spell.
 
-
-##### AREA
+##### Area
 
 This defines the space that the spell’s effect will cover. There are two types of spell areas.
-
 
 ###### Single target
 
 This spell’s affects a single creature or object. A single target spell does not cost any additional AP.
 
-
 ###### Zone
 
 The spell’s area of effect, shaped like a sphere and centered at the point selected by the spell caster, taking up height, depth, and width. As the name implies, the size of this sphere of effect is measured in zones, with one zone being around 25 feet. Adding zones costs +1 AP per zone.
 
-
-##### RANGE
+##### Range
 
 This determines how far away from the caster the spell will take effect. Range is also measured in zones. Spells cast at a distance of 1 zone or less have no additional cost. Any distance beyond 1 zone has a cost of +1 AP per zone.
 
-
-##### DURATION
+##### Duration
 
 A spell usually has an instantaneous effect. If the spellcaster desires to have the spell last for a longer time period, they must spend +1 AP for each additional combat round that the spell will be active.
 
+##### Action
 
-##### ACTION
-
-For all the actions listed below, if the spellcaster’s roll is an Acme (meaning that the roll’s top die is a 6), there might be an additional effect for the spell.
-
+For all the actions listed below, if the spellcaster’s top roll is a 6, there might be an additional effect for the spell.
 
 ###### Damage
 
 All spells cast for damage will deduct a hero point to their target on a successful attack, or a life point if the top die Mental Action attack result is a 6 and is greater than the target’s Mental Defense roll.
 
-
 ###### Effect
 
 Instead of damage, a spell can have a special effect, such as poisoning, an illusion, causing the target to sleep, or setting an object on fire. The effect of the spell is based on the magic field that the spell belongs to.
-
 
 ###### Altering game mechanic elements
 
 All effects that increase or decrease a defined gaming element, for example: movement zones, dice roll boosts, or additional actions in a combat round, will only affect said element by a count of 1 in its base cost. For example, if a spell increases the speed of a target, it will only increase that speed by 1 zone. Any additional increases (or penalties) have a cost of 1 AP per unit.
 
-
 #### Summary
 
 This table summarizes the action point costs for building and modifying spells.
 
-**SPELL ASPECT	DESCRIPTION			AP COST**
+Spell Aspect | Description                  | AP Cost
+-------------|------------------------------|--------
+Base Cost    | Priest                       | 2
+             | Wizard, Initiate             | 3
+             | Wizard, Veteran              | 2
+             | Wizard, Master               | 1
+Area         | Single target                | 0
+             | Zone sphere, per zone        | 1
+Range        | Touch/melee (<= 5')          | 0
+             | 1+ zones, per zone           | 1
+Duration     | Instantaneous/1 combat round | 0
+             | 2+ combat rounds, per round  | 1
+Action       | Damage (always 1 point)      | 0
+             | Effect, base effect unit     | 0
+             | Effect, per additional unit  | 1
 
-**Base cost**	Priest				2
+_NOTE: For action effect AP, units refer to zones, size, or any other type of game mechanic elements increase or decrease._
 
-		Wizard, Initiate			3
-
-		Wizard, Veteran			2
-
-		Wizard, Master			1
-
-**Area**		Single target			0
-
-		Zone sphere			+1 per zone
-
-**Range**		Touch/melee (less or equal to 5’)	0
-
-		1 or more zones			+1 per zone
-
-**Duration**	Instantaneous/1 combat round	0
-
-		2 or more combat rounds		+1 per round
-
-**Action**		Damage (always 1 point)		0
-
-		Effect				0 for base unit,
-
-
-                    +1 per additional unit
-
-NOTE: For action effect AP, units refer to zones, size, or any other type of game mechanic elements increase or decrease.
-
-
-
-
-## BACKGROUNDS
+## Backgrounds
 
 A character’s background selection is important, as they determine the character’s ability to excel in certain skill areas, and also help define the character as a unique person in the world. Backgrounds also can provide backstory ideas for your character that can be brought into the game at some point.
 
@@ -1547,15 +964,11 @@ A character who tries to perform an action tied to their background will have a 
 
 The number of dice that need to be rolled for a skill check can be affected by boosts and drops through environmental situations, conditions, or magical effects.
 
-
 ### Choosing your backgrounds
 
 Characters start off with any three backgrounds available. For races other than humans, a suggestion of fitting backgrounds is presented. However, you can still choose any other backgrounds that you prefer for your character.
 
- 
-
 Below the Combat Rolls section, write down “Backgrounds” as the title of a new section in your sheet, as we’re going to start filling in that information too. As you read the race descriptions and choose one, make sure to write down the backgrounds chosen for your character if you choose to do so at the moment. You can always leave background selection for the end of the process, when you have an idea on who you want your character to be.
-
 
 ### Character backgrounds
 
@@ -1563,177 +976,123 @@ Here are some examples of background that are available for player characters. H
 
 Remember that backgrounds must be kept relatively well-focused, and not made far too encompassing, as it dilutes their purpose.
 
-
 #### Alchemist
 
 The character is well versed in the art of mixing chemicals and materials. It has a deep knowledge of components and will recognize these components by using its well-developed senses. A character with this background will be able to recognize materials and chemicals, possess knowledge about preparing things such as powder, and have relatively easy access to one or more good suppliers.
-
 
 #### Arcanist
 
 This background provides knowledge in magical and arcane subjects. This does not mean that the character necessarily knows how to cast spells; it just means that the character is well read or educated in the subject matter. It can read and understand arcane material, recognize spellcasting actions, and might have a good chance of identifying a magical item after studying it closely.
 
-
 #### Artist
 
 The character excels in the visual arts: drawing, painting and sculpting. They also know where to get the materials needed for art, and their work might be possibly known in other cities and towns. This also grants some contacts with nobles, since they’re the usual buyers for artwork.
-
 
 #### Artisan
 
 The character is very skilled in a particular trade like tinkerer, leather worker, or jeweler. It is also a member of a guild, or at least knows members of the guild related to its profession.
 
-
 #### Charlatan
 
 Hustler, street dealer, huckster… A character with this background has spent some time of their life tricking people for money and fame. It will have a definite advantage when persuading people, and will be good with trickery and sleight of hand.
-
 
 #### Clergy
 
 The character has served a god or church in the past, although not necessarily was a priest. The character will have an advantage when researching religious subject matters, and preferential treatment from their church of choosing, even if the character is a total stranger.
 
-
 #### Crafting
 
 A character with the crafting background is adept at building items like simple jewelry and adornments, talismans, and charms. This person will also be very skilled with small to medium size hand tools, and knowledgeable in finishing and painting techniques for diverse items. They will also know how to perform simple repairs.
-
 
 #### Criminal
 
 The character has a checkered past of run-ins with the law. They will have an advantage when dealing with shady types. The criminal background can also land the character into trouble when going into cities where it has lived a life of crime. It will have good knowledge of hidden crime guilds and organizations, and probably know about their most notorious members.
 
-
 #### Entertainer
 
 The character has plenty of experience performing for a crowd, be it as a singer, actor, or any other methods of entertainment. As such, they are very good at persuading people and managing crowds.
-
 
 #### Entrepreneur
 
 The character has solid experience running a business, accounting procedures, and general management. It will be competent at leading people and taking charge, and will have knowledge of business procedures and contracts.
 
-
 #### Forgery
 
 The character is an expert in forging documents by using the correct vocabulary, duplicating signatures, wax seals, and even reproducing the exact types of paper or other media used in legal documents.
-
 
 #### Herbalist
 
 This background gives the character knowledge in herbs and plants. The character can prepare teas, antidotes, and healing mixtures. It can identify vegetation species and their characteristics.
 
-
 #### Hometown Hero
 
 The character is well-known in his hometown for some daring action that saved the inhabitants. This grants the character preferential treatment in that city or town, including lower prices on everything (around a 25% discount is about right). If the city or town is big enough, the character could be known in the surrounding areas, too.
-
 
 #### Mercenary
 
 The character has worked as a sellsword or hired caster for the best bidder. As such, they have knowledge of the inner workings of the secret side of large city governments and big criminal organizations, and possess a few contacts that could be helpful.
 
-
 #### Metalworker
 
 This background allows the character to have extensive knowledge of working metal pieces, including metal tools, weapons, and armor. Will also be able to identify metal types and origin of a piece based on construction and materials.
-
 
 #### Noble advisor
 
 As someone with a high, powerful rank, the character has worked as a trusted advisor to a local noble or other government figure. This gives the character special connections to a particular city and ease in finding resources and understanding how a certain city government works.
 
-
 #### Revolutionary
 
 The character has led (or is still leading) a revolution against a tyrannical government, or is leading a subversive reform of an established organization. This grants knowledge about existing organizations and provides underground contacts either on the streets or in ruling positions in government or other large organizations.
-
 
 #### Sailor
 
 The character is experienced in everything related to sailing: controlling and maneuvering a ship, administering, and basic repairs of ship components.
 
-
 #### Scholar
 
 A character with this background is well-educated in secular and religious history. They will have a very good chance of figuring out historical and religious influences, and will remember events and information that is important in the history of the world.
-
 
 #### Smuggler
 
 The character knows the best way to infiltrate merchandise into a city, the correct way to handle things, and also knows the people and distributors of whatever objects or materials are illegal in their location, or that have  a large black market due to the item’s high cost.
 
-
 #### Soldier
 
 Characters with the soldier background have served in a militia for a long-enough period of time to get them fully acquainted with the inner workings of an army, have a decent grasp of strategy, and have a good chance of knowing someone in a high military rank.
-
 
 #### Stonemason
 
 A character with this background is deft at working with stone in all its uses including construction and decoration. The character will be able to determine the type of rock or mineral, origin, and source of the construction in the case of a building or structure. In some cases they will be able to recognize weak points of the structure.
 
-
 #### Streetwise
 
 City streets are the character’s natural environment; they know the people, the happenings, the incoming events (and we’re not talking about the local carnival). It is easy for the character to find information about what is going on, and about who’s who.
-
 
 #### Survivalist
 
 The character lived for a long time by yourself, alone in the wilderness (this can be a forest, desert, or any other biome). As such, they learned how to survive and thrive in that kind of environment. This includes hunting, trap-making, foraging, and the use of hunting bows.
 
-
 #### Traveler
 
 Characters with the traveler background will be adept at finding and using ground transportation suitable for a journey. They are experts at reading maps and possess an above-average sense of direction. A character with this background will hardly get lost even in complicated travel situations.
-
 
 #### Vigilante
 
 The character roams the streets illegally looking for those who commit crimes, and deal justice on their own terms. They might or might not be known to exist by the local authorities, but they’ve learned to keep a low profile and how to move unnoticed through the dark streets.
 
-
-##
-
-
-## WEAPONS & GEAR
+## Weapons & gear
 
 It is time to equip your character with gear and weapons, to get them ready for adventuring. There are two options available for acquiring your initial gear, and this is something that you need to arrange with the Game Master.
-
 
 ### Money
 
 The base coin for this system is the gold piece (GP). However, there are other coins available in the market.
 
-
-<table>
-  <tr>
-   <td>COIN
-   </td>
-   <td>UNIT PER GP
-   </td>
-  </tr>
-  <tr>
-   <td>Gold Piece (GP)
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>Silver Piece (SP)
-   </td>
-   <td>10
-   </td>
-  </tr>
-  <tr>
-   <td>Copper Piece (CP)
-   </td>
-   <td>100
-   </td>
-  </tr>
-</table>
-
+Coin              | Unit per GP
+------------------|------------
+Gold piece (GP)   | 1
+Silver Piece (SP) | 10
+Copper Piece (CP) | 100
 
 Your character’s initial amount of money is equal to 3d6 x 10 GP. Therefore, if you roll a total of 13, your character will have 130 GP total.
 
@@ -1741,11 +1100,9 @@ An alternative way for determining the starting money amount is to roll 4d6, and
 
 With this amount of money, your character is ready to buy the weapons and equipment needed for a successful adventure. For cost estimation purposes, a good rule of thumb is that one GP equals $100 USD.
 
-
 #### Free starting gear
 
 An option when starting up is to let the players get whatever equipment the character needs, free. This can be a way to hasten things in terms of game preparation, or if the adventure will be a tough one and both the GM and the players want to make sure they are not lacking in terms of gear and weapons. If this were the method chosen, instead of rolling 3d6 for the initial GP amount, players would roll 4d6 and add up the total, without multiplying by 10.
-
 
 ### Weapons
 
@@ -1755,220 +1112,40 @@ The equipment list shows which weapons are single-handed, and which are two-hand
 
 Also, all bows and crossbows are considered to be two-handed.
 
-
 ### Armor
 
 Some character classes can wear armor to protect themselves from damage. Wearing armor gives the wearer 1 boost on Physical Defense.
-
 
 #### Shields
 
 Using a shield gives you 1 boost to your Physical Defense and your Mental Defense. Not all classes can use a shield, and it can only be worn if the weapon used is a one-handed unit.
 
-
 ### Adventuring gear
 
 Using the appropriate adventuring gear will be the only way to perform certain actions, or provide a boost when doing them while adventuring. Make sure your character is well equipped. Gear will allow you to perform certain actions without penalty. For example, having rope for climbing a wall, or having a tinderbox to set a fire.
 
-
-
-
 ### Equipment lists
-
 
 #### Weapons
 
+Type          | Description        | Range | Max Range | Price/Ammo
+--------------|--------------------|-------|-----------|-----------
+One-handed    | Club               |       |           | 1 SP
+              | Dagger             | 1     | 2         | 1 GP
+              | Dart               | 2     | 3         | 5 CP
+              | Hammer             |       |           | 1 GP
+              | Hand axe           | 1     | 2         | 1 GP
+              | Hand crossbow      | 4     | 8         | 10 GP/2 SP
+              | Flail              |       |           | 4 GP
+              | Longsword          |       |           | 10 GP
+              | Morningstar        |       |           | 6 GP
+              | Pike               |       |           | 5 GP
+              | Sling              | 3     | 6         | 3 SP/1 CP
+              | Spear              | 1     | 2         | 1 GP
+              | Warhammer          |       |           | 6 GP
+Two-handed    | Crossbow           |
+              
 
-<table>
-  <tr>
-   <td>TYPE
-   </td>
-   <td>DESCRIPTION
-   </td>
-   <td>NORMAL
-<p>
-RANGE
-   </td>
-   <td>LONG
-<p>
-RANGE
-   </td>
-   <td>PRICE/
-<p>
-AMMO
-   </td>
-  </tr>
-  <tr>
-   <td>One-handed
-   </td>
-   <td>Club
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1 SP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Dagger
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Dart
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>5 CP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Hammer
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Hand axe
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Hand crossbow
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>10 GP / 2 SP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Flail
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>4 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Lance
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>4 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Longsword
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>10 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Mace
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>2 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Morningstar
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>6 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Pike
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>5 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Sling
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>3 SP / 1 CP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Spear
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>1 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
    <td>Warhammer
    </td>
    <td>
