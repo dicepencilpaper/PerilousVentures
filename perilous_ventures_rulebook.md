@@ -9,18 +9,27 @@ Playtest Edition 0.8.0
 This book couldn’t have been written without the help of some special people that have given me advice and ideas on improving this game.
 
 **Jonathan Buchanan**
+
 **Michael Lombardi**
+
 **Jon Boyles**
+
 **Ordoalaea Publishing**
+
 **Jason Martin**
 
 And I’m also grateful for the following people for the sheer inspiration, without them I probably would’ve never written this game, and the funny thing is that probably they have absolutely no idea about this!
 
 **Alberto Martínez**
+
 **Matthew Mercer**
+
 **Matt Colville**
+
 **Chris Perkins**
+
 **Mike Shea**
+
 **Chris Gonnerman**
 
 And also the rest of the #TTRPG community. To all of you, thank you so much! Also thanks to my patrons on Patreon for your support. It means a lot to me.
@@ -108,8 +117,8 @@ There are four basic action dice rolls for determining combat results: two oppos
 
 The score of each one of these rolls is equal to how many dice you will be rolling when executing the action. All characters start with 1 six-sided die as their base roll. So write down the rolls (explained below), in a list format, and write “1” (your base roll for each action) beside each score, similar to this:
 
-Combat |
--------|---
+Combat | Dice
+-------|-----
 PA     | 1
 PD     | 1
 MA     | 1
@@ -229,7 +238,7 @@ As an option, you could try create a brand-new race not based on an existing one
 
 As always, regardless of which path you choose for your new race, make sure to discuss it with your Game Master! You have to agree upon it and confirm that it will fit the game style and world you will be playing in.
 
-## CLASSES
+## Character classes
 
 There are four character classes available for player characters: priest, thief, warrior, and wizard. Each class provides its own advantages and disadvantages, and are designed to complement each other during adventures.
 
@@ -253,7 +262,7 @@ There are suggested backgrounds that are deemed appropriate for each particular 
 
 Priests are divine warriors that fight in the name of one or more divine beings. They defend their deities’ goals and purpose for the world, and they can be good or evil.
 
-A priest gets 1 boost on Mental Defense (MD). They can cast spells, although their casting abilities are less diverse than those of wizards. Priests can use magical items, one-handed weapons, and can wear armor but not shields.
+A priest gets 1 boost on Mental Defense (MD). They can cast spells, although their casting abilities are less diverse than those of wizards. Priests can use magical items, one-handed weapons, missile weapons, and can wear regular armor and shields.
 
 #### Background
 
@@ -282,7 +291,7 @@ Casting spells draws from the priest’s action point pool as a representation o
 
 Masters of the night, stealth and shadows, thieves are the only characters that can do things like pick locks, find and disarm traps, pickpocket, and backstab enemies.
 
-Thieves get 1 boost on Physical Defense (PD) due to their learned nimbleness and skill to avoid damage, and can use magical items and weapons. They are limited to one-handed melee weapons but can use any missile weapon, including two-handed devices like longbows. A thief cannot wear armor nor use a shield.
+Thieves get 1 boost on Physical Defense (PD) due to their learned nimbleness and skill to avoid damage, and can use magical items and weapons. They are limited to one-handed melee weapons but can use any missile weapon. A thief cannot wear armor nor use a shield.
 
 #### Background
 
@@ -324,9 +333,9 @@ Thieves have access to special maneuvers in combat. Note that the action points 
 Event         | Maneuver                          | Cost
 --------------|-----------------------------------|------
 Attack        | Hide in combat                    | 3
-              | Move silently in combat           | 2
-              | Knock opponent unconscious        | 2
-              | Attack additional target          | 5
+.             | Move silently in combat           | 2
+.             | Knock opponent unconscious        | 2
+.             | Attack additional target          | 5
 Other         | Add boost to thief special skill  | 1
 
 #### Backstabbing
@@ -360,13 +369,13 @@ Warriors use their action point pool in combat for additional damage or special 
 Event         | Maneuver                                   | Cost
 --------------|--------------------------------------------|------
 Attack        | Additional attack at same opponent         | 2
-              | Attack secondary target                    | 4
-              | Drop opponent’s Physical Defense, per drop | 3
-              | Disarm opponent (when applicable)          | 2
-              | Knock opponent unconscious                 | 4
-              | Push opponent out of engaged range         | 3
+.             | Attack secondary target                    | 4
+.             | Drop opponent’s Physical Defense, per drop | 3
+.             | Disarm opponent (when applicable)          | 2
+.             | Knock opponent unconscious                 | 4
+.             | Push opponent out of engaged range         | 3
 Defense       | Parry                                      | 2
-              | Disarm opponent on parry (when applicable) | 4
+.             | Disarm opponent on parry (when applicable) | 4
 
 ##### Additional attack at same opponent
 
@@ -404,7 +413,7 @@ When parrying, the warrior can opt to try and disarm their opponent. On a succes
 
 These are the masters of the arcane arts. Through diligent study and commitment, they have learned to control the divine forces of magic that shape the world and have studied the anatomy and minds of creatures to understand how those powers are channeled through their physical bodies.
 
-They get a boost on Mental Action (MA), but start with 1 less life point due to their dedication to studies leading to a sedentary life. Wizards can only use one-handed weapons, simple missile weapons, and cannot wear any armor or use shields.
+They get a boost on Mental Action (MA), but start with 1 less life point due to their dedication to studies leading to a sedentary life. Wizards can only use one-handed and missile weapons, and cannot wear any armor or use shields, as they are not trained in their use and also impedes the flow of their magical spell casting.
 
 #### Background
 
@@ -441,21 +450,21 @@ To ease basic character creation, here’s a matrix showing the different combat
 Class   | Roll | Elf | Dwarf | Halfling | Human
 --------|------|-----|-------|----------|------
 Priest  | PA   | 1   | 2     | 1        | 1
-        | PD   | 1   | 1     | 2        | 1
-        | MA   | 2   | 1     | 1        | 1
-        | MD   | 2   | 2     | 2        | 3
+.       | PD   | 1   | 1     | 2        | 1
+.       | MA   | 2   | 1     | 1        | 1
+.       | MD   | 2   | 2     | 2        | 3
 Thief   | PA   | 1   | 2     | 1        | 1
-        | PD   | 2   | 2     | 3        | 2
-        | MA   | 2   | 1     | 1        | 1
-        | MD   | 1   | 1     | 1        | 2
+.       | PD   | 2   | 2     | 3        | 2
+.       | MA   | 2   | 1     | 1        | 1
+.       | MD   | 1   | 1     | 1        | 2
 Warrior | PA   | 2   | 3     | 2        | 2
-        | PD   | 1   | 1     | 2        | 1
-        | MA   | 2   | 1     | 1        | 1
-        | MD   | 1   | 1     | 1        | 2
+.       | PD   | 1   | 1     | 2        | 1
+.       | MA   | 2   | 1     | 1        | 1
+.       | MD   | 1   | 1     | 1        | 2
 Wizard  | PA   | 1   | 2     | 1        | 1
-        | PD   | 1   | 1     | 2        | 1
-        | MA   | 3   | 1     | 2        | 2
-        | MD   | 1   | 1     | 1        | 2
+.       | PD   | 1   | 1     | 2        | 1
+.       | MA   | 3   | 1     | 2        | 2
+.       | MD   | 1   | 1     | 1        | 2
 
 ## Magic & spells
 
@@ -939,18 +948,18 @@ This table summarizes the action point costs for building and modifying spells.
 Spell Aspect | Description                  | AP Cost
 -------------|------------------------------|--------
 Base Cost    | Priest                       | 2
-             | Wizard, Initiate             | 3
-             | Wizard, Veteran              | 2
-             | Wizard, Master               | 1
+.            | Wizard, Initiate             | 3
+.            | Wizard, Veteran              | 2
+.            | Wizard, Master               | 1
 Area         | Single target                | 0
-             | Zone sphere, per zone        | 1
+.            | Zone sphere, per zone        | 1
 Range        | Touch/melee (<= 5')          | 0
-             | 1+ zones, per zone           | 1
+.            | 1+ zones, per zone           | 1
 Duration     | Instantaneous/1 combat round | 0
-             | 2+ combat rounds, per round  | 1
+.            | 2+ combat rounds, per round  | 1
 Action       | Damage (always 1 point)      | 0
-             | Effect, base effect unit     | 0
-             | Effect, per additional unit  | 1
+.            | Effect, base effect unit     | 0
+.            | Effect, per additional unit  | 1
 
 _NOTE: For action effect AP, units refer to zones, size, or any other type of game mechanic elements increase or decrease._
 
@@ -1086,334 +1095,110 @@ It is time to equip your character with gear and weapons, to get them ready for 
 
 ### Money
 
-The base coin for this system is the gold piece (GP). However, there are other coins available in the market.
+Money is not tracked in detail down to coins and coin values. Goods, services, and treasure have one of five values assigned to them: Poor, Modest, Average, Upscale, and Rich. Player characters, NPCs, and creatures can have different wealth levels assigned to them that are equivalent to the five values mentioned. A player character usually starts at the Average level, unless there is a valid backstory reason for them not to. The wealth level can also be rolled as follows:
 
-Coin              | Unit per GP
-------------------|------------
-Gold piece (GP)   | 1
-Silver Piece (SP) | 10
-Copper Piece (CP) | 100
+Roll (2d6) | Wealth Level
+-----------|-------------
+2-3        | Poor
+4-5        | Modest
+6-9        | Average
+10-11      | Upscale
+12         | Rich
 
-Your character’s initial amount of money is equal to 3d6 x 10 GP. Therefore, if you roll a total of 13, your character will have 130 GP total.
+#### Wealth points (WP)
 
-An alternative way for determining the starting money amount is to roll 4d6, and then just take the higher three dice rolls, add those up, and multiply by 10. For example, if you rolled 5, 6, 2, and 4, you will pick 5 + 6 + 4 = 15, which multiplied by 10 equal 150 GP.
+A character's wealth level is only affected by any purchases performed at their current wealth level and the adjacent lower level. Player characters will have at the start 1d6+4 wealth points available. For every single purchase made at the current level, or for every 10 purchases made at the immediate lower level, the character will lose 1 wealth point.
 
-With this amount of money, your character is ready to buy the weapons and equipment needed for a successful adventure. For cost estimation purposes, a good rule of thumb is that one GP equals $100 USD.
+Any purchases made from items belonging to two or more levels down are inconsequential to the character. For example, an Upscale character buying items of Modest cost doesn't lose any wealth points.
+
+If a character loses all their wealth points, they in fact go down to the next lower wealth level with 10 wealth points, with all the disadvantages that implies.
 
 #### Free starting gear
 
-An option when starting up is to let the players get whatever equipment the character needs, free. This can be a way to hasten things in terms of game preparation, or if the adventure will be a tough one and both the GM and the players want to make sure they are not lacking in terms of gear and weapons. If this were the method chosen, instead of rolling 3d6 for the initial GP amount, players would roll 4d6 and add up the total, without multiplying by 10.
+An option when starting up is to let the players get whatever equipment the character needs for free. This can be a way to hasten things in terms of game preparation, or if the adventure will be a tough one and both the GM and the players want to make sure they are not lacking in terms of gear and weapons. The Game Master needs to make sure that none of the items provided to the player character exceed their wealth level, unless there is a solid story reason for this (for example, being hired by a very wealthy individual, thus bein provided the equipment necessary).
 
 ### Weapons
 
-There are two types of melee weapons available: one-handed and two-handed. A one-handed weapon adds 1 boost to the Physical Action roll, and a two-handed weapon adds 2 boosts to Physical Action rolls. Being that there are only two weapon types available, weapon choice within each type becomes more of a way to give color and style to a character.
+There are two types of melee weapons available: one-handed and two-handed. An attack made with a one-handed weapon provides 1 boost to the attack roll, while a two-handed weapon adds 2 boosts to the attack roll. Being that there are only two weapon types available, weapon choice within each type becomes more of a way to give color and style to a character, although most two-handed weapons might be too expensive for most player characters.
 
-The equipment list shows which weapons are single-handed, and which are two-handed. A few weapons can be both one-handed and two-handed, and the player can choose in which “mode” to use the weapon. However, to use a weapon as two-handed, the character cannot be wearing a shield.
+Similarly, missile weapons are split between two types: light, and heavy. A light missile weapon provides 1 boost to the attack action roll, while a heavy missile weapons provides two boosts.
 
-Also, all bows and crossbows are considered to be two-handed.
+For weapons, the range presented here is the maximum range with no penalties. Beyond that range, all attacks are performed with 1 drop applied. Any attack made beyond maximum range will automatically fail.
+
+Category | Type                  | Description        | Range | Max Range | Value (ammo)
+---------|-----------------------|--------------------|-------|-----------|-------------
+Melee    | One-handed (1 boost)  | Club               |       |           | Poor
+.        |                       | Dagger             | 1     | 2         | Modest
+.        |                       | Hammer             |       |           | Average
+.        |                       | Hand axe           | 1     | 2         | Average
+.        |                       | Flail              |       |           | Upscale
+.        |                       | Javelin            | 3     | 6         | Modest
+.        |                       | Longsword          |       |           | Upscale
+.        |                       | Morningstar        |       |           | Upscale
+.        |                       | Pike               |       |           | Upscale
+.        |                       | Shortsword         |       |           | Average
+.        |                       | Spear              | 1     | 2         | Modest
+.        |                       | Warhammer          |       |           | Upscale
+.        | Two-handed (2 boosts) | Great axe          |       |           | Rich
+.        |                       | Greatsword         |       |           | Rich
+.        |                       | Halberd            |       | 2         | Rich
+Missile  | Light (1 boost)       | Dart               | 2     | 3         | Poor
+.        |                       | Hand crossbow      | 4     | 8         | Upscale
+.        |                       | Shortbow           | 15    | 30        | Average
+.        |                       | Sling              | 3     | 6         | Poor
+.        | Heavy (2 boosts)      | Crossbow           | 18    | 36        | Rich
+.        |                       | Heavy crossbow     | 20    | 40        | Rich
+.        |                       | Longbow            | 24    | 48        | Upscale
+
+Notes:
+
+
 
 ### Armor
 
-Some character classes can wear armor to protect themselves from damage. Wearing armor gives the wearer 1 boost on Physical Defense.
+Some character classes can wear armor to protect themselves from damage. There are two types of armor available: regular, and heavy. Wearing regular armor gives the wearer 1 boost on Physical Defense, while wearing heavy armor provides 2 boosts for Physical Defense.
 
 #### Shields
 
-Using a shield gives you 1 boost to your Physical Defense and your Mental Defense. Not all classes can use a shield, and it can only be worn if the weapon used is a one-handed unit.
+Using a shield gives you 1 boost to your Physical Defense. Not all classes can use a shield, and it can only be worn if the weapon used is a one-handed unit.
+
+Description   | Type    | Value
+--------------|---------|--------
+Leather armor | Regular | Modest
+Chain mail    | Regular | Upscale
+Plate mail    | Heavy   | Rich
+Shield        | --      | Average
 
 ### Adventuring gear
 
 Using the appropriate adventuring gear will be the only way to perform certain actions, or provide a boost when doing them while adventuring. Make sure your character is well equipped. Gear will allow you to perform certain actions without penalty. For example, having rope for climbing a wall, or having a tinderbox to set a fire.
 
-### Equipment lists
 
-#### Weapons
-
-Type          | Description        | Range | Max Range | Price/Ammo
---------------|--------------------|-------|-----------|-----------
-One-handed    | Club               |       |           | 1 SP
-              | Dagger             | 1     | 2         | 1 GP
-              | Dart               | 2     | 3         | 5 CP
-              | Hammer             |       |           | 1 GP
-              | Hand axe           | 1     | 2         | 1 GP
-              | Hand crossbow      | 4     | 8         | 10 GP/2 SP
-              | Flail              |       |           | 4 GP
-              | Longsword          |       |           | 10 GP
-              | Morningstar        |       |           | 6 GP
-              | Pike               |       |           | 5 GP
-              | Sling              | 3     | 6         | 3 SP/1 CP
-              | Spear              | 1     | 2         | 1 GP
-              | Warhammer          |       |           | 6 GP
-Two-handed    | Crossbow           |
-              
-
-   <td>Warhammer
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>6 GP
-   </td>
-  </tr>
-  <tr>
-   <td>Two-handed
-   </td>
-   <td>Crossbow*
-   </td>
-   <td>3
-   </td>
-   <td>12
-   </td>
-   <td>15 GP / 2 SP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Great axe
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>15 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Greatsword
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>15 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Halberd
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>10 GP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Heavy crossbow
-   </td>
-   <td>3
-   </td>
-   <td>16
-   </td>
-   <td>20 GP / 4 SP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Longbow*
-   </td>
-   <td>8
-   </td>
-   <td>25
-   </td>
-   <td>10 GP / 3 SP
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Shortbow*
-   </td>
-   <td>4
-   </td>
-   <td>8
-   </td>
-   <td>5 GP
-   </td>
-  </tr>
-</table>
-
-
-
-#### Armor
-
-
-<table>
-  <tr>
-   <td>DESCRIPTION
-   </td>
-   <td>PRICE
-   </td>
-  </tr>
-  <tr>
-   <td>Leather armor
-   </td>
-   <td>10 GP
-   </td>
-  </tr>
-  <tr>
-   <td>Chain mail
-   </td>
-   <td>25 GP
-   </td>
-  </tr>
-  <tr>
-   <td>Ring mail
-   </td>
-   <td>25 CP
-   </td>
-  </tr>
-  <tr>
-   <td>Scale mail
-   </td>
-   <td>30 GP
-   </td>
-  </tr>
-  <tr>
-   <td>Plate mail
-   </td>
-   <td>70 GP
-   </td>
-  </tr>
-  <tr>
-   <td>Shield
-   </td>
-   <td>15 GP
-   </td>
-  </tr>
-</table>
-
-
-
-
-
-#### Standard equipment
-
-
-<table>
-  <tr>
-   <td>DESCRIPTION
-   </td>
-   <td>PRICE
-   </td>
-  </tr>
-  <tr>
-   <td>Backpack, leather
-   </td>
-   <td>2 GP
-   </td>
-  </tr>
-  <tr>
-   <td>Flask of oil
-   </td>
-   <td>3 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Iron spikes, 12
-   </td>
-   <td>1 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Lantern
-   </td>
-   <td>4 GP
-   </td>
-  </tr>
-  <tr>
-   <td>Mallet
-   </td>
-   <td>5 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Pole, 10’ long
-   </td>
-   <td>4 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Rations, standard
-   </td>
-   <td>7 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Rope, 50’
-   </td>
-   <td>3 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Sack, small
-   </td>
-   <td>5 CP
-   </td>
-  </tr>
-  <tr>
-   <td>Sack, large
-   </td>
-   <td>1 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Silver mirror, small
-   </td>
-   <td>1 GP
-   </td>
-  </tr>
-  <tr>
-   <td>Stakes, 3
-   </td>
-   <td>1 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Steel mirror
-   </td>
-   <td>3 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Tinderbox, flint & steel
-   </td>
-   <td>4 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Waterskin
-   </td>
-   <td>5 SP
-   </td>
-  </tr>
-  <tr>
-   <td>Wine, 1 quart
-   </td>
-   <td>4 SP
-   </td>
-  </tr>
-</table>
-
-
-
-
+Description               | Value
+--------------------------|--------
+Backpack, large           | Average
+Backpack, small           | Modest
+Flask of oil              | Modest
+Iron spikes, 12           | Poor
+Lantern, oil              | Average
+Lantern, hooded           | Upscale
+Mallet                    | Modest
+Pole, 10' long            | Poor
+Rations, standard, 1 week | Average
+Rope, 50'                 | Modest
+Sack, small               | Poor
+Sack, large               | Poor
+Silver mirror, small      | Average
+Stakes, 3                 | Poor
+Tinderbox (flint & steel) | Modest
+Waterskin                 | Modest
+Wine, 1 quart             | Upscale
 
 ## FINALIZING THE DETAILS
 
 By now, your character should be well-defined in terms of numbers and stats, but the question is: Who is your character? Of all the tasks related to creating a player character in an RPG system, this is the most difficult task for most people. However, if you find yourself in this situation, don’t despair.
 
-
-### Defining who your character is
-
+### Who is your character?
 
 #### Spontaneous growth
 
@@ -1421,16 +1206,13 @@ It is perfectly good to not have an idea of who your character is, their persona
 
 Sometimes, players who have a clear idea of who their character is before starting off the very first game session see their character change and grow, and sometimes becoming something quite different from their original idea. This is good, as this means the player is really involved in the game and using game events and game relationships to provide depth to the character.
 
-
 #### The importance of a name
 
 Your character’s name is very important, as it also helps set the mood. You can have a fantasy name like Lorenell Willowbrook, or Fintas the Horrible. It can also be something as simple as Jan or Kylie. What matters is that the name chosen is not one that you will regret having later on as your character grows and it becomes part of the adventuring world.
 
-
-## RUNNING THE GAME
+## Running the game
 
 You have decided to be the Game Master and lead your friends into a world of adventure and excitement. Fantastic! To do this, you need to understand how to run combat, manage monsters, and keep track of all the happenings in every session. It might sound daunting, but Perilous Ventures is designed to be easy to run.
-
 
 ### The ORC Engine
 
@@ -1442,21 +1224,15 @@ As an example: Rolfar the dwarf warrior swings at a hobgoblin with his axe. As a
 
 The only die used in this system is the 6-sided die (d6), the reason for this being accessibility; You can find six-sided dice everywhere, and can be acquired cheaply or taken from most common board games.
 
-
 #### Action rolls (AR)
 
 Characters and creatures do not have ability stats as in other RPGs. Capabilities are determined by action rolls. These action rolls will always consist of a set of opposed actions, except for skill checks. Action rolls cover a wide gamut of skills that are “blended” together for a final purpose.
 
-
-##### MELEE & MISSILE WEAPON COMBAT
-
+##### Weapon combat
 
 ###### Physical Action (PA)
 
-Covers all the skills involved in melee and missile combat: using a weapon properly, knowing its strengths and weaknesses, and how to use it most effectively.
-
-Physical Action is used when a character or creature attempts to strike an opponent with a physical weapon, either melee or missile, or performs an unarmed attack. This also includes creature attacks made with claws, biting, or similar types of strikes.
-
+This action roll covers all the skills involved in melee and missile combat: using a weapon properly, knowing its strengths and weaknesses, and how to use it most effectively. Physical Action is used when a character or creature attempts to strike an opponent with a physical weapon, either melee or missile, or performs an unarmed attack. This also includes creature attacks made with claws, biting, or similar types of strikes.
 
 ###### Physical Defense (PD)
 
@@ -1464,9 +1240,7 @@ This action covers defensive battle knowledge such as parrying, knowing the limi
 
 The target of a Physical Action performs this dice roll to compete against the attack roll and avoid receiving damage.
 
-
-##### SPELLS & MAGICAL DEVICES
-
+##### Spells & magical devices
 
 ###### Mental Action (MA)
 
@@ -1474,63 +1248,27 @@ This action roll covers knowledge of the arcane and the mystical. It also delves
 
 This is the roll used by spellcasters to determine their success when utilizing spells. Any player characters using magical devices such as staves or wands also performs this dice roll.
 
-
 ###### Mental Defense (MD)
 
 This is a mix of natural resilience and resistance to magic, and also knowledge on how to diminish or entirely avoid spells and their effects. This is the dice roll made by the target of a Magic Action attack to avoid receiving damage or any other spell effects. Note that if the target of a spell is a willing recipient of such magic, this roll is not needed.
 
-
-##### SKILL CHECKS
+##### Skill checks
 
 A character might try to perform a non-combat action like performing a song, making a high jump, or deduct the meaning of an arcane writing. These skill check rolls have diverse levels of difficulty, and the character’s ability to be successful in these checks is determined by the character’s background.
 
 Unlike combat rolls, non-combat skill checks are performed against a static number from 1 to 5, called a difficulty score (DS). These numbers represent difficulty levels, and the higher the target number, the more difficult the task is.
 
-
-<table>
-  <tr>
-   <td>DIFFICULTY
-   </td>
-   <td>TARGET DS
-   </td>
-  </tr>
-  <tr>
-   <td>Easy
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>Medium
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>Hard
-   </td>
-   <td>3
-   </td>
-  </tr>
-  <tr>
-   <td>Extremely difficult
-   </td>
-   <td>4
-   </td>
-  </tr>
-  <tr>
-   <td>Almost impossible
-   </td>
-   <td>5
-   </td>
-  </tr>
-</table>
-
+Difficulty      | Target
+----------------|-------
+Easy            | 1
+Medium          | 2
+Hard            | 3
+Very Difficult  | 4
+Near Impossible | 5
 
 A character with a background will roll 2d6, pick the top die result and compare against the difficulty number.  To succeed at the task, the player must have a top die result higher than the difficulty level set for the task.
 
 If a player fails at a skill check roll, successive skill checks for the same character will be performed at +1 drop per retry. See below for an explanation of the boosts and drops mechanism.
-
 
 ###### Non-background checks
 
@@ -1538,13 +1276,11 @@ If a character has no relevant background to perform the task, the GM needs to b
 
 On other occasions, there might be a chance for the character to perform the task; for example, trying to emulate a signature without the _Embezzler _background. In such a situation, the GM can determine that the skill check will be made with a straight 1d6 roll, or even add one or more drops if the task is considered to be quite difficult, specific, or obscure in nature.
 
-
 #### Boosts & drops
 
 Modifications to action rolls and skill checks are needed for different reasons: race & class modifiers, magical effects, or special situations. Modifying a dice roll is done with the boosts and drops mechanism. These change the rolls being performed, altering the chances of an action being successful.
 
-
-##### BOOST
+##### Boost
 
 For most of the game, action rolls are performed with boosts; you can see it as the system’s default operating mode for its action mechanics and resolution.
 
@@ -1552,11 +1288,9 @@ One boost equals an additional d6 to include in the dice roll. But boosts are no
 
 This process is exactly the same regardless of how many boosts you have; you always keep only the highest die roll. The more boosts you have, the greater the chances of rolling a higher number as the top die roll.
 
-
-##### DROP
+##### Drop
 
 These are the opposite of boosts. For example, if you have 1 drop that applies to your action, you would roll 2d6, then choose the lower die roll. Using the same rolls from the example for boosts above, you would pick 1 as your final roll result.
-
 
 #### Simultaneous boosts and drops
 
@@ -1572,21 +1306,15 @@ If you have more drops than boosts, the formula is changed as so:
 
 If the number of boosts equals the number of drops for a roll, then none is applied and the player rolls a single d6.
 
-
-
-
-## COMBAT
+## Combat
 
 Combat resolution follows these steps:
-
-
 
 1. Roll initiative for each group to find out the acting order.
 2. Declare combat events (move, attack, skill, etc.) per every unit in combat.
 3. Perform any action rolls or skill rolls as needed.
 4. Immediately record results of the actions.
 5. Repeat steps 2-4 until everyone has acted.
-
 
 ### Initiative
 
@@ -1595,7 +1323,6 @@ Initiative for combatants is determined by group. This is a fundamental change f
 Instead of rolling per player character, there is only one roll that represents the complete character group. This simplifies the process, and allows players to have full control of strategy, as they can choose and change the fighting order per round. This eliminates having to keep track of things like holding a player’s action waiting for a trigger from another player.
 
 Initiative is rolled only once at the beginning of the encounter, before actual combat actions take place.
-
 
 #### How to roll for initiative
 
@@ -1607,37 +1334,30 @@ After that, the players decide their own combat order in the round. This order c
 
 For boss monsters, or maybe even for an exceptionally strong and dangerous leader of a group of monsters, it is recommended that they have their own individual initiative roll, as it makes for a more thrilling game. This also enhances the sense of danger for the players, by being treating that monster or entity as a separate unit.
 
-
 #### Surprise
 
 Normally, if the highest initiative roll for a group is equal to 1, that is considered surprised, and thus caught flat-footed and cannot act for one round of combat. This is optional, and it is left to the discretion of the GM based on the situation. Here are a few examples:
-
-
 
 *   If the characters make noise entering a dungeon room, whatever monsters are inside will know about the character’s presence, and will not be surprised. However, the characters could be surprised in this situation, for example, if they did not listen for noises or simply expect the room to be empty. \
 
 *   If there is an ambush from either side, then it is obvious that the side being ambushed has to roll for surprise, unless of course, they already are expecting said ambush. \
 
-
 Use common sense with these situations as a GM, trust your instincts, and go for what would be more enjoyable at that moment in the game.
-
 
 ### Combat round
 
 With initiative set, actual combat can begin. Combat events and actions are sliced into rounds. A round is roughly equal to around 5 seconds of real time. Within each round, there is a sequence of events that happen when the players encounter an enemy and combat ensues.
 
-
 ### Events
 
 Every combat round has a series of events that take place to determine the results of the encounter. In its most basic form, these events are composed of moving and attacking a target. The player in their given round can carry out these events in any order.
-
 
 #### Move
 
 Characters and creatures can move away to hide, take cover, engage an enemy, or any other reason that might be appropriate. They can also choose not to move and remain in the same position. They might choose to move first and perform an action later, or the opposite. There are limitations to moving, as explained below.
 
 
-##### ZONES AND DISTANCE
+##### Zones & distance
 
 For combat purposes, distance is measured in zones. Each zone starts from zero (see _Engaged_, below), and from that point out, each zone equals 25 feet in any direction. A creature or player character can usually move only a distance of one zone per round of combat. There might be exceptions to this such as an extremely quick creature, or a magical device or spell that enhances speed.
 
@@ -1645,41 +1365,33 @@ You can call out zones by their level, starting from ZZ (zone zero) as two units
 
 However, some of the zones have defined names to make it easier for players and the GM to determine actions that can be taken by all units involved. These are almost like mental shorthand for these distances, and they are provided because they are the distances used the most when in a combat scenario. However, you can definitely have situations and effects that go beyond the zones described below.
 
-
 ###### Engaged (ZZ)
 
 When two units are involved in melee combat against each other, they are adjacent to each other (at or less than 5 feet away). Of course, you do not have to be fighting a creature to be at that distance, but in terms of combat, it is an easy way to convey the meaning.
-
 
 ###### Nearby (Z1)
 
 This represents units that are at 10 to 25 feet from each other.
 
-
 ###### Far (Z2)
 
 Being 30 to 50 feet away from the target places you at Far distance.
-
 
 ###### Distant (Z3)
 
 Being between 55 to 75 feet from your target places you as Distant to the target. This is the limit of most small missile weapons to fire without penalties.
 
-
 ###### Away (Z4)
 
 This describes a distance of more than 80 feet.
 
-
 #### Actions
 
-
-##### BACKGROUND SKILL ACTION
+##### Background skill
 
 It can be that one of the character’s skills will be useful in the combat round. Performing a skill action will take up the character action event.
 
-
-##### CAST A SPELL OR USE MAGIC DEVICE
+##### Cast a spell or use magical device
 
 A player or creature can choose instead to use their turn to cast a spell or use a magical device like a scroll or staff. If the spell being cast is an attack or something else for which the spell’s target is not a voluntary target, the caster rolls the dice determined by their Mental Action, and the target rolls their Mental Defense dice. Damage (and its results including any other spell effects) are applied immediately after a successful attack.
 
@@ -1689,28 +1401,23 @@ In the case of a spell that doesn’t affect a creature or object in particular,
 
 Due to the unstable and unreliable way magic works, the player must roll for success even for something as simple as illuminating an area with magical light.
 
-
-##### COMBAT MANEUVER
+##### Combat maneuver
 
 A warrior or thief might choose to use one of the available combat maneuvers. This takes one full action.
 
-
-##### DEFEND
+##### Defend
 
 A player or creature might choose to defend. When doing this, the entity cannot attack or cast spells, as its busy defending and trying not to be hit. However, they get 1 additional boost on all its physical and mental defense rolls. The defend action lasts for the whole combat round, and must be declared before the whole round begins (as opposed to declaring it on their turn).
 
-
-##### PHYSICAL ATTACK
+##### Physical attack
 
 To perform a melee or missile strike against an opponent, the attacker needs to roll their Physical Action dice, and the defender rolls their Physical Defense dice. If the attacker’s top die roll is greater than the defender’s top die, the attack is successful and damage is immediately applied.
 
 Damage inflicted is counted as hero points, unless the target of the attack has run out of hero points, in which case it will become life point damage. If the attacker rolls a 6 for their top die, the attack will directly inflict a life point for damage regardless of the existing hero point count.
 
-
-##### THIEF SKILLS
+##### Thief abilities
 
 A player running a thief character might need to use one of their skills in the middle of combat. This will take up all the character’s action, so it will not be able to attack, use a device, etc.
-
 
 ### Damage
 
@@ -1718,20 +1425,16 @@ Any successful single attack or condition that might harm an entity will deal on
 
 There are three types of damage a character can receive: Hero Points (HP), Life Points (LP), and Death Points (DP).
 
-
 #### Hero Points (HP)
 
 Hero points account for a mixture of resistance to combat fatigue and your character’s willfulness to push forward in combat in spite of being hurt. As your character exerts themselves in combat, your stamina and ability to withstand minor hits diminishes, and this is reflected through a diminishing hero point count.
 
 Losing a hero point might not necessarily mean being stabbed by a sword. Some examples are:
 
-
-
 *   Having a sword blade hitting the character’s armor and deflecting the hit, with the resulting impact weakening the character.
 *   The result of making a huge effort in avoiding being hit, with the subsequent fatigue and tiredness affecting the character’s performance.
 
 Hero points are inflicted in a successful attack when the top die of the attack is less than 6.
-
 
 #### Life Points (LP)
 
@@ -1741,136 +1444,107 @@ A monster or creature dies immediately after reaching zero or less life points.
 
 In the case of player characters, when they run out of Life Points, they are unconscious and dying. In the case of a creature, it is automatically dead. However, for special monsters and NPCs, you might wish to enable the death points mechanism explained below.
 
-
 #### Death Points (DP)
 
 Death points are used when the character is unconscious and dying after receiving enough damage to run out of life points. Characters will always have an initial amount of death points equal to their initial life points.
 
 However, when a character, special NPC, or special monster reaches zero life points, they are not immediately dead. The victim immediately fall unconscious, with all the disadvantages that brings (see _Conditions_), and the death process begins.
 
-
-##### COUNTDOWN PROCESS IN COMBAT
+##### Countdown process in combat
 
 On each combat round after the victim loses all its life points, either the player or the GM must roll 1d6. If the roll is less than 3, the character loses 1 death point on that round. If the roll is equal or higher than 3, the character is stabilized, and is not dying anymore.
 
 However, if the victim receives any additional hits after being stabilized, each will count as a death point, and the death countdown starts again on the next round after receiving the damage. If the victim at any point runs out of death points, they are officially dead.
 
-
-##### COUNTDOWN PROCESS OUT OF COMBAT
+##### Countdown process out of combat
 
 The process is the same for non-combat time, but it’s accelerated. If a character is dying, the player will need to roll d6 a number up times up to the character’s death points. Besides that, the mechanism works exactly the same way that death points work under combat situations, with the difference that there’s no need to wait for actions from other players and creatures between rolls.
 
-
-##### INSTANT DEATH
+##### Instant death
 
 A character is immediately killed if it received more than their death points in damage during combat.
-
 
 #### Counting down damage
 
 Damage is always counted down in the following order: hero points, then life points when the hero point count reach zero, and finally death points. This applies always except when a character or creature receives a lethal hit, in which case they lose a life point.
 
-
 #### Lethal damage
 
 Weapons, spells, and creature attacks have a chance to be lethal, inflicting direct life point damage whenever the attacker’s top die roll is a 6. Also, once a character or creature runs out of hero points, all damage taken afterwards is life point damage, regardless of the top die roll results.
-
 
 #### Falling
 
 An entity will take life point damage from falling from a great height in the following way:
 
-**HEIGHT			ROLL VS	**
-
-Less or equal to 10’	     1
-
-11’ - 20’	     		     2
-
-21’ - 30’			     3
-
-31’ - 40’			     4
-
-41’ - 50’			     5
-
-51’ - 99’			Automatic
-
-100’ +			Lose all LP
-
+Fall height          | Roll Vs.
+---------------------|------------
+Less or equal to 10' | 1
+11’ to 20’           | 2
+21’ to 30'           | 3
+31’ to 40’		     | 4
+41’ to 50’           | 5
+51’ - 99’            | Automatic
+100’ or more         | Lose all LP
 
 #### Healing
 
 Healing wounds works reverse of damage, meaning that life points are healed first, then hero points. If a dying character is healed either by a priest or through a potion, that character will immediately gain a life point and become conscious.
 
-
-##### NATURAL HEALING
+##### Natural healing
 
 Under normal circumstances, involving minimal or no medicinal care (and of course, excluding magical healing), characters and creatures recover 1 point of damage after each 8-hour full rest, in the order established above.
 
 If a character is under the care of someone with a Medical background, this number increases to 2 points per day.
 
-
 ### Conditions
 
 Not only can creatures receive damage reflected as hits, they can also be subject to different conditions that affect their health and can definitely endanger them in combat. Here are some common conditions, caused by combat results and magical effects.
-
 
 #### Ablaze
 
 If an entity has caught fire, and they move out of the source of fire, they will be ablaze for 1d6 rounds of combat. They will take damage for each round that the entity is on fire. If the entity spends one combat round stomping out the flames by any means (rolling on the ground, dousing with water, etc.), the fire will be put out immediately.
 
-
 #### Afraid
 
-The entity is absolutely scared and therefore unable to make logical decisions. Roll 1d6, and consult the following table for results:
+The entity is absolutely scared and therefore unable to make logical decisions. Roll 1d6, and consult the following table for results.
 
-**ROLL		RESULT**
-
-1-2		Run away in a random direction.
-
-3-4		Crawl away trying to hide.
-
-5-6		Freeze up, 1 drop on all defense action rolls.
-
+Roll | Result
+-----|-----------------------------------------------
+1-2  | Run away in a random direction.
+3-4  | Crawl away trying to hide.
+5-6  | Freeze up, 1 drop on all defense action rolls.
 
 #### Exhausted
 
 A creature that is exhausted is awake but moves at half speed due to exertion and tiredness, meaning that regularly it will take the creature two rounds to move a whole zone. An exhausted creature can attack and defend but will do so with 1 drop added to their roll, and no boosts can be applied, regardless of their existing boosts when out of the exhaustion condition.
 
-
 #### Incapacitated
 
 A creature with this condition is awake and aware, but cannot move or act at full capacity due to some ailment or damage received. An incapacitated creature does all actions with 3 drops.
-
 
 #### Paralyzed
 
 A stunned creature cannot act for a number of rounds that can vary based on the source of the condition. It is awake but cannot react to external actions, cannot move, talk or perform anything. Therefore, all attacks against it are automatic and are lethal hits.
 
-
 #### Poisoned
 
 Poison has a strength measured by a score between 1 and 5. For each combat round after being poisoned, the entity that is poisoned will have to roll 2d6 against the poison’s strength score. If the entity rolls lower than the poison’s score, they take one point of damage and will need to re-roll again on the next round. If they roll equal, no damage is taken but they must roll again on the next round. If they roll higher than the poison’s strength score, the poison has been neutralized, they take no damage, and they do not need to roll again.
-
 
 #### Sick
 
 An entity that is sick will perform all actions with 1 drop added to their rolls for as long as the sickness prevails, whether natural or magical in nature.
 
-
 #### Unconscious
 
 All attacks against an unconscious entity automatically hit and the target receives lethal damage. To be awakened, they need to roll a d6 against a set difficulty score between 1 and 5, based on the reason why the creature is unconscious. For example, if simply asleep they will only need to roll a 1 to wake up, while someone under some sort of chemical or magical unconsciousness might need to roll 4 or more.
-
 
 ### Action points
 
 Each character class has a pool of Action Points (AP) available. These are used differently by each character class; for warriors and thieves, they are used to perform special combat maneuvers. For priests and wizards, it determines their spellcasting capacity.
 
-
 #### Recovering action points
 
 Unless otherwise specified, characters and creatures recover action points at a rate of 1 per combat round. However, there could be exceptions for certain monsters or future character classes.
-
 
 #### Pushing
 
@@ -1880,45 +1554,39 @@ However, when a push happens, the character has over-exerted, and some condition
 
 Once the character reaches zero AP, it is out of the exhaustion condition.
 
-
 ### Weapons
 
 There are two types of weapons available for players, one-handed and two-handed. Weapon selection can be limited by character class and race. A weapon level determines how many boosts are added to the attack roll, therefore affecting its chances of inflicting direct Life Points to its target.
 
-
 #### One-Handed
 
-These weapons add 1 boost to Physical Action rolls. Examples of one-handed weapons are daggers, clubs, hand axes, longswords, slings, and morningstars.
-
+These weapons get 1 boost on a Physical Action attack roll. Examples of one-handed weapons are daggers, clubs, hand axes, longswords, slings, and morningstars.
 
 #### Two-handed
 
-These types of weapons add 2 boosts to Physical Action rolls. Examples of these are: Two-handed swords, bastard swords, flails, great axes, all bows and crossbows.
+These types of weapons add 2 boosts to Physical Action rolls. Examples of these are: Two-handed swords, bastard swords, flails, great axes.
 
+#### Missile weapons
+
+All missile weapons add 1 boost to their attack roll,
 
 ### Armor
 
 Most character classes can wear armor to protect themselves from damage. Armor adds 1 boost to the wearer’s Physical Defense rolls. Any type of armor provides this boost, therefore, armor selection is more of an item of character appearance and characterization.
 
-
 #### Shields
 
 There’s only one type of shield available. A shield adds 1 boost to all of the defender’s rolls, both Physical Defense and Mental Defense.
 
-
-## MONSTERS
+## Monsters
 
 Monsters and creatures don’t stick completely to the parameters previously established for player characters. Although they have all the same type of stats, skills and characteristics, monsters have more arbitrary scores and attributes, to show the diversity of size, power, and strength that can be found in the dungeons. Here are the statistics that define a monster.
-
 
 ### Monster stats
 
 Statistics for monsters are presented as follows:
 
-
-
 ---
-
 
 **Hobgoblin**
 
@@ -1931,9 +1599,6 @@ Statistics for monsters are presented as follows:
 **Magical		**Action 1		Defense 1
 
 **Attacks**		Weapon.
-
-
-
 ---
 
 
