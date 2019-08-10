@@ -1095,7 +1095,7 @@ It is time to equip your character with gear and weapons, to get them ready for 
 
 ### Money
 
-In this system, money is not tracked in detail down to coins. Goods, services, and treasure have one of five values assigned to them: Poor, Modest, Average, Upscale, and Rich. This also applies to player characters, NPCs, and creatures, as they can have different wealth levels assigned to them that are equivalent to the five values mentioned above. A player character usually starts at the Average level, although this can also be rolled as follows:
+Money is not tracked in detail down to coins and coin values. Goods, services, and treasure have one of five values assigned to them: Poor, Modest, Average, Upscale, and Rich. Player characters, NPCs, and creatures can have different wealth levels assigned to them that are equivalent to the five values mentioned. A player character usually starts at the Average level, unless there is a valid backstory reason for them not to. The wealth level can also be rolled as follows:
 
 Roll (2d6) | Wealth Level
 -----------|-------------
@@ -1105,50 +1105,65 @@ Roll (2d6) | Wealth Level
 10-11      | Upscale
 12         | Rich
 
+#### Wealth points (WP)
+
+A character's wealth level is only affected by any purchases performed at their current wealth level and the adjacent lower level. Player characters will have at the start 1d6+4 wealth points available. For every single purchase made at the current level, or for every 10 purchases made at the immediate lower level, the character will lose 1 wealth point.
+
+Any purchases made from items belonging to two or more levels down are inconsequential to the character. For example, an Upscale character buying items of Modest cost doesn't lose any wealth points.
+
+If a character loses all their wealth points, they in fact go down to the next lower wealth level with 10 wealth points, with all the disadvantages that implies.
+
 #### Free starting gear
 
 An option when starting up is to let the players get whatever equipment the character needs for free. This can be a way to hasten things in terms of game preparation, or if the adventure will be a tough one and both the GM and the players want to make sure they are not lacking in terms of gear and weapons. The Game Master needs to make sure that none of the items provided to the player character exceed their wealth level, unless there is a solid story reason for this (for example, being hired by a very wealthy individual, thus bein provided the equipment necessary).
 
 ### Weapons
 
-When a player character or a creature that has no natural weapons (such as claws) makes an attack, the target of the attack gains 1 boost to their Physical Defense roll. To avoid this, player characters must wield a weapon. There are two types of melee weapons available: one-handed and two-handed. An attack made with a one-handed weapon negates the Physical Action drop the attacker gets when performing an unarmed attack. A two-handed weapon adds 1 boost to Physical Action attack rolls. Being that there are only two weapon types available, weapon choice within each type becomes more of a way to give color and style to a character, although most two-handed weapons might be too expensive for most player characters. Missile weapons like bows and crossbows are classified in a separate category.
+There are two types of melee weapons available: one-handed and two-handed. An attack made with a one-handed weapon provides 1 boost to the attack roll, while a two-handed weapon adds 2 boosts to the attack roll. Being that there are only two weapon types available, weapon choice within each type becomes more of a way to give color and style to a character, although most two-handed weapons might be too expensive for most player characters.
+
+Similarly, missile weapons are split between two types: light, and heavy. A light missile weapon provides 1 boost to the attack action roll, while a heavy missile weapons provides two boosts.
 
 For weapons, the range presented here is the maximum range with no penalties. Beyond that range, all attacks are performed with 1 drop applied. Any attack made beyond maximum range will automatically fail.
 
-Type          | Description        | Range | Max Range | Value
---------------|--------------------|-------|-----------|------------
-One-handed    | Club               |       |           | Poor
-.             | Dagger             | 1     | 2         | Modest
-.             | Hammer             |       |           | Average
-.             | Hand axe           | 1     | 2         | Average
-.             | Flail              |       |           | Upscale
-.             | Longsword          |       |           | Upscale
-.             | Morningstar        |       |           | Upscale
-.             | Pike               |       |           | Upscale
-.             | Spear              | 1     | 2         | Modest
-.             | Warhammer          |       |           | Upscale
-Two-handed    | Great axe          |       |           | Rich
-.             | Greatsword         |       |           | Rich
-.             | Halberd            |       | 2         | Rich
-.             | Longbow            | 24    | 48        | Upscale
-.             | Shortbow           | 15    | 30        | Average
-Missile       | Crossbow           | 18    | 36        | Rich
-.             | Dart               | 2     | 3         | Poor
-.             | Hand crossbow      | 4     | 8         | Upscale
-.             | Heavy crossbow     | 20    | 40        | Rich
-.             | Sling              | 3     | 6         | Poor
+Category | Type                  | Description        | Range | Max Range | Value (ammo)
+---------|-----------------------|--------------------|-------|-----------|-------------
+Melee    | One-handed (1 boost)  | Club               |       |           | Poor
+.        |                       | Dagger             | 1     | 2         | Modest
+.        |                       | Hammer             |       |           | Average
+.        |                       | Hand axe           | 1     | 2         | Average
+.        |                       | Flail              |       |           | Upscale
+.        |                       | Javelin            | 3     | 6         | Modest
+.        |                       | Longsword          |       |           | Upscale
+.        |                       | Morningstar        |       |           | Upscale
+.        |                       | Pike               |       |           | Upscale
+.        |                       | Shortsword         |       |           | Average
+.        |                       | Spear              | 1     | 2         | Modest
+.        |                       | Warhammer          |       |           | Upscale
+.        | Two-handed (2 boosts) | Great axe          |       |           | Rich
+.        |                       | Greatsword         |       |           | Rich
+.        |                       | Halberd            |       | 2         | Rich
+Missile  | Light (1 boost)       | Dart               | 2     | 3         | Poor
+.        |                       | Hand crossbow      | 4     | 8         | Upscale
+.        |                       | Shortbow           | 15    | 30        | Average
+.        |                       | Sling              | 3     | 6         | Poor
+.        | Heavy (2 boosts)      | Crossbow           | 18    | 36        | Rich
+.        |                       | Heavy crossbow     | 20    | 40        | Rich
+.        |                       | Longbow            | 24    | 48        | Upscale
+
+Notes:
+
+
 
 ### Armor
 
-Some character classes can wear armor to protect themselves from damage. There are two types of armor available: regular, and heavy. Wearing regular armor gives the wearer 1 boost on Physical Defense, while wearing heavy armor provides 2 boosts on Physical Defense.
+Some character classes can wear armor to protect themselves from damage. There are two types of armor available: regular, and heavy. Wearing regular armor gives the wearer 1 boost on Physical Defense, while wearing heavy armor provides 2 boosts for Physical Defense.
 
 #### Shields
 
 Using a shield gives you 1 boost to your Physical Defense. Not all classes can use a shield, and it can only be worn if the weapon used is a one-handed unit.
 
-
 Description   | Type    | Value
---------------|---------|------
+--------------|---------|--------
 Leather armor | Regular | Modest
 Chain mail    | Regular | Upscale
 Plate mail    | Heavy   | Rich
@@ -1198,7 +1213,6 @@ Your character’s name is very important, as it also helps set the mood. You ca
 ## Running the game
 
 You have decided to be the Game Master and lead your friends into a world of adventure and excitement. Fantastic! To do this, you need to understand how to run combat, manage monsters, and keep track of all the happenings in every session. It might sound daunting, but Perilous Ventures is designed to be easy to run.
-
 
 ### The ORC Engine
 
@@ -1546,11 +1560,15 @@ There are two types of weapons available for players, one-handed and two-handed.
 
 #### One-Handed
 
-These weapons get no boost but will remove the Physical Action attack penalty from using no weapons. Examples of one-handed weapons are daggers, clubs, hand axes, longswords, slings, and morningstars.
+These weapons get 1 boost on a Physical Action attack roll. Examples of one-handed weapons are daggers, clubs, hand axes, longswords, slings, and morningstars.
 
 #### Two-handed
 
-These types of weapons add 1 boost to Physical Action rolls. Examples of these are: Two-handed swords, bastard swords, flails, great axes, all bows and crossbows.
+These types of weapons add 2 boosts to Physical Action rolls. Examples of these are: Two-handed swords, bastard swords, flails, great axes.
+
+#### Missile weapons
+
+All missile weapons add 1 boost to their attack roll,
 
 ### Armor
 
