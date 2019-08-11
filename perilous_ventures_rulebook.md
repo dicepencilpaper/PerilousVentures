@@ -1109,6 +1109,8 @@ Roll (2d6) | Wealth Level
 
 A character's wealth level is only affected by any purchases performed at their current wealth level and the adjacent lower level. Player characters will have at the start 1d6+4 wealth points available. For every single purchase made at the current level, or for every 10 purchases made at the immediate lower level, the character will lose 1 wealth point.
 
+If the character decides to buy an item from the next highest wealth level, they will lose all their wealth points and go down a wealth level.
+
 Any purchases made from items belonging to two or more levels down are inconsequential to the character. For example, an Upscale character buying items of Modest cost doesn't lose any wealth points.
 
 If a character loses all their wealth points, they in fact go down to the next lower wealth level with 10 wealth points, with all the disadvantages that implies.
@@ -1150,10 +1152,6 @@ Missile  | Light (1 boost)       | Dart               | 2     | 3         | Poor
 .        |                       | Heavy crossbow     | 20    | 40        | Rich
 .        |                       | Longbow            | 24    | 48        | Upscale
 
-Notes:
-
-
-
 ### Armor
 
 Some character classes can wear armor to protect themselves from damage. There are two types of armor available: regular, and heavy. Wearing regular armor gives the wearer 1 boost on Physical Defense, while wearing heavy armor provides 2 boosts for Physical Defense.
@@ -1194,7 +1192,7 @@ Tinderbox (flint & steel) | Modest
 Waterskin                 | Modest
 Wine, 1 quart             | Upscale
 
-## FINALIZING THE DETAILS
+## Finalizing the details
 
 By now, your character should be well-defined in terms of numbers and stats, but the question is: Who is your character? Of all the tasks related to creating a player character in an RPG system, this is the most difficult task for most people. However, if you find yourself in this situation, don’t despair.
 
@@ -1338,9 +1336,9 @@ For boss monsters, or maybe even for an exceptionally strong and dangerous leade
 
 Normally, if the highest initiative roll for a group is equal to 1, that is considered surprised, and thus caught flat-footed and cannot act for one round of combat. This is optional, and it is left to the discretion of the GM based on the situation. Here are a few examples:
 
-*   If the characters make noise entering a dungeon room, whatever monsters are inside will know about the character’s presence, and will not be surprised. However, the characters could be surprised in this situation, for example, if they did not listen for noises or simply expect the room to be empty. \
+*   If the characters make noise entering a dungeon room, whatever monsters are inside will know about the character’s presence, and will not be surprised. However, the characters could be surprised in this situation, for example, if they did not listen for noises or simply expect the room to be empty.
 
-*   If there is an ambush from either side, then it is obvious that the side being ambushed has to roll for surprise, unless of course, they already are expecting said ambush. \
+*   If there is an ambush from either side, then it is obvious that the side being ambushed has to roll for surprise, unless of course, they already are expecting said ambush.
 
 Use common sense with these situations as a GM, trust your instincts, and go for what would be more enjoyable at that moment in the game.
 
@@ -1586,61 +1584,43 @@ Monsters and creatures don’t stick completely to the parameters previously est
 
 Statistics for monsters are presented as follows:
 
----
-
 **Hobgoblin**
 
-**Damage		**HP 3		LP 1
-
-**Speed		**1
-
-**Physical		**Attack 2		Defense 1
-
-**Magical		**Action 1		Defense 1
-
-**Attacks**		Weapon.
----
-
-
+Damage:		HP 3, LP 1
+Speed:		1
+Physical:	Action 2, Defense 1
+Mental:		Action 1, Defense 1
+Attacks:	Weapon.
 
 #### Damage
 
 This section presents how many points of damage the creature can take. You have two scores: Hero Points (HP), and Life Points (LP).
 
-
 #### Speed
 
 This shows the movement speed of the creature in a combat round. It’s presented in zones. When a monster shows a movement of 0, that doesn’t mean that it can’t move, but rather that it moves only enough to cover a distance of around five feet. When the creature is unable to move, double dashes will be shown here.
-
 
 #### Physical
 
 This section shows the statistics used in physical combat, in the form of how many dice need to be rolled for the action being performed. If the number shown is followed by a negative sign, the roll being performed is dropped (thus, the lowest die is picked).
 
-
-##### ATTACK
+##### Action
 
 This is the number of dice rolled when performing a physical action for the monster.
 
-
-##### DEFENSE
+##### Defense
 
 This presents the number of dice to be rolled for the defense roll when facing melee or missile combat, as long as it’s non-magical.
 
+#### Mental
 
-#### Magical
+This section shows the statistics used in mental actions, including magical combat if it applies. Same as with the Physical section above, for the attack and defense modifiers shown, If the value shown is a positive value, boost the attack roll by that many dice.
 
-This section shows the statistics used in magical combat. Same as with the Physical section above, for the attack and defense modifiers shown, If the value shown is a positive value, boost the attack roll by that many dice.
-
-If the number shown is a negative, drop the roll by the number indicated.  When a value of 0 is shown, that means that you just make a regular d6 roll for the monster.
-
-
-##### ACTION
+##### Action
 
 This is the total number of dice that must be rolled when performing a mental action for the monster. It applies when using any spellcasting abilities or when manipulating a magical device.
 
-
-##### DEFENSE
+##### Defense
 
 This presents the dice that need to be rolled for the defense roll when the monster is the target of a magical attack.
 
