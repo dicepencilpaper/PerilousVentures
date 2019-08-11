@@ -1109,6 +1109,8 @@ Roll (2d6) | Wealth Level
 
 A character's wealth level is only affected by any purchases performed at their current wealth level and the adjacent lower level. Player characters will have at the start 1d6+4 wealth points available. For every single purchase made at the current level, or for every 10 purchases made at the immediate lower level, the character will lose 1 wealth point.
 
+If the character decides to buy an item from the next highest wealth level, they will lose all their wealth points and go down a wealth level.
+
 Any purchases made from items belonging to two or more levels down are inconsequential to the character. For example, an Upscale character buying items of Modest cost doesn't lose any wealth points.
 
 If a character loses all their wealth points, they in fact go down to the next lower wealth level with 10 wealth points, with all the disadvantages that implies.
@@ -1150,10 +1152,6 @@ Missile  | Light (1 boost)       | Dart               | 2     | 3         | Poor
 .        |                       | Heavy crossbow     | 20    | 40        | Rich
 .        |                       | Longbow            | 24    | 48        | Upscale
 
-Notes:
-
-
-
 ### Armor
 
 Some character classes can wear armor to protect themselves from damage. There are two types of armor available: regular, and heavy. Wearing regular armor gives the wearer 1 boost on Physical Defense, while wearing heavy armor provides 2 boosts for Physical Defense.
@@ -1194,7 +1192,7 @@ Tinderbox (flint & steel) | Modest
 Waterskin                 | Modest
 Wine, 1 quart             | Upscale
 
-## FINALIZING THE DETAILS
+## Finalizing the details
 
 By now, your character should be well-defined in terms of numbers and stats, but the question is: Who is your character? Of all the tasks related to creating a player character in an RPG system, this is the most difficult task for most people. However, if you find yourself in this situation, don’t despair.
 
@@ -1338,9 +1336,9 @@ For boss monsters, or maybe even for an exceptionally strong and dangerous leade
 
 Normally, if the highest initiative roll for a group is equal to 1, that is considered surprised, and thus caught flat-footed and cannot act for one round of combat. This is optional, and it is left to the discretion of the GM based on the situation. Here are a few examples:
 
-*   If the characters make noise entering a dungeon room, whatever monsters are inside will know about the character’s presence, and will not be surprised. However, the characters could be surprised in this situation, for example, if they did not listen for noises or simply expect the room to be empty. \
+*   If the characters make noise entering a dungeon room, whatever monsters are inside will know about the character’s presence, and will not be surprised. However, the characters could be surprised in this situation, for example, if they did not listen for noises or simply expect the room to be empty.
 
-*   If there is an ambush from either side, then it is obvious that the side being ambushed has to roll for surprise, unless of course, they already are expecting said ambush. \
+*   If there is an ambush from either side, then it is obvious that the side being ambushed has to roll for surprise, unless of course, they already are expecting said ambush.
 
 Use common sense with these situations as a GM, trust your instincts, and go for what would be more enjoyable at that moment in the game.
 
@@ -1586,61 +1584,47 @@ Monsters and creatures don’t stick completely to the parameters previously est
 
 Statistics for monsters are presented as follows:
 
----
+#### Hobgoblin
 
-**Hobgoblin**
+**Damage:**	HP 3, LP 1
 
-**Damage		**HP 3		LP 1
+**Speed:** 1
 
-**Speed		**1
+**Physical:** Action 2, Defense 1
 
-**Physical		**Attack 2		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Magical		**Action 1		Defense 1
-
-**Attacks**		Weapon.
----
-
-
+**Attacks:** Weapon.
 
 #### Damage
 
 This section presents how many points of damage the creature can take. You have two scores: Hero Points (HP), and Life Points (LP).
 
-
 #### Speed
 
 This shows the movement speed of the creature in a combat round. It’s presented in zones. When a monster shows a movement of 0, that doesn’t mean that it can’t move, but rather that it moves only enough to cover a distance of around five feet. When the creature is unable to move, double dashes will be shown here.
-
 
 #### Physical
 
 This section shows the statistics used in physical combat, in the form of how many dice need to be rolled for the action being performed. If the number shown is followed by a negative sign, the roll being performed is dropped (thus, the lowest die is picked).
 
-
-##### ATTACK
+##### Action
 
 This is the number of dice rolled when performing a physical action for the monster.
 
-
-##### DEFENSE
+##### Defense
 
 This presents the number of dice to be rolled for the defense roll when facing melee or missile combat, as long as it’s non-magical.
 
+#### Mental
 
-#### Magical
+This section shows the statistics used in mental actions, including magical combat if it applies. Same as with the Physical section above, for the attack and defense modifiers shown, If the value shown is a positive value, boost the attack roll by that many dice.
 
-This section shows the statistics used in magical combat. Same as with the Physical section above, for the attack and defense modifiers shown, If the value shown is a positive value, boost the attack roll by that many dice.
-
-If the number shown is a negative, drop the roll by the number indicated.  When a value of 0 is shown, that means that you just make a regular d6 roll for the monster.
-
-
-##### ACTION
+##### Action
 
 This is the total number of dice that must be rolled when performing a mental action for the monster. It applies when using any spellcasting abilities or when manipulating a magical device.
 
-
-##### DEFENSE
+##### Defense
 
 This presents the dice that need to be rolled for the defense roll when the monster is the target of a magical attack.
 
@@ -1654,29 +1638,23 @@ In the case of monsters that can cast magic, the total amount of available actio
 
 This section describes the attacks available to the monster. If there’s a number and a description of an attack, it means that, on rolling that number, the monster will optionally perform that special attack instead of simply causing lethal damage.
 
-
-##
-
-
-## BESTIARY
+## Bestiary
 
 Creatures wondrous and dangerous, marvelous or humble, diminutive or gigantic… They’re all found in this world. What follows is a list of some of these beasts and entities, information captured throughout the years by diligent adventurers and chroniclers, for the purpose of helping future adventurers as they follow their own perilous ventures...
 
-
 ## A
-
 
 ### Amaroq
 
-**Damage		**HP 3		LP 1
+**Damage:** HP 3, LP 1
 
-**Speed		**2
+**Speed:** 2
 
-**Physical		**Attack 3		Defense 1
+**Physical:** Action 3, Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Claws, bite.
+**Attacks:** Claws, bite.
 
 The amaroq is a formidable beast related to wolves. Unlike their more common counterpart, the amaroq is a solitary animal, preferring to wander and hunt by itself. However, amaroqs do have lairs where they go to rest after a long hunting session.
 
@@ -1686,21 +1664,17 @@ The amaroq's appearance changes depending on its location. Those from cold, snow
 
 They are fairly intelligent and have evolved to recognize humanoids as direct threats to their hunts and their environments. Therefore, an amaroq will not hesitate in attacking a group of humans as long as that group is not too large.
 
-
-###
-
-
 ### Ant, giant
 
-**Damage		**HP 3		LP 3
+**Damage:** HP 3, LP 3
 
-**Speed		**2
+**Speed:** 2
 
-**Physical		**Attack 1		Defense 3
+**Physical:** Action 1, Defense 3
 
-**Magical		**Action --		Defense 1
+**Mental:**Action 1, Defense 1
 
-**Attacks**		Bite. 6: Carry victim away.
+**Attacks:** Bite. 6: Carry victim away.
 
 Vicious, fast, and incredibly tough just like their normal-sized counterparts, giant ants are about the size of a domesticated cat. They are a shiny blue-black color, and their bite is incredibly painful. On some occasions, they opt for carrying away their opponents, presumably to take them back to their lair and eat them.
 
@@ -1709,15 +1683,15 @@ Their underground lairs are an affair of complicated, impossible tunnels. A smal
 
 ### Ape, carnivorous
 
-**Damage		**HP 4		LP 2
+**Damage:**HP 4		LP 2
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2		Defense 2
 
-**Magical		**Action --		Defense 1
+**Mental:**Action --		Defense 1
 
-**Attacks**		Punch, bite. 6: body slam (stun).
+**Attacks:**		Punch, bite. 6: body slam (stun).
 
 They are nearly indistinguishable from their herbivore counterparts except for the large plume of coarse hair that sticks up from the top of their head to the middle of their back, and the huge canine teeth that protrude out like those of a sabertooth. Their fur ranges from a ruddy brown to black.
 
@@ -1726,15 +1700,15 @@ They are quite strong although not that agile, and one of their favorite ways to
 
 ### Assassin vine
 
-**Damage		**HP 5		LP 1
+**Damage:**HP 5		LP 1
 
-**Speed		**0
+**Speed:**0
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1		Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:**Action --		Defense 1
 
-**Attacks**		Slam. 4-6: grapple.
+**Attacks:**		Slam. 4-6: grapple.
 
 These appear as innocuous vines with lush green leaves and their characteristic, sweet-smelling, seven-petal lavender flowers. If a creature passes by them, they do not make any attempt to attack, unfortunately, in their natural habitat the vines tend to run all over the place, so the chances of someone stepping on the vines are rather high (1-4 on 1d6).
 
@@ -1746,15 +1720,15 @@ Once they detect a living being touching them, the vines immediately respond in 
 
 ### Basilisk
 
-**Damage		**HP 5		LP 2
+**Damage:**HP 5		LP 2
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2		Defense 2
 
-**Magical		**Action --		Defense 2
+**Mental:**Action --		Defense 2
 
-**Attacks**		Bite, tail lashing. 6: paralyzing gaze.
+**Attacks:**		Bite, tail lashing. 6: paralyzing gaze.
 
 A bizarre creature of obscure magical origins that looks like a black-feather rooster but with a body shaped like a snake, basilisks are dangerous creatures that tend to mind their own business but will undoubtedly charge and attack at the slightest threat.
 
@@ -1765,30 +1739,30 @@ When a paralysis attack is successful. The victim will be under the paralyzed co
 
 ### Bear, grizzly
 
-**Damage		**HP 4		LP 3
+**Damage:**HP 4		LP 3
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 3		Defense 1
+**Physical:** Action 3		Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:**Action --		Defense 1
 
-**Attacks**		Claws, bite. 6: bear hug (grapple)
+**Attacks:**		Claws, bite. 6: bear hug (grapple)
 
 Grizzly bears, like most wildlife creatures, will generally stay away from the path of adventurers. However, if feeling threatened, they will not hesitate to attack and pursue anyone. Sometimes they will perform a bear hug and grapple a victim. In this situation a PA/PD contest will need to be rolled on every combat round, or else the victim takes one point of damage from the bear’s incredibly strong hug.
 
 
 ### Bee, giant
 
-**Damage		**HP 0		LP 1
+**Damage:**HP 0		LP 1
 
-**Speed		**1, fly 2
+**Speed:**1, fly 2
 
-**Physical		**Attack 1		Defense 2
+**Physical:** Action 1		Defense 2
 
-**Magical		**Action --		Defense 1
+**Mental:**Action --		Defense 1
 
-**Attacks**		Sting.
+**Attacks:**		Sting.
 
 A giant bee looks just like a regular bee but it’s roughly the size of a pigeon. When threatened, they will sting their victims, leaving the stinger embedded in the victim releasing a SL 1 poison that lasts for 1d6-2 rounds (minimum 1) or until the stinger is removed. After a successful attack, the bee will die.
 
@@ -1797,15 +1771,15 @@ Giant bees build amazing, giant beehives that can be more than 50 feet high, and
 
 ### Boggart
 
-**Damage		**HP 1		LP 1
+**Damage:**HP 1		LP 1
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 1		Defense 2
+**Physical:** Action 1		Defense 2
 
-**Magical		**Action 2		Defense 3
+**Mental:**Action 2		Defense 3
 
-**Attacks**		Weapon.
+**Attacks:**		Weapon.
 
 The smallest members of the goblinoid family, boggarts are quite dainty, the tallest reaching around two feet in height. Their skin tends to be a lighter olive color, and they also tend to not have the characteristic skin spots nor the protruding tusks. Their bodies are quite skinny and wiry, but have proportionally longer legs than goblins.
 
@@ -1816,15 +1790,15 @@ Boggarts have a mischievous side to them and can also drive a hard bargain. They
 
 ### Bugbear
 
-**Damage		**HP 4		LP 2
+**Damage:**HP 4		LP 2
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 3/4	Defense 2
+**Physical:** Action 3/4	Defense 2
 
-**Magical		**Action 1		Defense 1
+**Mental:**Action 1		Defense 1
 
-**Attacks**		One-handed/two-handed weapon.
+**Attacks:**		One-handed/two-handed weapon.
 
 Bugbears are the top echelon of the goblinoid family, and are highly intelligent and skilled, ferocious warriors. Tall, with some reaching more than 75 inches in height, muscular, and unlike other goblinoids, they’re covered with dark, very short fur, usually in a color that matches their skin, which ranges from grayish tan all the way to dark chocolate browns, although albinos are not that uncommon either. They have the characteristic outward-pointing ears of a goblin, but usually they cut them down considerably (as most of that extension is just plain cartilage that doesn’t affect hearing), or they wear thick hoop earrings at the pointy end of their ears, which then they tie together behind their heads with a leather strap to keep their ears away from damage in combat.
 
@@ -1838,15 +1812,15 @@ For unknown reasons, magic doesn’t flow well through bugbears. Very few have h
 
 ### Centipede, giant
 
-**Damage		**HP 1		LP 1
+**Damage:**HP 1		LP 1
 
-**Speed		**2
+**Speed:**2
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1		Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:**Action --		Defense 1
 
-**Attacks**		Bite. 6: Venom.
+**Attacks:**		Bite. 6: Venom.
 
 You can usually hear them inside a dungeon with a characteristic continuous, quick tick-tick sound of their chitinous myriad legs tapping against hard stone floors. Giant centipedes are quick, vicious, and sometimes deadly. They are usually very dark brown or black, with some odd examples in dark green.
 
@@ -1855,15 +1829,15 @@ Their bite can sometimes be venomous (SL 2), which will cause the victim to beco
 
 ### Cobold
 
-**Damage		**HP 1		LP 1
+**Damage:**HP 1		LP 1
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 2		Defense 1
+**Physical:** Action 2		Defense 1
 
-**Magical		**Action 1		Defense 2
+**Mental:**Action 1		Defense 2
 
-**Attacks**		Weapon.
+**Attacks:**		Weapon.
 
 Usually reviled and rejected in society, cobolds are odd creatures with an unknown magical origin. Their skin is charcoal black and has a strange appearance similar to smooth carved wood. Their bodies are skinny and oddly bent, looking like a miniature human being with crooked claw-like fingers, and are no more than 36 inches in height. On the place where a humanoid would have their heart, cobolds have a strange, softly-glowing circle, betraying their arcane origins. They usually wear long (for them) cloaks to cover themselves and their glowing "heart".
 
@@ -1875,15 +1849,15 @@ Cobolds are known to make demands to towns, castles, and other types of residenc
 
 ### Dragon
 
-**Damage		**HP 10		LP 5
+**Damage:**HP 10		LP 5
 
-**Speed		**2, fly 5
+**Speed:**2, fly 5
 
-**Physical		**Attack 4		Defense 3
+**Physical:** Action 4		Defense 3
 
-**Magical		**Action 3		Defense 3	AP 8
+**Mental:**Action 3		Defense 3	AP 8
 
-**Attacks**		Bite, claws, tail whip. 5-6: breath weapon, spells.
+**Attacks:**		Bite, claws, tail whip. 5-6: breath weapon, spells.
 
 Unique, powerful, dangerous, dragons are magnificent creatures of legend and lore. They can be symbols of justice and good as well as for evil and death. They are reptilian in nature, with giant wings, long tails, and powerful breath powers that can devastate large areas.
 
@@ -1931,15 +1905,15 @@ Dragons are classified by the color of their scales, as these determine their lo
 
 ### Gargoyle
 
-**Damage		**HP 3		LP 3
+**Damage:**HP 3		LP 3
 
-**Speed		**1, fly 2
+**Speed:**1, fly 2
 
-**Physical		**Attack 2		Defense 3
+**Physical:** Action 2		Defense 3
 
-**Magical		**Action --		Defense 2
+**Mental:**Action --		Defense 2
 
-**Attacks**		Claws, bite, horn.
+**Attacks:**		Claws, bite, horn.
 
 Gargoyles are magical creatures made of stone, which means they must be the idea and creation of Erra, goddess of elements. They are relatively small generally, usually about 30 to 50 inches in height. They are squat with disproportionately thick bodies that belie their agility. Gargoyles usually wear grimacing faces with horrible, wide grins, and a multitude of horns on their heads, but they don’t necessarily have humanoid bodies, as some can have bodies that look like wolves, lizards, or birds of prey..
 
@@ -1948,15 +1922,15 @@ They regularly are used to guard buildings and entrances, simulating statues, un
 
 ### Ghoul
 
-**Damage		**HP 3		LP 1
+**Damage:**HP 3		LP 1
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2		Defense 2
 
-**Magical		**Action 1		Defense 2
+**Mental:**Action 1		Defense 2
 
-**Attacks**		Claws, bite.
+**Attacks:**		Claws, bite.
 
 Ghouls are unspeakably evil creatures who usually dwell in abandoned places by themselves. They do not have a specific appearance, as they adopt the appearance of their last victim. This cannot be confused with ghouls taking over their victim’s body, as some people think. As soon as their victim expires, they go through a pleasurable yet painful experience as their bodies completely transform and copy their victim’s.
 
@@ -1965,15 +1939,15 @@ However, they do not possess the victim’s memories. They are intelligent enoug
 
 ### Giant, Frost
 
-**Damage		**HP 10		LP 5
+**Damage:**HP 10		LP 5
 
-**Speed		**2
+**Speed:**2
 
-**Physical		**Attack 4		Defense 2
+**Physical:** Action 4		Defense 2
 
-**Magical		**Action 1		Defense 2
+**Mental:**Action 1		Defense 2
 
-**Attacks**		Fist, kick, toss boulder.
+**Attacks:**		Fist, kick, toss boulder.
 
 Frost giants are the inhabitants of very tall, cold mountains. Their appearance is of a 20 to 25 feet tall, muscular human with pale blue skin and white hair and irises. Frost giants usually wear long mismatched furs and skins takes from different animals, and live to braid their hair and beards. They populate these remote areas in very large-scaled but primitive settlements. A typical frost giant settlement is composed of around 2d6 members, usually split evenly between males and females.
 
@@ -1982,15 +1956,15 @@ They are reserved and do not tend to interfere with the affairs of the external 
 
 ### Goblin
 
-**Damage		**HP 1		LP 1
+**Damage:**HP 1		LP 1
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 1 	Defense 2
+**Physical:** Action 1 	Defense 2
 
-**Magical		**Action 1 		Defense 1
+**Mental:**Action 1 		Defense 1
 
-**Attacks**		Light weapon.
+**Attacks:**		Light weapon.
 
 Goblins are small creatures about 36 inches tall. Their bodies are quite skinny and wiry, with gangly, thin arms and relatively short legs. Skin tones range from olive green to brown-black, and they also tend to have large freckles on their faces, backs, arms, and legs. Their eyes are usually a very intense yellow-amber, and their characteristic long ears extend a good six inches out horizontally from their heads. They have small tusks that protrude upward from their mouths.
 
@@ -1999,15 +1973,15 @@ They are well known for being excellent thieves and spies due to their natural a
 
 ### Griffin
 
-**Damage		**HP 5		LP 2
+**Damage:**HP 5		LP 2
 
-**Speed		**2, fly 8
+**Speed:**2, fly 8
 
-**Physical		**Attack 2		Defense 3
+**Physical:** Action 2		Defense 3
 
-**Magical		**Action --		Defense 2
+**Mental:**Action --		Defense 2
 
-**Attacks**		Claws, bite. 6: Grab and lift.
+**Attacks:**		Claws, bite. 6: Grab and lift.
 
 Griffins are large, majestic creatures that have the oversized body of a lion with the head, wings, and claws of a giant eagle, and they can reach a length of 10 to 12 feet, not including the tail. Even though it's body is that of a lion, it is covered in soft, small feathers throughout. A griffin's plumage is usually very dark brown and black, with deep orange feathers at the outer edge of their wings and the end of the lion's tail. Their habitat is usually on tall, forested mountains in temperate climates, where they build large, impressive nests on sheer cliffs.
 
@@ -2021,15 +1995,15 @@ One of their more fearsome attacks is to grab a victim, take flight quickly, and
 
 ### Hellhound
 
-**Damage		**HP 5		LP 2
+**Damage:**HP 5		LP 2
 
-**Speed		**2
+**Speed:**2
 
-**Physical		**Attack 2		Defense 1
+**Physical:** Action 2		Defense 1
 
-**Magical		**Action --		Defense 3
+**Mental:**Action --		Defense 3
 
-**Attacks**		Claws, bite. 6: Fire breath, 1 zone, single target.
+**Attacks:**		Claws, bite. 6: Fire breath, 1 zone, single target.
 
 These infernal, magical canine-like beasts look like giant mastiffs, their heads a solid six feet off the ground. Their skin has no fur, with a dark gray coloring that has a strange polished metal sheen to it. However, they are not made of metal at all. They are muscular, heavy-set, with cut-off tails, large silvery canine fangs, and glowing red eyes. They make an unsettling, incredibly deep growl.
 
@@ -2040,15 +2014,15 @@ Their most fearsome attack is their fire breath, which can strike a target from 
 
 ### Hobgoblin
 
-**Damage		**HP 3		LP 2
+**Damage:**HP 3		LP 2
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2		Defense 2
 
-**Magical		**Action 1		Defense 1
+**Mental:**Action 1		Defense 1
 
-**Attacks**		Weapon.
+**Attacks:**		Weapon.
 
 The larger cousin of goblins, hobgoblins are taller, more muscular, and are more adept at combat and other activities that require strenuous physical activity when compared to their smaller brethren. Other than that, in terms of appearance they are quite similar, with the same olive green to brown-black skin tones and large, dark freckles and spots on their bodies. Their eyes are yellow-amber, and their characteristic long ears extend about eight inches out horizontally from their heads. They have small tusks that protrude upward from their mouths. Their height usually ranges from 55 to 65 inches tall.
 
@@ -2063,15 +2037,15 @@ Hobgoblins have a natural tendency to be hot-headed and impulsive. But that does
 
 ### Lizardfolk
 
-**Damage		**HP 2		LP 2
+**Damage:**HP 2		LP 2
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 1		Defense 2
+**Physical:** Action 1		Defense 2
 
-**Magical		**Action 1		Defense 1
+**Mental:**Action 1		Defense 1
 
-**Attacks**		Claws, bite, weapon.
+**Attacks:**		Claws, bite, weapon.
 
 Tall, lean, and rather impressive-looking, lizardfolk are tough, noble, and dependable people. Their bodies are covered with a thick reptilian skin, that ranges from colors like bright green and turquoise to deep greens and hazels. Their heads and faces are shaped like those of a gecko, and some have a crest on top of the head that can raise and lower at will. Lizardfolk also have long, strong tails that they can use as a weapon against their opponents.
 
@@ -2085,15 +2059,15 @@ They favor lighter armor and rely on the resiliency of  their skin. Lizardfolk f
 
 ### Minotaur
 
-**Damage		**HP 5		LP 3
+**Damage:**HP 5		LP 3
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 4		Defense 2
+**Physical:** Action 4		Defense 2
 
-**Magical		**Action 1		Defense 2
+**Mental:**Action 1		Defense 2
 
-**Attacks**		Weapon, horns.
+**Attacks:**		Weapon, horns.
 
 Minotaurs are amazingly strong creatures with a large human body but the head of a bull. They can reach heights of 96 inches, and are pure muscle and brute strength. Their bodies are covered in a very short fur similar to that of a bull, and ranges in color from dark reddish brown to black.
 
@@ -2102,15 +2076,15 @@ Minotaurs are fierce warriors and absolutely bearsome in combat. They handle two
 
 ### Mummy
 
-**Damage		**HP 3		LP 3
+**Damage:**HP 3		LP 3
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1		Defense 1
 
-**Magical		**Action --		Defense 2
+**Mental:**Action --		Defense 2
 
-**Attacks**		Claws. 6: Illness.
+**Attacks:**		Claws. 6: Illness.
 
 Mummies are undead entities who've gone through extensive physical and mystical rituals to preserve their bodies for eternity. The vast majority of mummies remain in their natural state of death. Occasionally the ritual performed doesn't do enough to appease the dead entity’s soul, which causes it to return to the material world as an undead entity by occupying their old body. They usually aim to take revenge on those who have caused them harm, finish an unaccomplished goal from their previous life, guard they ancestral home, or even as simple as keeping invaders away from their burial chamber.
 
@@ -2125,15 +2099,15 @@ Mummies are very single-minded in their purpose, and will be relentless and almo
 
 ### Ogre
 
-**Damage		**HP 7		LP 4
+**Damage:**HP 7		LP 4
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 4		Defense 3
+**Physical:** Action 4		Defense 3
 
-**Magical		**Action 1		Defense 1
+**Mental:**Action 1		Defense 1
 
-**Attacks**		Weapon.
+**Attacks:**		Weapon.
 
 The human-like ogre is a species of incredible strength and size, usually reaching 120 to 140 inches in height. Their bodies tend to accumulate a lot of fat and, due to their size, that might give the impression that they are simply overweight, but under those layers of fat is pure muscle that is stronger than that of almost any humanoid.
 
@@ -2144,15 +2118,15 @@ Their bodies are not that good at controlling their temperature, so ogres enjoy 
 
 ### Orc
 
-**Damage		**HP 4		LP 2
+**Damage:**HP 4		LP 2
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 3		Defense 2
+**Physical:** Action 3		Defense 2
 
-**Magical		**Action 1		Defense 2
+**Mental:**Action 1		Defense 2
 
-**Attacks**		Weapon.
+**Attacks:**		Weapon.
 
 Orcs are, together with bugbears and dwarves, arguably the best melee warriors on the battlefield. Fierce, master of two-handed weapons, and a naturally high resistance to magical attacks makes confronting an orc something to be seriously considered.
 
@@ -2166,15 +2140,15 @@ Orcs have a very complex culture, with many superstitions, and even as they inte
 
 ### Piskie
 
-**Damage		**HP 1		LP 1
+**Damage:**HP 1		LP 1
 
-**Speed		**2, fly 4
+**Speed:**2, fly 4
 
-**Physical		**Attack 1		Defense 2
+**Physical:** Action 1		Defense 2
 
-**Magical		**Action 2		Defense 2	AP 4
+**Mental:**Action 2		Defense 2	AP 4
 
-**Attacks**		Weapon, spell (Deceit).
+**Attacks:**		Weapon, spell (Deceit).
 
 Piskies are clever and naughty fey creatures that are tiny, mischievous, and quite strong in their magical powers considering their small size of no more than 12 inches in height. They are often ill-clothed or naked, but they have a preference for bits of finery, like silk ribbons and small precious stone earrings. They look like tiny halflings, with very skinny bodies. Their skin tones are the same as those of most humanoids, ranging from pale tan to dark brown. The have bat-like wings which allow them to fly and dart around like hummingbirds.
 
@@ -2186,15 +2160,15 @@ Some piskies are said to steal children or to lead travellers astray. They are d
 
 ### Rat, giant
 
-**Damage		**HP 1		LP 1
+**Damage:**HP 1		LP 1
 
-**Speed		**2
+**Speed:**2
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1		Defense 1
 
-**Magical		**Action --		Defense 3
+**Mental:**Action --		Defense 3
 
-**Attacks**		Claws, bite. 6: Illness.
+**Attacks:**		Claws, bite. 6: Illness.
 
 Giant rats are just like their normal counterparts but about 48 inches in length. They are sneaky, sometimes aggressive, and will definitely eat through materials, opening their way into unwanted places. Sometimes they can transmit illness with their bite; in the case that happens, the victim will be under the Sick condition for 2d6 rounds.
 
@@ -2204,15 +2178,15 @@ Giant rats are just like their normal counterparts but about 48 inches in length
 
 ### Shrieker
 
-**Damage		**HP 0		LP 1
+**Damage:**HP 0		LP 1
 
-**Speed		**0
+**Speed:**0
 
-**Physical		**Attack --		Defense 1
+**Physical:** Action --		Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:**Action --		Defense 1
 
-**Attacks**		None, shriek when harmed, 2 zone range.
+**Attacks:**		None, shriek when harmed, 2 zone range.
 
 Shriekers are rather large mushrooms that grow in thick clusters. The tops are reddish purple, and are pockmarked with myriad holes similar to a lotus blossom. They range from 12 to 36 inches in diameter, and grow from 24 to 60 inches in height. The stalks are an off-white color and quite thick.
 
@@ -2223,15 +2197,15 @@ There’s a 1-4 in 1d6 chance of a nearby creature becoming attracted to the shr
 
 ### Skeleton
 
-**Damage		**HP 4		LP 1
+**Damage:**HP 4		LP 1
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 1		Defense 2, 1 against blunt weapons.
+**Physical:** Action 1		Defense 2, 1 against blunt weapons.
 
-**Magical		**Action --		Defense 2
+**Mental:**Action --		Defense 2
 
-**Attacks**		Weapon.
+**Attacks:**		Weapon.
 
 Brought from eternal rest by the occult powers of Death magic, skeletons are a type of undead creature that is usually created for a very specific warfare-related purposes: guard a hall, patrol an area, or used as unwavering, faithful soldiers.
 
@@ -2242,15 +2216,15 @@ They have a natural weakness against blunt weapons, which lowers their physical 
 
 ### Snake, giant rattlesnake
 
-**Damage		**HP 2		LP 1
+**Damage:**HP 2		LP 1
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2		Defense 2
 
-**Magical		**Action --		Defense 1
+**Mental:**Action --		Defense 1
 
-**Attacks**		Bite. 5+: venom.
+**Attacks:**		Bite. 5+: venom.
 
 A giant rattlesnake is about 25 feet long, with the familiar patterns that identify the regular members of this species. They also have the dreaded rattle at the end of their tail which gives these snakes their unique name. In the case of the giant rattlesnake, it’s a very loud, lower-pitched sound that sends shivers down the spine of any seasoned adventurer.
 
@@ -2259,15 +2233,15 @@ Sometimes the attack of a rattlesnake will allow it to inject its venom into a v
 
 ### Spider, giant
 
-**Damage		**HP 3		LP 1
+**Damage:**HP 3		LP 1
 
-**Speed		**2
+**Speed:**2
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2		Defense 2
 
-**Magical		**Action --		Defense 1
+**Mental:**Action --		Defense 1
 
-**Attacks**		Bite. 6: grapple & web.
+**Attacks:**		Bite. 6: grapple & web.
 
 Giant spiders are found in dark, hidden areas in abandoned dungeons and castles, and also in caves throughout the world. They range from 24 to 48 inches in size, with black or blue-black coloring, and have short, stiff hairs covering their bodies in an almost spike-like way.
 
@@ -2279,15 +2253,15 @@ They are quite aggressive and territorial and will attack on sight. On some occa
 
 ### Topiar
 
-**Damage		**HP 6		LP 3
+**Damage:**HP 6		LP 3
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 2		Defense 4
+**Physical:** Action 2		Defense 4
 
-**Magical		**Action 1		Defense 2
+**Mental:**Action 1		Defense 2
 
-**Attacks**		Branches, fists
+**Attacks:**		Branches, fists
 
 Topiars are living trees, usually about 10 to 20 feet in height. When resting, they look just like any other tree, with thick barks and lush foliage, although not as wide on top as a regular tree. However, when woken up, the trunk separates into two legs, and their head and arms seem to sprout out of their foliage.
 
@@ -2296,15 +2270,15 @@ They are generally gentle creatures with a calm demeanor and the wisdom of hundr
 
 ### Troll
 
-**Damage		**HP 6		LP 4
+**Damage:**HP 6		LP 4
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 4		Defense 2
+**Physical:** Action 4		Defense 2
 
-**Magical		**Action 1		Defense 1
+**Mental:**Action 1		Defense 1
 
-**Attacks**		Weapon.
+**Attacks:**		Weapon.
 
 Large, imposing, and deadly, trolls are found all over the world, usually living in isolation, as independence is highly valued in their culture. A typical troll will be around 9 to 12 feet tall, with very muscular, human-like thick bodies. Their hands have only four fingers, and their feet four toes. They tend to be hairy in the same patterns a human can be. Their skin goes from dark gray-brown to pale gray. Usually, the darker-skinned trolls are found in the tropical areas, while skins get gradually lighter as you move into colder regions.
 
@@ -2347,15 +2321,15 @@ To randomly find out the origin of a vestige, roll 2d6 and consult the table bel
 
 #### Essence
 
-**Damage		**HP 2		LP 1
+**Damage:**HP 2		LP 1
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1		Defense 1
 
-**Magical		**Action 2		Defense 2	AP 1d6+2
+**Mental:**Action 2		Defense 2	AP 1d6+2
 
-**Attacks**		Single spell based on magic field.
+**Attacks:**		Single spell based on magic field.
 
 An essence vestige represents a single characteristic or aspect of the magic field they belong to. They tend to be completely incorporeal or adopt other semi-physical forms, with a physical manifestation and consistency ranging from cloud-like all the way to something akin to heavy grease, plasma, or other forms. They are extremely intelligent and decently powerful, although their magic is limited to whatever single aspect they represent.
 
@@ -2426,15 +2400,15 @@ Based on the essence’s magic field, you can randomly roll for the spell that i
 
 #### Incarnate
 
-**Damage		**HP 6		LP 3
+**Damage:**HP 6		LP 3
 
-**Speed		**1
+**Speed:**1
 
-**Physical		**Attack 2		Defense 3
+**Physical:** Action 2		Defense 3
 
-**Magical		**Action 3		Defense 2	AP 1d6 + 8
+**Mental:**Action 3		Defense 2	AP 1d6 + 8
 
-**Attacks**		Weapon, spells.
+**Attacks:**		Weapon, spells.
 
 A powerful entity that is a physical embodiment of a single magic field. When this force is released in the physical plane, it wanders around the world at insane speeds, ricocheting among living creatures until it stumbles upon an appropriate creature to act as a vessel to hold on to its power. They take over existing creatures, usually humanoids, and become a strange mix of the carnal and the divine, mixing characteristics from both planes of existence. Therefore their appearance changes, and the old personality of the individual is lost forever, consumed by the raw divine power that has taken over.
 
@@ -2443,15 +2417,15 @@ Incarnates are cunning and tend to be dangerous, as they tend to mix their incre
 
 #### Paragon
 
-**Damage		**HP 10		LP 6
+**Damage:**HP 10		LP 6
 
-**Speed		**2
+**Speed:**2
 
-**Physical		**Attack 4		Defense 4
+**Physical:** Action 4		Defense 4
 
-**Magical		**Action 4		Defense 4	AP 1d6+12
+**Mental:**Action 4		Defense 4	AP 1d6+12
 
-**Attacks**		Spells.
+**Attacks:**		Spells.
 
 A paragon vestige is transcendental and extremely powerful, closer to what we consider a demigod. They are the actual manifestation of a deity's power, a being that is half raw divine magic power and half celestial entity. When a deity exercises their power directly, this is what actually comes out of the celestial essence of the deity to perform their desired tasks.
 
@@ -2523,124 +2497,118 @@ Optionally, you can also add some sort of special effect to the top damage roll:
 
 What kind of attacks does this monster perform? It might be as simple as a weapon or a bite attack, or something more complicated as an attack, such as entangling the victim, or poisoning. You can also have a special attack that is triggered by the monster’s top roll; usually that would be its most deadly strike.
 
-
-###
-
-
 ### Random monster generation tables
 
 These tables will help you create random new monsters on the fly, or serve as a base for a more elaborate creation to throw at your players.
 
+#### Type (2d6)
 
-#### Type (2d6)		Size (1d6)		Behavior (1d6)
+Roll | Type
+-----|-------------
+2    | Undead
+3    | Vegetal
+4    | Avian
+5    | Insectoid
+6    | Humanoid
+7    | Mammal
+8    | Aquatic
+9    | Reptile
+10   | Draconic
+11   | Demonic
+12   | Celestial
 
-**ROLL	TYPE		ROLL	SIZE		ROLL	BEHAVIOR**
+#### Size (1d6)
 
-2**	**Undead		1	Tiny		1	Sleepy or lazy
+Roll | Size
+-----|-------------
+1    | Tiny
+2    | Small
+3    | Medium
+4    | Medium
+5    | Large
+6    | Giant
 
-3**	**Plant		2	Small		2	Calm
+#### Behavior (1d6)
 
-4	Avian		3	Medium		3	Friendly
-
-5	Insectoid		4	Medium		4	Scared
-
-6	Humanoid	5	Large		5	Hostile
-
-7	Mammal		6	Giant		6	Aggressive
-
-8	Aquatic
-
-9	Reptile
-
-10	Draconic
-
-11	Demonic
-
-12	Celestial
-
-
-#### Features (4d6, 1d6+1 times)	Attack type (2d6)
-
-**ROLL	FEATURE			ROLL	ATTACK**
-
-4	Rotting flesh			2	Spell or magical effect
-
-5	Multiple legs (1d6 x 2)		3-4	Condition
-
-6	Wings				5-9	Claws, bite, or weapon
-
-7	Exposed organs			10-11	Condition
-
-8	Tentacles				12	Spell or magical effect
-
-9	Humanoid face
-
-10	Long prehensile tail
-
-11	Scales
-
-12	Horns
-
-13	No legs, slithers like snake
-
-14	Slimy flesh
-
-15	Leaves and branches
-
-16	Vines sprout out
-
-17	Exoskeleton
-
-18	Antennae
-
-19	Fur
-
-20	Multiple face features (choose, roll 1d6)
-
-21	Noxious smell
-
-22	Multiple heads (1d6+1)
-
-23	Shapeless, amorphous
-
-24	Radiant glow
+Roll | Behavior
+-----|----------------
+1    | Sleepy or Lazy
+2    | Calm
+3    | Friendly
+4    | Scared
+5    | Hostile
+6    | Aggressive
 
 
-#### Condition (1d6)		Magic field (2d6)
+#### Features (3d6, roll 1d6+1 times)
 
-**ROLL	CONDITION		ROLL	FIELD**
+Roll | Feature
+-----|-------------------------------------------------------
+4    | Rotting flesh
+5    | Multiple legs (1d6 x 2)
+6    | Wings
+7    | Exposed organs
+8    | Tentacles
+9    | Humanoid face
+10   | Long prehensile tail
+11   | Scales
+12   | Horns
+13   | No legs, slithers like a snake
+14   | Slimy flesh
+15   | Leaves and branches
+16   | Vines sprout out
+17   | Exoskeleton
+18   | Antennae
+19   | Thick fur
+20   | Duplicated facial features (choose one, roll 1d6)
+21   | Noxious smell
+22   | Multiple heads (1d6 + 1)
+23   | Shapeless, amorphous
+24   | Radiant glow
 
-1	Sleep			2	Life
+#### Attack type (2d6)
 
-2	Exhaustion		3	Preservation
+Roll  | Behavior
+------|------------------------
+2     | Spell or magical effect
+3-4   | Condition
+5-9   | Claws, bite, or weapon
+10-11 | Condition
+12    | Spell or magical effect
 
-3	Poison			4	Truth
+If you roll "spell or magical effect", roll on this table:
 
-4	Confusion		5-6	Deceit
+Roll  | Magic field
+------|------------------------
+2     | Life
+3     | Preservation
+4     | Truth
+5-6   | Deceit
+7-9   | Element
+10    | Change
+11    | Ethereal
+12    | Death
 
-5	Unconscious		7-9 	Element
+If "condition" was rolled in the attack type, roll from the table below.
 
-6	Paralysis			10	Change
+Roll | Behavior
+-----|----------------
+1    | Sleep
+2    | Exhaustion
+3    | Poison
+4    | Confusion
+5    | Unconscious
+6    | Paralysis
 
-				11	Ethereal
-
-
-            12	Death
-
-
-
-
-## CHARACTER GROWTH
+## Character growth
 
 As characters become more experienced through constant adventuring, they will become better at what they do, just like it happens with people in real life. This gives players something to look forward to as they keep adventuring and exploring the dangerous world they live in, knowing that they will become more powerful as time goes by.
-
 
 ### Measuring progress
 
 Progress and advancement is measured by the number of successful experiences (SX) that a player character survives, which works somewhat as a mix between the classic experience point system, and the more modern milestone progress system.
 
 Note that evaluating what counts as a valid SX depends on the judgment of the Game Master, but there are basic guidelines that they can follow to award these appropriately.
-
 
 #### What counts as an SX?
 
@@ -2650,38 +2618,29 @@ Also, combat doesn’t necessarily has to end in a total defeat of the enemy to 
 
 Big, important resolutions achieved through role-playing, solving a huge puzzle, saving the lives of some villagers, and other heroic actions can also be given to the player characters as SX.
 
-
 ### Measuring growth
 
 To demonstrate growth in a palpable way that affects gameplay in a way advantageous to the player, some aspects of the character are modified as time goes on and they gain more SX.
-
 
 #### Action points
 
 Action points are used for special maneuvers and for casting spells. For every 5 SX gained by a player character, they gain 1 extra AP for their pool.
 
-
 #### Hero Points
 
 For every 10 SX gained by the player character, their hero point count will increase by 1.
-
 
 #### Life Points
 
 For every 20 SX gained by the player character, their life point count will increase by 1.
 
-
 #### New background
 
 As an optional measure of growth, and usually at the end of an adventure, the Game Master might want to grant one or more player characters an additional background based on the adventure they’ve completed. For example, if in the adventure the players spent a very large amount of time on a seafaring ship, the GM might want to give the characters a Sailor background.
 
-
-
-
-## DESIGNING ADVENTURES
+## Designing adventures
 
 Perilous Ventures is designed to work with the theater-of-the-mind (TOTM) style for combat and adventuring. This makes preparations for the Game Master very easy, since there’s no need for detailed maps with to-scale measurements.
-
 
 ### Zone maps
 
@@ -2689,38 +2648,23 @@ This system, with its emphasis on theater of the mind play style, uses a simplif
 
 As an example on how to write your zone maps, we will be using a regular, gridded map as a starting point and use that as a base on which we will write the map using the simplified mapping system. This way it’ll be easier for you to understand the concepts behind zone maps.
 
-
 ### Creating an adventure map
 
 This is a map for a very simple, one-shot adventure that takes place in a single-floor abandoned temple in the middle of a sinuous, cold, windy mountain road, surrounded by barren rocks and sheer cliffs.
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Perilous-Ventures2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Perilous-Ventures2.png "image_tooltip")
-
+[ regular map image ]
 
 Although this is a rather simple map, it can be further simplified if we represent it like this:
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Perilous-Ventures3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Perilous-Ventures3.png "image_tooltip")
-
+[ zone map image ]
 
 Now we’re not even bothering with measurements, or shapes. We can quickly diagram a layout that will essentially perform the same function as the grid map, but it’s much easier to draw and arguably is easier to read. Here’s how.
-
 
 #### Describing a map area
 
 We can structure an area description using the following sections: size, appearance, scene, and optionally, monsters and people.
 
-
-##### SIZE
+##### Size
 
 There’s some information that is “lost” when moving towards a zone map, and that is detailed room size information.  This can easily be annotated on the map notes if needed. But instead of writing down exact room measurements, you can write down the dimensions in terms of zones (see the section _Move_ under _Events_).
 
@@ -2732,8 +2676,7 @@ It’s up to you as the Game Master to judge if the character could move to one 
 
 For more detailed notes, you could write down width, length and height zone size for rooms. For example, in the case of our Temple of Gan map, you could represent the main hall’s size--which is on the map 40’ wide, by 20’ long, and 15’ tall--simply as W2, L1, H1.
 
-
-##### APPEARANCE
+##### Appearance
 
 Traditionally, room descriptions are detailed in a narrative form. Some game modules even go as far as having a highlighted section that's to be read to the players.
 
@@ -2741,76 +2684,53 @@ Writing this kind of prose can be a bit daunting. However, there's an easier way
 
 Instead of writing paragraphs of descriptions, write bullet points for each sense. We recommend you start with sight, as it's usually the very first thing we perceive when walking into an area. Then continue on with the other senses as required. If the room doesn't need a particular sensory description, like taste, simply skip that item from the description.
 
-
-##### SCENE
+##### Scene
 
 What is happening in this room? Are there monsters lurking and waiting to attack the heroes? Is there a trap? Or will they find an important NPC in this area? All these questions are answered in this section. You will also note here any information that might be for your eyes only, like what will happen if one of the heroes pulls that lever on the far wall.
 
-
-##### MONSTERS
+##### Monsters
 
 If needed, we can add a section for any monsters that will be found in this room by the heroes. Use the simple linear notation to write in the monsters’ stats and information, including how many of these are found in the area.
 
-
-##### PEOPLE
+##### People
 
 It might be that the heroes might find other people in the room, like a prisoner, a lost adventurer, or a stalking thief. Write down the information for the NPC in this area, using the linear notation used for them.
-
 
 ### Putting it all together
 
 Now knowing how to describe a room in the adventure, let’s see how that first room of the map shown above can look:
 
-
 #### Main Nave
-
 
 ##### Size
 
-
-
 *   W2, L1, H1
 
-
 ##### Appearance
-
-
 
 *   **Sight:** Dust everywhere, light enters through broken stained glass windows, worn out and scratched pews on both sides of the room.
 *   **Sound:** Every sound echoes throughout the area. Sound of dripping water.
 *   **Smell:** Dust, mildew, decaying flesh.
 
-
 ##### Scene
-
-
 
 *   There are a few kobolds here resting and not really paying attention to their surroundings. A couple of them are eating some nondescript food, and the others are having a conversation in hushed tones.
 
-
 ##### Monsters
 
-
-
-*   **4 Kobolds:** HP 1, LP 1, Speed 1, PA 1, PD 2, MA 1, MD 1, Attack: Weapon.
-
+*   **4 Cobolds:** HP 1, LP 1, Speed 1, PA 1, PD 2, MA 1, MD 1, Attack: Weapon.
 
 #### Why use this system?
 
 With these brief descriptions in bullet point format, you can embellish the description of the room in your own words. It allows for a more spontaneous and vibrant way to tell the story and describe the world for your players. You can also decide which aspect of the room the players get to hear first; it might be for example, that the smell of a certain room is the first thing they notice as they arrive. It’s up to the Game Master to prioritize this to the best effect.
 
-
-
-
-## MAGICAL ITEMS
+## Magical items
 
 One of the things that players will find and seek while they’re adventuring is magical items. These can be magic-imbued weapons, staves, rods, scrolls, and potions, all of them with a particular magical effect.
-
 
 ### Creating magic items
 
 The process of creating a magical items is as simple as establishing certain aspects of it, and adding a little bit of flourish and grandeur as a final touch.
-
 
 #### Item types
 
