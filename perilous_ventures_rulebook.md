@@ -443,7 +443,7 @@ Master        | 1
 
 For details on how magic works, please consult the _Magic & Spells _section.
 
-## CLASS/RACE ACTION ROLLS
+## Class/race base action rolls
 
 To ease basic character creation, here’s a matrix showing the different combat rolls based on class and race. This table also allows direct comparison between the different race and class combinations, allowing you to choose the one closer to what you want in your character.
 
