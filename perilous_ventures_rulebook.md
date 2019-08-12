@@ -2294,7 +2294,7 @@ An encounter with a paragon should never be taken lightly, even for priests of t
 
 Their powers are almost god-like, and are highly resistance to most types of damage.
 
-## CREATING NEW MONSTERS
+## Creating new monsters
 
 If you want to create your own monsters, especially since this is a Playtest Edition of the game with only a few of them listed, here are some guidelines that will give you an idea on how to design your own wondrous beasts. For this, let’s revisit monster statistics and see how we can manipulate those to design a monster that fits our view.
 
