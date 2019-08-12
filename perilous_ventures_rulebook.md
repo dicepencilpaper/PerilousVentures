@@ -1584,13 +1584,17 @@ Monsters and creatures don’t stick completely to the parameters previously est
 
 Statistics for monsters are presented as follows:
 
-**Hobgoblin**
+#### Hobgoblin
 
-Damage:		HP 3, LP 1
-Speed:		1
-Physical:	Action 2, Defense 1
-Mental:		Action 1, Defense 1
-Attacks:	Weapon.
+**Damage:** 	HP 3, LP 1
+
+**Speed:**  1
+
+**Physical:** Action 2, Defense 1
+
+**Mental:**  Action 1, Defense 1
+
+**Attacks:** Weapon.
 
 #### Damage
 
@@ -1629,34 +1633,27 @@ This presents the dice that need to be rolled for the defense roll when the mons
 
 In the case of monsters that can cast magic, the total amount of available action points will be shown here. All monsters have a base spell cost of 1, and recover action points at the rate of 1 AP per round.
 
-
 #### Attacks
 
 This section describes the attacks available to the monster. If there’s a number and a description of an attack, it means that, on rolling that number, the monster will optionally perform that special attack instead of simply causing lethal damage.
 
-
-##
-
-
-## BESTIARY
+## Bestiary
 
 Creatures wondrous and dangerous, marvelous or humble, diminutive or gigantic… They’re all found in this world. What follows is a list of some of these beasts and entities, information captured throughout the years by diligent adventurers and chroniclers, for the purpose of helping future adventurers as they follow their own perilous ventures...
 
-
 ## A
-
 
 ### Amaroq
 
-**Damage		**HP 3		LP 1
+**Damage:**  HP 3, LP 1
 
-**Speed		**2
+**Speed:**  2
 
-**Physical		**Attack 3		Defense 1
+**Physical:** Action 3, Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:**  Action 1, Defense 1
 
-**Attacks**		Claws, bite.
+**Attacks:** Claws, bite.
 
 The amaroq is a formidable beast related to wolves. Unlike their more common counterpart, the amaroq is a solitary animal, preferring to wander and hunt by itself. However, amaroqs do have lairs where they go to rest after a long hunting session.
 
@@ -1666,75 +1663,67 @@ The amaroq's appearance changes depending on its location. Those from cold, snow
 
 They are fairly intelligent and have evolved to recognize humanoids as direct threats to their hunts and their environments. Therefore, an amaroq will not hesitate in attacking a group of humans as long as that group is not too large.
 
-
-###
-
-
 ### Ant, giant
 
-**Damage		**HP 3		LP 3
+**Damage:** HP 3, LP 3
 
-**Speed		**2
+**Speed:**  2
 
-**Physical		**Attack 1		Defense 3
+**Physical:** Action 1, Defense 3
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Bite. 6: Carry victim away.
+**Attacks:** Bite. 6: Carry victim away.
 
 Vicious, fast, and incredibly tough just like their normal-sized counterparts, giant ants are about the size of a domesticated cat. They are a shiny blue-black color, and their bite is incredibly painful. On some occasions, they opt for carrying away their opponents, presumably to take them back to their lair and eat them.
 
 Their underground lairs are an affair of complicated, impossible tunnels. A small creature like a halfling or a goblin could potentially crawl through these tunnels to find who knows what kind of strange treasure and objects.
 
-
 ### Ape, carnivorous
 
-**Damage		**HP 4		LP 2
+**Damage:** HP 4, LP 2
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2, Defense 2
 
-**Magical		**Action --		Defense 1
+**Mental:**  Action, Defense 1
 
-**Attacks**		Punch, bite. 6: body slam (stun).
+**Attacks:** Punch, bite. 6: body slam (stun).
 
 They are nearly indistinguishable from their herbivore counterparts except for the large plume of coarse hair that sticks up from the top of their head to the middle of their back, and the huge canine teeth that protrude out like those of a sabertooth. Their fur ranges from a ruddy brown to black.
 
 They are quite strong although not that agile, and one of their favorite ways to attack and capture their victims is to slam them with their whole bodies, stunning their prey, and then punching and biting their unfortunate prey until it dies.
 
-
 ### Assassin vine
 
-**Damage		**HP 5		LP 1
+**Damage:** HP 5, LP 1
 
-**Speed		**0
+**Speed:**  0
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1, Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Slam. 4-6: grapple.
+**Attacks:** Slam. 4-6: grapple.
 
 These appear as innocuous vines with lush green leaves and their characteristic, sweet-smelling, seven-petal lavender flowers. If a creature passes by them, they do not make any attempt to attack, unfortunately, in their natural habitat the vines tend to run all over the place, so the chances of someone stepping on the vines are rather high (1-4 on 1d6).
 
 Once they detect a living being touching them, the vines immediately respond in a very aggressive manner, either slamming their victim with their thick, strong vines (around 1” thick), or trying to grapple and choke the victim to death.
 
-
 ## B
-
 
 ### Basilisk
 
-**Damage		**HP 5		LP 2
+**Damage:** HP 5, LP 2
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2, Defense 2
 
-**Magical		**Action --		Defense 2
+**Mental:** Action, Defense 2
 
-**Attacks**		Bite, tail lashing. 6: paralyzing gaze.
+**Attacks:** Bite, tail lashing. 6: paralyzing gaze.
 
 A bizarre creature of obscure magical origins that looks like a black-feather rooster but with a body shaped like a snake, basilisks are dangerous creatures that tend to mind their own business but will undoubtedly charge and attack at the slightest threat.
 
@@ -1745,30 +1734,30 @@ When a paralysis attack is successful. The victim will be under the paralyzed co
 
 ### Bear, grizzly
 
-**Damage		**HP 4		LP 3
+**Damage:** HP 4, LP 3
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 3		Defense 1
+**Physical:** Action 3, Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Claws, bite. 6: bear hug (grapple)
+**Attacks:** Claws, bite. 6: bear hug (grapple)
 
 Grizzly bears, like most wildlife creatures, will generally stay away from the path of adventurers. However, if feeling threatened, they will not hesitate to attack and pursue anyone. Sometimes they will perform a bear hug and grapple a victim. In this situation a PA/PD contest will need to be rolled on every combat round, or else the victim takes one point of damage from the bear’s incredibly strong hug.
 
 
 ### Bee, giant
 
-**Damage		**HP 0		LP 1
+**Damage:** HP 0, LP 1
 
-**Speed		**1, fly 2
+**Speed:** 1, fly 2
 
-**Physical		**Attack 1		Defense 2
+**Physical:** Action 1, Defense 2
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Sting.
+**Attacks:** Sting.
 
 A giant bee looks just like a regular bee but it’s roughly the size of a pigeon. When threatened, they will sting their victims, leaving the stinger embedded in the victim releasing a SL 1 poison that lasts for 1d6-2 rounds (minimum 1) or until the stinger is removed. After a successful attack, the bee will die.
 
@@ -1777,15 +1766,15 @@ Giant bees build amazing, giant beehives that can be more than 50 feet high, and
 
 ### Boggart
 
-**Damage		**HP 1		LP 1
+**Damage:** HP 1, LP 1
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 1		Defense 2
+**Physical:** Action 1, Defense 2
 
-**Magical		**Action 2		Defense 3
+**Mental:** Action 2, Defense 3
 
-**Attacks**		Weapon.
+**Attacks:** Weapon.
 
 The smallest members of the goblinoid family, boggarts are quite dainty, the tallest reaching around two feet in height. Their skin tends to be a lighter olive color, and they also tend to not have the characteristic skin spots nor the protruding tusks. Their bodies are quite skinny and wiry, but have proportionally longer legs than goblins.
 
@@ -1796,15 +1785,15 @@ Boggarts have a mischievous side to them and can also drive a hard bargain. They
 
 ### Bugbear
 
-**Damage		**HP 4		LP 2
+**Damage:** HP 4, LP 2
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 3/4	Defense 2
+**Physical:** Action 3/4	Defense 2
 
-**Magical		**Action 1		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		One-handed/two-handed weapon.
+**Attacks:** One-handed/two-handed weapon.
 
 Bugbears are the top echelon of the goblinoid family, and are highly intelligent and skilled, ferocious warriors. Tall, with some reaching more than 75 inches in height, muscular, and unlike other goblinoids, they’re covered with dark, very short fur, usually in a color that matches their skin, which ranges from grayish tan all the way to dark chocolate browns, although albinos are not that uncommon either. They have the characteristic outward-pointing ears of a goblin, but usually they cut them down considerably (as most of that extension is just plain cartilage that doesn’t affect hearing), or they wear thick hoop earrings at the pointy end of their ears, which then they tie together behind their heads with a leather strap to keep their ears away from damage in combat.
 
@@ -1812,61 +1801,55 @@ Bugbears have a traditional preference for axes in combat, with the stronger one
 
 For unknown reasons, magic doesn’t flow well through bugbears. Very few have had the willpower and sheer force to learn the arcane arts and become wizards. Ironically, these individuals become quite powerful due to their relentless dedication to the magical arts.
 
-
 ## C
-
 
 ### Centipede, giant
 
-**Damage		**HP 1		LP 1
+**Damage:** HP 1, LP 1
 
-**Speed		**2
+**Speed:** 2
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1, Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Bite. 6: Venom.
+**Attacks:** Bite. 6: Venom.
 
 You can usually hear them inside a dungeon with a characteristic continuous, quick tick-tick sound of their chitinous myriad legs tapping against hard stone floors. Giant centipedes are quick, vicious, and sometimes deadly. They are usually very dark brown or black, with some odd examples in dark green.
 
 Their bite can sometimes be venomous (SL 2), which will cause the victim to become incapacitated, shivering on the ground until the effect passes away or is healed.
 
-
 ### Cobold
 
-**Damage		**HP 1		LP 1
+**Damage:** HP 1, LP 1
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 2		Defense 1
+**Physical:** Action 2, Defense 1
 
-**Magical		**Action 1		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Weapon.
+**Attacks:** Weapon.
 
 Usually reviled and rejected in society, cobolds are odd creatures with an unknown magical origin. Their skin is charcoal black and has a strange appearance similar to smooth carved wood. Their bodies are skinny and oddly bent, looking like a miniature human being with crooked claw-like fingers, and are no more than 36 inches in height. On the place where a humanoid would have their heart, cobolds have a strange, softly-glowing circle, betraying their arcane origins. They usually wear long (for them) cloaks to cover themselves and their glowing "heart".
 
 Cobolds are known to make demands to towns, castles, and other types of residences and settlements for food and other things, even gold. If their demands are not met, they will usually assemble a mob and invade the place, crawling all over the buildings, going down chimneys, forcing their way in through windows and doors, attacking the people and stealing valuables from them.
 
-
 ## D
-
 
 ### Dragon
 
-**Damage		**HP 10		LP 5
+**Damage:** HP 10, LP 5
 
-**Speed		**2, fly 5
+**Speed:** 2, fly 5
 
-**Physical		**Attack 4		Defense 3
+**Physical:** Action 4, Defense 3
 
-**Magical		**Action 3		Defense 3	AP 8
+**Mental:** Action 3, Defense 3	AP 8
 
-**Attacks**		Bite, claws, tail whip. 5-6: breath weapon, spells.
+**Attacks:** Bite, claws, tail whip. 5-6: breath weapon, spells.
 
 Unique, powerful, dangerous, dragons are magnificent creatures of legend and lore. They can be symbols of justice and good as well as for evil and death. They are reptilian in nature, with giant wings, long tails, and powerful breath powers that can devastate large areas.
-
 
 #### Aging
 
@@ -1874,120 +1857,92 @@ As dragons are able to live thousands of years, adventurers have a chance of mee
 
 The following table shows how to modify the stats show for each dragon description, which are presented at the _adult_ age category, representing the peak performance level for the dragon. One exception to this natural decay is overall magical prowess; a dragon never stops growing in magical power, thus an ancient dragon will be able to cast amazing, powerful spells.
 
-**AGE		HP	LP	PA	PD	MA	MD	AP**
-
-**Hatchling**	-4	-2	-2	-2	--	-1	--
-
-**Juvenile**		-2	-1	-1	-1	--	0	--
-
-**Adult**		0	0	0	0	0	0	0
-
-**Mature**		0	0	-1	-1	+1	0	+2
-
-**Old**		-2	-1	-2	-2	+2	+1	+4
-
-**Ancient**		-5	-3	-3	-2	+3	+2	+8
-
-
-#### Scale Colors
-
-Dragons are classified by the color of their scales, as these determine their location, temperament, magic field, and type of breath weapon. For playtesting purposes, all dragons have the same basic stats, with the difference being the breath weapon.
-
-**COLOR		BREATH WEAPON ATTACK	MAGIC FIELD**
-
-**Black**		Acid				Death
-
-**Blue**		Lightning				Element
-
-**Green**		Poisonous gas
-
-**Red**		Fire				Element
-
-**White**		Freezing air blast
-
+Age        | HP | LP | PA | PD | MA | MD | AP
+-----------|----|----|----|----|----|----|----
+Hatchling  | -4 | -2 | -2 | -2 | -- | -1 | --
+Juvenile   | -2 | -1 | -1 | -1 | -- | -- | --
+Adult      | -- | -- | -- | -- | -- | -- | --
+Mature     | -- | -- | -1 | -1 | +1 | -- | +2
+Old        | -2 | -1 | -2 | -2 | +2 | +1 | +4
+Ancient    | -5 | -3 | -3 | -2 | +3 | +2 | +8
 
 ## G
 
-
 ### Gargoyle
 
-**Damage		**HP 3		LP 3
+**Damage:** HP 3, LP 3
 
-**Speed		**1, fly 2
+**Speed:** 1, fly 2
 
-**Physical		**Attack 2		Defense 3
+**Physical:** Action 2, Defense 3
 
-**Magical		**Action --		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Claws, bite, horn.
+**Attacks:** Claws, bite, horn.
 
 Gargoyles are magical creatures made of stone, which means they must be the idea and creation of Erra, goddess of elements. They are relatively small generally, usually about 30 to 50 inches in height. They are squat with disproportionately thick bodies that belie their agility. Gargoyles usually wear grimacing faces with horrible, wide grins, and a multitude of horns on their heads, but they don’t necessarily have humanoid bodies, as some can have bodies that look like wolves, lizards, or birds of prey..
 
 They regularly are used to guard buildings and entrances, simulating statues, unmoving and weathered by the elements. Therefore, they get 1 boost on their initiative rolls as they surprise any unwitting adventurers. Due to their stone skin, gargoyles are immune to slashing or stabbing attacks (as from a sword or an arrow), and can only take damage from bludgeoning weapons like maces, hammers, and such.
 
-
 ### Ghoul
 
-**Damage		**HP 3		LP 1
+**Damage:** HP 3, LP 1
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2, Defense 2
 
-**Magical		**Action 1		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Claws, bite.
+**Attacks:** Claws, bite.
 
 Ghouls are unspeakably evil creatures who usually dwell in abandoned places by themselves. They do not have a specific appearance, as they adopt the appearance of their last victim. This cannot be confused with ghouls taking over their victim’s body, as some people think. As soon as their victim expires, they go through a pleasurable yet painful experience as their bodies completely transform and copy their victim’s.
 
 However, they do not possess the victim’s memories. They are intelligent enough to attempt to act normally when planning and trying to capture a victim, as the ghoul might have learned a couple of mannerisms and expressions from their previous prey, therefore having a chance of passing undetected.
 
+## Giant, Frost
 
-### Giant, Frost
+**Damage:** HP 10, LP 5
 
-**Damage		**HP 10		LP 5
+**Speed:** 2
 
-**Speed		**2
+**Physical:** Action 4, Defense 2
 
-**Physical		**Attack 4		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Magical		**Action 1		Defense 2
-
-**Attacks**		Fist, kick, toss boulder.
+**Attacks:** Fist, kick, toss boulder.
 
 Frost giants are the inhabitants of very tall, cold mountains. Their appearance is of a 20 to 25 feet tall, muscular human with pale blue skin and white hair and irises. Frost giants usually wear long mismatched furs and skins takes from different animals, and live to braid their hair and beards. They populate these remote areas in very large-scaled but primitive settlements. A typical frost giant settlement is composed of around 2d6 members, usually split evenly between males and females.
 
 They are reserved and do not tend to interfere with the affairs of the external world, but they are fiercely territorial and will not hesitate to attack any invaders after a very brief warning.
 
-
 ### Goblin
 
-**Damage		**HP 1		LP 1
+**Damage:** HP 1, LP 1
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 1 	Defense 2
+**Physical:** Action 1 	Defense 2
 
-**Magical		**Action 1 		Defense 1
+**Mental:** Action 1 		Defense 1
 
-**Attacks**		Light weapon.
+**Attacks:** Light weapon.
 
 Goblins are small creatures about 36 inches tall. Their bodies are quite skinny and wiry, with gangly, thin arms and relatively short legs. Skin tones range from olive green to brown-black, and they also tend to have large freckles on their faces, backs, arms, and legs. Their eyes are usually a very intense yellow-amber, and their characteristic long ears extend a good six inches out horizontally from their heads. They have small tusks that protrude upward from their mouths.
 
 They are well known for being excellent thieves and spies due to their natural agility and small size. They are also very courageous and sometimes even too brash, punching blindly above their weight sometimes. This makes them valuable companions but also an enemy that, even though not that strong, makes up for that in sheer determination.
 
-
 ### Griffin
 
-**Damage		**HP 5		LP 2
+**Damage:** HP 5, LP 2
 
-**Speed		**2, fly 8
+**Speed:** 2, fly 8
 
-**Physical		**Attack 2		Defense 3
+**Physical:** Action 2, Defense 3
 
-**Magical		**Action --		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Claws, bite. 6: Grab and lift.
+**Attacks:** Claws, bite. 6: Grab and lift.
 
 Griffins are large, majestic creatures that have the oversized body of a lion with the head, wings, and claws of a giant eagle, and they can reach a length of 10 to 12 feet, not including the tail. Even though it's body is that of a lion, it is covered in soft, small feathers throughout. A griffin's plumage is usually very dark brown and black, with deep orange feathers at the outer edge of their wings and the end of the lion's tail. Their habitat is usually on tall, forested mountains in temperate climates, where they build large, impressive nests on sheer cliffs.
 
@@ -1995,21 +1950,19 @@ Their flight speed in combat is quite fast, and they are agile and nimble even w
 
 One of their more fearsome attacks is to grab a victim, take flight quickly, and drop them onto a hard surface to their death.
 
-
 ## H
-
 
 ### Hellhound
 
-**Damage		**HP 5		LP 2
+**Damage:** HP 5, LP 2
 
-**Speed		**2
+**Speed:** 2
 
-**Physical		**Attack 2		Defense 1
+**Physical:** Action 2, Defense 1
 
-**Magical		**Action --		Defense 3
+**Mental:** Action 1, Defense 3
 
-**Attacks**		Claws, bite. 6: Fire breath, 1 zone, single target.
+**Attacks:** Claws, bite. 6: Fire breath, 1 zone, single target.
 
 These infernal, magical canine-like beasts look like giant mastiffs, their heads a solid six feet off the ground. Their skin has no fur, with a dark gray coloring that has a strange polished metal sheen to it. However, they are not made of metal at all. They are muscular, heavy-set, with cut-off tails, large silvery canine fangs, and glowing red eyes. They make an unsettling, incredibly deep growl.
 
@@ -2017,41 +1970,35 @@ Hellhounds are usually deployed to guard an area and prevent intruders from ente
 
 Their most fearsome attack is their fire breath, which can strike a target from more than 50 feet away, causing burns for 1d6 rounds or until the fire is put out.
 
-
 ### Hobgoblin
 
-**Damage		**HP 3		LP 2
+**Damage:** HP 3, LP 2
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2, Defense 2
 
-**Magical		**Action 1		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Weapon.
+**Attacks:** Weapon.
 
 The larger cousin of goblins, hobgoblins are taller, more muscular, and are more adept at combat and other activities that require strenuous physical activity when compared to their smaller brethren. Other than that, in terms of appearance they are quite similar, with the same olive green to brown-black skin tones and large, dark freckles and spots on their bodies. Their eyes are yellow-amber, and their characteristic long ears extend about eight inches out horizontally from their heads. They have small tusks that protrude upward from their mouths. Their height usually ranges from 55 to 65 inches tall.
 
 Hobgoblins have a natural tendency to be hot-headed and impulsive. But that does not mean they are not intelligent and capable. In fact, a seasoned hobgoblin warrior is a fearsome opponent for anyone. Like their larger cousins, the bugbears, they tend to prefer all sorts of axes for combat and don’t care much for metal armor.
 
-
-##
-
-
 ## L
-
 
 ### Lizardfolk
 
-**Damage		**HP 2		LP 2
+**Damage:** HP 2, LP 2
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 1		Defense 2
+**Physical:** Action 1, Defense 2
 
-**Magical		**Action 1		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Claws, bite, weapon.
+**Attacks:** Claws, bite, weapon.
 
 Tall, lean, and rather impressive-looking, lizardfolk are tough, noble, and dependable people. Their bodies are covered with a thick reptilian skin, that ranges from colors like bright green and turquoise to deep greens and hazels. Their heads and faces are shaped like those of a gecko, and some have a crest on top of the head that can raise and lower at will. Lizardfolk also have long, strong tails that they can use as a weapon against their opponents.
 
@@ -2059,61 +2006,53 @@ Lizardfolk are amphibious, and as such can stay underwater for prolonged periods
 
 They favor lighter armor and rely on the resiliency of  their skin. Lizardfolk favor spears and bows in combat. They have chosen to remain rather separated from most societies and settlements, but that doesn't mean that some manage to integrate into the population of large cities, and even though they guard their own settlements with zeal, they are welcoming to visitors.
 
-
 ## M
-
 
 ### Minotaur
 
-**Damage		**HP 5		LP 3
+**Damage:** HP 5, LP 3
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 4		Defense 2
+**Physical:** Action 4, Defense 2
 
-**Magical		**Action 1		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Weapon, horns.
+**Attacks:** Weapon, horns.
 
 Minotaurs are amazingly strong creatures with a large human body but the head of a bull. They can reach heights of 96 inches, and are pure muscle and brute strength. Their bodies are covered in a very short fur similar to that of a bull, and ranges in color from dark reddish brown to black.
 
 Minotaurs are fierce warriors and absolutely bearsome in combat. They handle two-handed weapons with ease, and are cunning and relentless in battle. They integrate well into regular society, and are admired for their hard-working ethics and courage. However, even though they have no problems with integration, they regularly migrate to their ancestral home, celebrating festivals to whom no person from any other species is invited.
 
-
 ### Mummy
 
-**Damage		**HP 3		LP 3
+**Damage:** HP 3, LP 3
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1, Defense 1
 
-**Magical		**Action --		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Claws. 6: Illness.
+**Attacks:** Claws. 6: Illness.
 
 Mummies are undead entities who've gone through extensive physical and mystical rituals to preserve their bodies for eternity. The vast majority of mummies remain in their natural state of death. Occasionally the ritual performed doesn't do enough to appease the dead entity’s soul, which causes it to return to the material world as an undead entity by occupying their old body. They usually aim to take revenge on those who have caused them harm, finish an unaccomplished goal from their previous life, guard they ancestral home, or even as simple as keeping invaders away from their burial chamber.
 
 Mummies are very single-minded in their purpose, and will be relentless and almost unstoppable in it. Due to their condition as corpses (even though preserved), mummies have a chance to inflict sickness on their victims. Anyone struck in such a way will be under the sick condition for 1d6 rounds or until healed by some means.
 
-
-##
-
-
 ## O
-
 
 ### Ogre
 
-**Damage		**HP 7		LP 4
+**Damage:** HP 7, LP 4
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 4		Defense 3
+**Physical:** Action 4, Defense 3
 
-**Magical		**Action 1		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Weapon.
+**Attacks:** Weapon.
 
 The human-like ogre is a species of incredible strength and size, usually reaching 120 to 140 inches in height. Their bodies tend to accumulate a lot of fat and, due to their size, that might give the impression that they are simply overweight, but under those layers of fat is pure muscle that is stronger than that of almost any humanoid.
 
@@ -2121,18 +2060,17 @@ Their heads are rather large in proportion to their bodies, with very thick neck
 
 Their bodies are not that good at controlling their temperature, so ogres enjoy bathing in mud and keeping their bodies covered in dried mud, as this helps them keep their body temperature at a comfortable level. This is part of the reason why they wear barely any clothing, with many opting for simply being naked all the time. They have a preference from eating raw meat, and will not hesitate in eating other humanoids if they can.
 
-
 ### Orc
 
-**Damage		**HP 4		LP 2
+**Damage:** HP 4, LP 2
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 3		Defense 2
+**Physical:** Action 3, Defense 2
 
-**Magical		**Action 1		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Weapon.
+**Attacks:** Weapon.
 
 Orcs are, together with bugbears and dwarves, arguably the best melee warriors on the battlefield. Fierce, master of two-handed weapons, and a naturally high resistance to magical attacks makes confronting an orc something to be seriously considered.
 
@@ -2140,59 +2078,53 @@ Their skin ranges from dark to light sepia-gray, with prominent body hair throug
 
 Orcs have a very complex culture, with many superstitions, and even as they integrate with society even in large cities, and achieve high positions in them (especially in the military), this integration is somewhat of a recent happening, and for that reason they are adamant about remembering their origins and will sometimes perform certain small rituals (like moving their hand in a certain pattern after closing a business deal) that reflect those old beliefs.
 
-
 ## P
-
 
 ### Piskie
 
-**Damage		**HP 1		LP 1
+**Damage:** HP 1, LP 1
 
-**Speed		**2, fly 4
+**Speed:** 2, fly 4
 
-**Physical		**Attack 1		Defense 2
+**Physical:** Action 1, Defense 2
 
-**Magical		**Action 2		Defense 2	AP 4
+**Mental:** Action 2, Defense 2	AP 4
 
-**Attacks**		Weapon, spell (Deceit).
+**Attacks:** Weapon, spell (Deceit).
 
 Piskies are clever and naughty fey creatures that are tiny, mischievous, and quite strong in their magical powers considering their small size of no more than 12 inches in height. They are often ill-clothed or naked, but they have a preference for bits of finery, like silk ribbons and small precious stone earrings. They look like tiny halflings, with very skinny bodies. Their skin tones are the same as those of most humanoids, ranging from pale tan to dark brown. The have bat-like wings which allow them to fly and dart around like hummingbirds.
 
 Some piskies are said to steal children or to lead travellers astray. They are drawn to horses, riding them for pleasure and making tangled ringlets in the manes of those horses they ride. They are great explorers familiar with the caves of the ocean, the hidden sources of the streams and the recesses of the land, so if adventurers are able to befriend or negotiate with a piskie, they could gain a worthy guide. However, as mentioned above, some piskies cannot resist the chance of tricking adventurers and taking advantage of them.
 
-
 ## R
-
 
 ### Rat, giant
 
-**Damage		**HP 1		LP 1
+**Damage:** HP 1, LP 1
 
-**Speed		**2
+**Speed:** 2
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1, Defense 1
 
-**Magical		**Action --		Defense 3
+**Mental:** Action 1, Defense 3
 
-**Attacks**		Claws, bite. 6: Illness.
+**Attacks:** Claws, bite. 6: Illness.
 
 Giant rats are just like their normal counterparts but about 48 inches in length. They are sneaky, sometimes aggressive, and will definitely eat through materials, opening their way into unwanted places. Sometimes they can transmit illness with their bite; in the case that happens, the victim will be under the Sick condition for 2d6 rounds.
 
-
 ## S
-
 
 ### Shrieker
 
-**Damage		**HP 0		LP 1
+**Damage:** HP 0, LP 1
 
-**Speed		**0
+**Speed:** 0
 
-**Physical		**Attack --		Defense 1
+**Physical:** Action 1, Defense 1
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		None, shriek when harmed, 2 zone range.
+**Attacks:** None, shriek when harmed, 2 zone range.
 
 Shriekers are rather large mushrooms that grow in thick clusters. The tops are reddish purple, and are pockmarked with myriad holes similar to a lotus blossom. They range from 12 to 36 inches in diameter, and grow from 24 to 60 inches in height. The stalks are an off-white color and quite thick.
 
@@ -2200,18 +2132,17 @@ These mushrooms are harmless per se, and you can make a fantastic tea out of the
 
 There’s a 1-4 in 1d6 chance of a nearby creature becoming attracted to the shrieking sound.
 
-
 ### Skeleton
 
-**Damage		**HP 4		LP 1
+**Damage:** HP 4, LP 1
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 1		Defense 2, 1 against blunt weapons.
+**Physical:** Action 1, Defense 2, 1 against blunt weapons.
 
-**Magical		**Action --		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Weapon.
+**Attacks:** Weapon.
 
 Brought from eternal rest by the occult powers of Death magic, skeletons are a type of undead creature that is usually created for a very specific warfare-related purposes: guard a hall, patrol an area, or used as unwavering, faithful soldiers.
 
@@ -2219,80 +2150,73 @@ Skeletons are not smart, and will follow whatever orders they are given in an un
 
 They have a natural weakness against blunt weapons, which lowers their physical defense by 1 drop when attacked with that type of weapon. Note that bare fists do not count as blunt weapons for this purpose, as they don’t carry enough power when they hit.
 
-
 ### Snake, giant rattlesnake
 
-**Damage		**HP 2		LP 1
+**Damage:** HP 2, LP 1
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2, Defense 2
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Bite. 5+: venom.
+**Attacks:** Bite. 5+: venom.
 
 A giant rattlesnake is about 25 feet long, with the familiar patterns that identify the regular members of this species. They also have the dreaded rattle at the end of their tail which gives these snakes their unique name. In the case of the giant rattlesnake, it’s a very loud, lower-pitched sound that sends shivers down the spine of any seasoned adventurer.
 
 Sometimes the attack of a rattlesnake will allow it to inject its venom into a victim. This venom lasts for 1d6 rounds, and the victim will be under the poisoned condition for that length of time unless healed.
 
-
 ### Spider, giant
 
-**Damage		**HP 3		LP 1
+**Damage:** HP 3, LP 1
 
-**Speed		**2
+**Speed:** 2
 
-**Physical		**Attack 2		Defense 2
+**Physical:** Action 2, Defense 2
 
-**Magical		**Action --		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Bite. 6: grapple & web.
+**Attacks:** Bite. 6: grapple & web.
 
 Giant spiders are found in dark, hidden areas in abandoned dungeons and castles, and also in caves throughout the world. They range from 24 to 48 inches in size, with black or blue-black coloring, and have short, stiff hairs covering their bodies in an almost spike-like way.
 
 They are quite aggressive and territorial and will attack on sight. On some occasions they will grapple an opponent and use their web to wrap them in it. A victim in this situation is considered to be under the incapacitated condition. A spun web will have a strength score from 1 to 5. Victims need to roll a successful physical defense on every round to break free from the web.
 
-
 ## T
-
 
 ### Topiar
 
-**Damage		**HP 6		LP 3
+**Damage:** HP 6, LP 3
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 2		Defense 4
+**Physical:** Action 2, Defense 4
 
-**Magical		**Action 1		Defense 2
+**Mental:** Action 1, Defense 2
 
-**Attacks**		Branches, fists
+**Attacks:** Branches, fists
 
 Topiars are living trees, usually about 10 to 20 feet in height. When resting, they look just like any other tree, with thick barks and lush foliage, although not as wide on top as a regular tree. However, when woken up, the trunk separates into two legs, and their head and arms seem to sprout out of their foliage.
 
 They are generally gentle creatures with a calm demeanor and the wisdom of hundreds of years of life, but they are fierce defenders of their surroundings, and will unhesitantly attack anyone who willfully harms their forest home.
 
-
 ### Troll
 
-**Damage		**HP 6		LP 4
+**Damage:** HP 6, LP 4
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 4		Defense 2
+**Physical:** Action 4, Defense 2
 
-**Magical		**Action 1		Defense 1
+**Mental:** Action 1, Defense 1
 
-**Attacks**		Weapon.
+**Attacks:** Weapon.
 
 Large, imposing, and deadly, trolls are found all over the world, usually living in isolation, as independence is highly valued in their culture. A typical troll will be around 9 to 12 feet tall, with very muscular, human-like thick bodies. Their hands have only four fingers, and their feet four toes. They tend to be hairy in the same patterns a human can be. Their skin goes from dark gray-brown to pale gray. Usually, the darker-skinned trolls are found in the tropical areas, while skins get gradually lighter as you move into colder regions.
 
 Trolls do not get along with any other species, and basically consider everything else that moves as possible food. They are quite aggressive, will fight with berserker rage, but are not very clever. Negotiating with a troll can become an exercise in futility, as they are very stubborn.
 
-
 ## V
-
 
 ### Vestige
 
@@ -2304,134 +2228,63 @@ When fighting against vestiges, spells and magical items that belong to the vest
 
 To randomly find out the origin of a vestige, roll 2d6 and consult the table below.
 
-**ROLL		MAGIC FIELD**
-
-2		Life
-
-3		Truth
-
-4		Preservation
-
-5		Element
-
-6-8		Roll again, or choose one.
-
-9		Ethereal
-
-10		Change
-
-11		Deceit
-
-12		Death
-
+Roll | Magic Field
+-----|----------------------
+2    | Life
+3    | Truth
+4    | Preservation
+5    | Element
+6-8  | Roll again, or choose
+9    | Ethereal
+10   | Change
+11   | Deceit
+12   | Death
 
 #### Essence
 
-**Damage		**HP 2		LP 1
+**Damage:** HP 2, LP 1
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 1		Defense 1
+**Physical:** Action 1, Defense 1
 
-**Magical		**Action 2		Defense 2	AP 1d6+2
+**Mental:** Action 2, Defense 2	AP 1d6+2
 
-**Attacks**		Single spell based on magic field.
+**Attacks:** Single spell based on magic field.
 
 An essence vestige represents a single characteristic or aspect of the magic field they belong to. They tend to be completely incorporeal or adopt other semi-physical forms, with a physical manifestation and consistency ranging from cloud-like all the way to something akin to heavy grease, plasma, or other forms. They are extremely intelligent and decently powerful, although their magic is limited to whatever single aspect they represent.
 
 For example, an Element essence might be akin to a floating, swirling fireball, or a Death essence could be something as simple as dark, wispy clouds.
 
-Based on the essence’s magic field, you can randomly roll for the spell that it will channel and use. Roll 1d6 and consult the applicable table below. You can also give the essence any spell, including GM (or player) created spells, as long as it is within the magic field’s context.
-
-**ROLL	CHANGE      		DEATH**
-
-1   	Hold Movement   		Banish Soul
-
-2   	Petrify         		Imbue Fear
-
-3	Teleport			Poison Cloud
-
-4	Tunnel          		Spoil Sustenance
-
-5   	Increase Speed  		Raise Undead
-
-6   	Reduce Size     		System Shock
-
-
-
-**ROLL	DECEIT      		ELEMENT**
-
-1   	Deafness        		Earthen Wall
-
-2   	Fool Senses     		Fireball
-
-3   	Friend          		Hailstorm
-
-4   	Illusion        		Lightning Strike
-
-5   	Nightmares      		Magnetic Vortex
-
-6   	Silent Sphere   		Tidal Wave
-
-    
-
-**ROLL	ETHEREAL            	LIFE**
-
-1   	Ethereal Grasp      	Divine Strike
-
-2   	Escaping Soul       	Healing
-
-3   	Levitate            		Hero's Inspiration
-
-4  	Spirit Helper       		Remove Poison
-
-5   	Spiritual Shield    		Restore Health
-
-6   	Telekinesis         		Life Blossoms
-
-**ROLL    	PRESERVATION        	TRUTH**
-
-1   	Negate Damage       	Ignore Illusion
-
-2  	Banish Entity       		Obvious Target
-
-3   	Ensnare             		Find Object
-
-4   	Leave No Trace      	Know Object
-
-5   	Restore Naturality  	Visionary Strike
-
-6   	Send Back           		Word of Auspice
-
+Based on the essence’s magic field, you can select the spell that it will channel and use from the spells listed in the _Magic & spells_ section.
 
 #### Incarnate
 
-**Damage		**HP 6		LP 3
+**Damage:** HP 6, LP 3
 
-**Speed		**1
+**Speed:** 1
 
-**Physical		**Attack 2		Defense 3
+**Physical:** Action 2, Defense 3
 
-**Magical		**Action 3		Defense 2	AP 1d6 + 8
+**Mental:** Action 3, Defense 2	AP 1d6 + 8
 
-**Attacks**		Weapon, spells.
+**Attacks:** Weapon, spells.
 
 A powerful entity that is a physical embodiment of a single magic field. When this force is released in the physical plane, it wanders around the world at insane speeds, ricocheting among living creatures until it stumbles upon an appropriate creature to act as a vessel to hold on to its power. They take over existing creatures, usually humanoids, and become a strange mix of the carnal and the divine, mixing characteristics from both planes of existence. Therefore their appearance changes, and the old personality of the individual is lost forever, consumed by the raw divine power that has taken over.
 
 Incarnates are cunning and tend to be dangerous, as they tend to mix their incredibly strong magical prowess with the mental pitfalls of material creatures; therefore things like greed, lust, and avarice tend to take hold of them. Sometimes they might, in fact, think they are doing something good for the world, unable to see their errors through the madness.
 
-
 #### Paragon
 
-**Damage		**HP 10		LP 6
+**Damage:** HP 10, LP 6
 
-**Speed		**2
+**Speed:** 2
 
-**Physical		**Attack 4		Defense 4
+**Physical:** Action 4, Defense 4
 
-**Magical		**Action 4		Defense 4	AP 1d6+12
+**Mental:** Action 4, Defense 4	AP 1d6+12
 
-**Attacks**		Spells.
+**Attacks:** Spells.
 
 A paragon vestige is transcendental and extremely powerful, closer to what we consider a demigod. They are the actual manifestation of a deity's power, a being that is half raw divine magic power and half celestial entity. When a deity exercises their power directly, this is what actually comes out of the celestial essence of the deity to perform their desired tasks.
 
@@ -2441,35 +2294,25 @@ An encounter with a paragon should never be taken lightly, even for priests of t
 
 Their powers are almost god-like, and are highly resistance to most types of damage.
 
-
-##
-
-
 ## CREATING NEW MONSTERS
 
 If you want to create your own monsters, especially since this is a Playtest Edition of the game with only a few of them listed, here are some guidelines that will give you an idea on how to design your own wondrous beasts. For this, let’s revisit monster statistics and see how we can manipulate those to design a monster that fits our view.
-
 
 #### Damage capacity
 
 For this, we can use the basic warrior as a measuring stick on how many hero points and life points we’ll assign to the beast. Starting off, the warrior character class is not intended to be as low-powered as what usually is a first level character in your typical RPG system. It’s expected that a warrior (and indeed, all the other classes) start off as a mid-low level adventurer.
 
- 
-
 As a way to illustrate this, if we used a scale from 1 to 10, 1 being a total newbie and 10 being a warfare expert, a character starts off as a 3. Knowing this, now we have a good idea on where to start.
 
 A warrior starts in its most basic form with 4 hero points and 3 life points., which means that if you want to create a monster weaker than a regular warrior, it’s as easy as assigning less hero points and life points to your creation. But what do those scores represent?
-
 
 ##### Hero Points
 
 These represent a combination of physical endurance with sheer willpower and motivation. It determines how much damage someone can take and ignore to a certain extent. Losing hero points doesn’t kill someone outright, but it does weaken the player or creature, leading to an eventual death.
 
-
 ##### Life Points
 
 You can think of life points as the actual bodily resistance to damage of the creature. That’s why losing all life points inevitably leads to death. Thus, lethal damage caused by solid weapon hits, spells, or an accident, will cause the character or creature to take life point damage directly.
-
 
 ##### Application in monster design
 
@@ -2477,13 +2320,11 @@ This means that if, for example, we intend to create a monster that is extremely
 
 On the other hand, we could be creating a monster that possesses a lot of willpower and courage in fighting, but in reality  is rather weak physically. This monster could have a relatively high amount of hero points, but probably only two or one life points.
 
-
 #### Speed
 
 A regular player character moves 1 zone per combat round, which is about 25-30 feet. Based on this, make a calculation and estimating how quick the creature is, establish a base speed, measured in zones.
 
 If the monster possesses an additional method of movement, like flying, assign a (usually higher) value for this.
-
 
 #### Attack and defense rolls
 
@@ -2491,136 +2332,128 @@ These show how many dice to roll for attack and defense rolls, physical and magi
 
 Magical actions don’t count for creatures that cannot wield magical devices or cast spells, so no need to set up a score for that. However, all creatures have at least a MD score of 1.
 
-
 #### Top die roll
 
 By default, the top die roll for inflicting direct lethal damage is 6. You can choose to lower these threshold to 5 if you consider that the monster should be dangerous and powerful enough to warrant such a huge advantage.
 
 Optionally, you can also add some sort of special effect to the top damage roll: poison, grapple, or any other effect that applies.
 
-
 #### Attacks
 
 What kind of attacks does this monster perform? It might be as simple as a weapon or a bite attack, or something more complicated as an attack, such as entangling the victim, or poisoning. You can also have a special attack that is triggered by the monster’s top roll; usually that would be its most deadly strike.
-
-
-###
-
 
 ### Random monster generation tables
 
 These tables will help you create random new monsters on the fly, or serve as a base for a more elaborate creation to throw at your players.
 
+#### Type (2d6)
 
-#### Type (2d6)		Size (1d6)		Behavior (1d6)
+Roll | Type
+-----|-------------
+2    | Undead
+3    | Vegetal
+4    | Avian
+5    | Insectoid
+6    | Humanoid
+7    | Mammal
+8    | Aquatic
+9    | Reptile
+10   | Draconic
+11   | Demonic
+12   | Celestial
 
-**ROLL	TYPE		ROLL	SIZE		ROLL	BEHAVIOR**
+#### Size (1d6)
 
-2**	**Undead		1	Tiny		1	Sleepy or lazy
+Roll | Size
+-----|-------------
+1    | Tiny
+2    | Small
+3    | Medium
+4    | Medium
+5    | Large
+6    | Giant
 
-3**	**Plant		2	Small		2	Calm
+#### Behavior (1d6)
 
-4	Avian		3	Medium		3	Friendly
-
-5	Insectoid		4	Medium		4	Scared
-
-6	Humanoid	5	Large		5	Hostile
-
-7	Mammal		6	Giant		6	Aggressive
-
-8	Aquatic
-
-9	Reptile
-
-10	Draconic
-
-11	Demonic
-
-12	Celestial
-
-
-#### Features (4d6, 1d6+1 times)	Attack type (2d6)
-
-**ROLL	FEATURE			ROLL	ATTACK**
-
-4	Rotting flesh			2	Spell or magical effect
-
-5	Multiple legs (1d6 x 2)		3-4	Condition
-
-6	Wings				5-9	Claws, bite, or weapon
-
-7	Exposed organs			10-11	Condition
-
-8	Tentacles				12	Spell or magical effect
-
-9	Humanoid face
-
-10	Long prehensile tail
-
-11	Scales
-
-12	Horns
-
-13	No legs, slithers like snake
-
-14	Slimy flesh
-
-15	Leaves and branches
-
-16	Vines sprout out
-
-17	Exoskeleton
-
-18	Antennae
-
-19	Fur
-
-20	Multiple face features (choose, roll 1d6)
-
-21	Noxious smell
-
-22	Multiple heads (1d6+1)
-
-23	Shapeless, amorphous
-
-24	Radiant glow
+Roll | Behavior
+-----|----------------
+1    | Sleepy or Lazy
+2    | Calm
+3    | Friendly
+4    | Scared
+5    | Hostile
+6    | Aggressive
 
 
-#### Condition (1d6)		Magic field (2d6)
+#### Features (3d6, roll 1d6+1 times)
 
-**ROLL	CONDITION		ROLL	FIELD**
+Roll | Feature
+-----|-------------------------------------------------------
+4    | Rotting flesh
+5    | Multiple legs (1d6 x 2)
+6    | Wings
+7    | Exposed organs
+8    | Tentacles
+9    | Humanoid face
+10   | Long prehensile tail
+11   | Scales
+12   | Horns
+13   | No legs, slithers like a snake
+14   | Slimy flesh
+15   | Leaves and branches
+16   | Vines sprout out
+17   | Exoskeleton
+18   | Antennae
+19   | Thick fur
+20   | Duplicated facial features (choose one, roll 1d6)
+21   | Noxious smell
+22   | Multiple heads (1d6 + 1)
+23   | Shapeless, amorphous
+24   | Radiant glow
 
-1	Sleep			2	Life
+#### Attack type (2d6)
 
-2	Exhaustion		3	Preservation
+Roll  | Behavior
+------|------------------------
+2     | Spell or magical effect
+3-4   | Condition
+5-9   | Claws, bite, or weapon
+10-11 | Condition
+12    | Spell or magical effect
 
-3	Poison			4	Truth
+If you roll "spell or magical effect", roll on this table:
 
-4	Confusion		5-6	Deceit
+Roll  | Magic field
+------|------------------------
+2     | Life
+3     | Preservation
+4     | Truth
+5-6   | Deceit
+7-9   | Element
+10    | Change
+11    | Ethereal
+12    | Death
 
-5	Unconscious		7-9 	Element
+If "condition" was rolled in the attack type, roll from the table below.
 
-6	Paralysis			10	Change
+Roll | Behavior
+-----|----------------
+1    | Sleep
+2    | Exhaustion
+3    | Poison
+4    | Confusion
+5    | Unconscious
+6    | Paralysis
 
-				11	Ethereal
-
-
-            12	Death
-
-
-
-
-## CHARACTER GROWTH
+## Character growth
 
 As characters become more experienced through constant adventuring, they will become better at what they do, just like it happens with people in real life. This gives players something to look forward to as they keep adventuring and exploring the dangerous world they live in, knowing that they will become more powerful as time goes by.
-
 
 ### Measuring progress
 
 Progress and advancement is measured by the number of successful experiences (SX) that a player character survives, which works somewhat as a mix between the classic experience point system, and the more modern milestone progress system.
 
 Note that evaluating what counts as a valid SX depends on the judgment of the Game Master, but there are basic guidelines that they can follow to award these appropriately.
-
 
 #### What counts as an SX?
 
@@ -2630,38 +2463,29 @@ Also, combat doesn’t necessarily has to end in a total defeat of the enemy to 
 
 Big, important resolutions achieved through role-playing, solving a huge puzzle, saving the lives of some villagers, and other heroic actions can also be given to the player characters as SX.
 
-
 ### Measuring growth
 
 To demonstrate growth in a palpable way that affects gameplay in a way advantageous to the player, some aspects of the character are modified as time goes on and they gain more SX.
-
 
 #### Action points
 
 Action points are used for special maneuvers and for casting spells. For every 5 SX gained by a player character, they gain 1 extra AP for their pool.
 
-
 #### Hero Points
 
 For every 10 SX gained by the player character, their hero point count will increase by 1.
-
 
 #### Life Points
 
 For every 20 SX gained by the player character, their life point count will increase by 1.
 
-
 #### New background
 
 As an optional measure of growth, and usually at the end of an adventure, the Game Master might want to grant one or more player characters an additional background based on the adventure they’ve completed. For example, if in the adventure the players spent a very large amount of time on a seafaring ship, the GM might want to give the characters a Sailor background.
 
-
-
-
-## DESIGNING ADVENTURES
+## Designing adventures
 
 Perilous Ventures is designed to work with the theater-of-the-mind (TOTM) style for combat and adventuring. This makes preparations for the Game Master very easy, since there’s no need for detailed maps with to-scale measurements.
-
 
 ### Zone maps
 
@@ -2669,38 +2493,23 @@ This system, with its emphasis on theater of the mind play style, uses a simplif
 
 As an example on how to write your zone maps, we will be using a regular, gridded map as a starting point and use that as a base on which we will write the map using the simplified mapping system. This way it’ll be easier for you to understand the concepts behind zone maps.
 
-
 ### Creating an adventure map
 
 This is a map for a very simple, one-shot adventure that takes place in a single-floor abandoned temple in the middle of a sinuous, cold, windy mountain road, surrounded by barren rocks and sheer cliffs.
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Perilous-Ventures2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Perilous-Ventures2.png "image_tooltip")
-
+[ regular map image ]
 
 Although this is a rather simple map, it can be further simplified if we represent it like this:
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Perilous-Ventures3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Perilous-Ventures3.png "image_tooltip")
-
+[ zone map image ]
 
 Now we’re not even bothering with measurements, or shapes. We can quickly diagram a layout that will essentially perform the same function as the grid map, but it’s much easier to draw and arguably is easier to read. Here’s how.
-
 
 #### Describing a map area
 
 We can structure an area description using the following sections: size, appearance, scene, and optionally, monsters and people.
 
-
-##### SIZE
+##### Size
 
 There’s some information that is “lost” when moving towards a zone map, and that is detailed room size information.  This can easily be annotated on the map notes if needed. But instead of writing down exact room measurements, you can write down the dimensions in terms of zones (see the section _Move_ under _Events_).
 
@@ -2712,8 +2521,7 @@ It’s up to you as the Game Master to judge if the character could move to one 
 
 For more detailed notes, you could write down width, length and height zone size for rooms. For example, in the case of our Temple of Gan map, you could represent the main hall’s size--which is on the map 40’ wide, by 20’ long, and 15’ tall--simply as W2, L1, H1.
 
-
-##### APPEARANCE
+##### Appearance
 
 Traditionally, room descriptions are detailed in a narrative form. Some game modules even go as far as having a highlighted section that's to be read to the players.
 
@@ -2721,76 +2529,53 @@ Writing this kind of prose can be a bit daunting. However, there's an easier way
 
 Instead of writing paragraphs of descriptions, write bullet points for each sense. We recommend you start with sight, as it's usually the very first thing we perceive when walking into an area. Then continue on with the other senses as required. If the room doesn't need a particular sensory description, like taste, simply skip that item from the description.
 
-
-##### SCENE
+##### Scene
 
 What is happening in this room? Are there monsters lurking and waiting to attack the heroes? Is there a trap? Or will they find an important NPC in this area? All these questions are answered in this section. You will also note here any information that might be for your eyes only, like what will happen if one of the heroes pulls that lever on the far wall.
 
-
-##### MONSTERS
+##### Monsters
 
 If needed, we can add a section for any monsters that will be found in this room by the heroes. Use the simple linear notation to write in the monsters’ stats and information, including how many of these are found in the area.
 
-
-##### PEOPLE
+##### People
 
 It might be that the heroes might find other people in the room, like a prisoner, a lost adventurer, or a stalking thief. Write down the information for the NPC in this area, using the linear notation used for them.
-
 
 ### Putting it all together
 
 Now knowing how to describe a room in the adventure, let’s see how that first room of the map shown above can look:
 
-
 #### Main Nave
-
 
 ##### Size
 
-
-
-*   W2, L1, H1
-
+* W2, L1, H1
 
 ##### Appearance
 
-
-
-*   **Sight:** Dust everywhere, light enters through broken stained glass windows, worn out and scratched pews on both sides of the room.
-*   **Sound:** Every sound echoes throughout the area. Sound of dripping water.
-*   **Smell:** Dust, mildew, decaying flesh.
-
+* **Sight:** Dust everywhere, light enters through broken stained glass windows, worn out and scratched pews on both sides of the room.
+* **Sound:** Every sound echoes throughout the area. Sound of dripping water.
+* **Smell:** Dust, mildew, decaying flesh.
 
 ##### Scene
 
-
-
-*   There are a few kobolds here resting and not really paying attention to their surroundings. A couple of them are eating some nondescript food, and the others are having a conversation in hushed tones.
-
+* There are a few kobolds here resting and not really paying attention to their surroundings. A couple of them are eating some nondescript food, and the others are having a conversation in hushed tones.
 
 ##### Monsters
 
-
-
-*   **4 Kobolds:** HP 1, LP 1, Speed 1, PA 1, PD 2, MA 1, MD 1, Attack: Weapon.
-
+* **4 Cobolds:** HP 1, LP 1, Speed 1, PA 1, PD 2, MA 1, MD 1, Attack: Weapon.
 
 #### Why use this system?
 
 With these brief descriptions in bullet point format, you can embellish the description of the room in your own words. It allows for a more spontaneous and vibrant way to tell the story and describe the world for your players. You can also decide which aspect of the room the players get to hear first; it might be for example, that the smell of a certain room is the first thing they notice as they arrive. It’s up to the Game Master to prioritize this to the best effect.
 
-
-
-
-## MAGICAL ITEMS
+## Magical items
 
 One of the things that players will find and seek while they’re adventuring is magical items. These can be magic-imbued weapons, staves, rods, scrolls, and potions, all of them with a particular magical effect.
-
 
 ### Creating magic items
 
 The process of creating a magical items is as simple as establishing certain aspects of it, and adding a little bit of flourish and grandeur as a final touch.
-
 
 #### Item types
 
@@ -2798,183 +2583,59 @@ The very first aspect to define is what type of item it is. Is it a weapon, like
 
 The item type also defines which character class can use it, as explained in the following table.
 
+Item Type   | Priest | Thief | Warrior | Wizard
+------------|--------|-------|---------|-------
+Armor       | X      |       | X       |
+Potion      | X      | X     | X       | X
+Rod         | X      |       |         | X
+Scroll      | X      |       |         | X
+Shield      | X      |       | X       |
+Staff       | X      | X     | X       | X
+Wand        | X      |       |         | X
+Weapon      | X      | X     | X       | X
+Wearable    | X      | X     | X       | X
 
-<table>
-  <tr>
-   <td>ITEM TYPE
-   </td>
-   <td>PRIEST
-   </td>
-   <td>THIEF
-   </td>
-   <td>WARRIOR
-   </td>
-   <td>WIZARD
-   </td>
-  </tr>
-  <tr>
-   <td>Armor
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Potion
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td>Rod
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td>Scroll
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td>Shield
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Staff
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td>Wand
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td>Weapon
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td>Wearable
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-  </tr>
-</table>
-
-
-
-##### ARMOR
+##### Armor
 
 Armor can be enchanted to provide more protection, or it can cause certain magical effects upon the wearer, or the creatures surrounding the wearer.
 
-
-##### POTION
+##### Potion
 
 A potion is a chemical preparation in liquid form, which bestows the drinker (and sometimes just by pouring it over someone or something) with some sort of magical effect.
 
-
-##### ROD
+##### Rod
 
 A rod is usually some sort of decorated or gilded stick, about 18 to 24 inches in length, and sometimes decorated with some sort of jewels or metals at the top, looking similar to a mace. Rods usually have permanent magical effects associated with them.
 
-
-##### SCROLL
+##### Scroll
 
 A scroll is a piece of parchment or other type of paper that contains an incantation in written form. Reading this scroll out will cause the magical effect in it to take effect, and the scroll itself to burn up quickly and become unusable, therefore scrolls are single-use items.
 
-
-##### SHIELD
+##### Shield
 
 A magic-imbued combat shield will provide an effect like increased protection from a regular shield, or might have some other effects on the wearer, or the surrounding creatures.
 
-
-##### STAFF
+##### Staff
 
 A staff is usually much longer than a rod, from 48 to 72 inches in length, and similar to rods, they can be richly decorated, although they can be very plain and simple too.
 
 Staves usually have permanent magical effects imbued into them, although this doesn’t have to be the case necessarily. They can also be used as basic bludgeoning weapons if needed, like a quarterstaff.
 
-
-##### WAND
+##### Wand
 
 These are thin sticks, usually 12 to 18 inches in length, light and portable. A wand can be used multiple times like rods and staves, however, most of the time they have a limited set of charges imbued into them.
 
-
-##### WEAPON
+##### Weapon
 
 These are just combat weapons that have been imbued with some magical property. They can cause a particular effect, or just simply provide bonuses when attacking opponents. Note that magical weapon usage is still limited by the character’s class; therefore, a wizard cannot use a magical longsword, for example.
 
-
-##### WEARABLE
+##### Wearable
 
 This includes things like rings, bracelets, necklaces, medallions, robes, and cloaks. Basically anything that can be worn as
-
 
 #### Magic field
 
 As anything else related to magic in this game, you must choose a magic field for the item. Choose from any one of the ten magic fields available.
-
 
 #### Effects
 
@@ -2982,18 +2643,15 @@ Choose from one to three magical effects for the item. Most regular magic items 
 
 Remember that the effects have to tie in directly with the magic field chosen, as this keeps consistency within the system, plus it becomes a very important characteristic for priests when wielding these devices.
 
-
 #### Usage
 
 Magical items can have a permanent effect, or a limited set of uses, either on a daily basis or throughout its lifetime.
 
-
-##### PERMANENT
+##### Permanent
 
 Things like magical armor, shields, or wearables usually have permanent effects attached to them. For example, a Leather Armor of Preservation that provides a permanent boost for Physical Defense rolls, or a Bow of Truth that receives a permanent boost to Physical Action rolls performed with it.
 
-
-##### LIMITED
+##### Limited
 
 There are two ways to handle magical items that have limited usage. The first method is to have the item possess a set number of uses per day.
 
@@ -3001,464 +2659,56 @@ The second way to handle it is to have the item has a set number of uses for its
 
 Some items will have a single use, like potions, which need to be drunk fully to get the desired effect.
 
-
 #### Description
 
 Finally, stop for a second and dream up a fantastic appearance for the device. Does it glow? Is it intricately engraved with gold and silver? Is it made out of a strange blue wood? Let your imagination run wild!
 
 You can also think of a name for the device, especially if it’s rather powerful or special.
 
-
 ### Sample magical items
 
 Here are a few examples of magical items that could be found in your adventures. You can use these items, or study them so that you can create your very own magical devices for your adventures.
 
-
 #### Wand of Earthen Wall
 
-
-<table>
-  <tr>
-   <td><strong>Type</strong>
-   </td>
-   <td>Wand
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Magic field</strong>
-   </td>
-   <td>Element
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Effect</strong>
-   </td>
-   <td>Creates a wall of rock and dirt 1 zone wide by 1 zone tall. This wall has 6 HP, 2 LP.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Usage</strong>
-   </td>
-   <td>Limited, 12 lifetime uses.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Description</strong>
-   </td>
-   <td>This wand is about a foot long, and it’s made out of gray, weathered wood which is textured to resemble stacked rocks.
-   </td>
-  </tr>
-</table>
-
-
+**Type**        | Wand
+**Magic field** | Element
+**Effect**      | Creates a wall of rock and dirt 1 zone wide by 1 zone tall. This wall has 6 HP, 2 LP.
+**Usage**       | Limited, 12 lifetime uses.
+**Description** | This wand is about a foot long, and it’s made out of gray, weathered wood which is textured to resemble stacked rocks.
 
 #### Seeker Longbow
 
-
-<table>
-  <tr>
-   <td><strong>Type</strong>
-   </td>
-   <td>Weapon
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Magic field</strong>
-   </td>
-   <td>Truth
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Effect</strong>
-   </td>
-   <td>This bow allows the wielder to choose one target at a time. After that, any shots against the chosen target have the chance of hitting with 1 boost, even if the target is completely hidden behind cover.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Usage</strong>
-   </td>
-   <td>Permanent.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Description</strong>
-   </td>
-   <td>This strange-looking longbow is about five feet in length, and it’s made out of a very light-colored, finely grained wood. All across the front of the bow it has human-like eyes engraved onto it, with irises bejeweled in blue crystals, which glow faintly when aimed at the chosen target.
-   </td>
-  </tr>
-</table>
-
-
-
-####
-
+**Type**        | Weapon
+**Magic field** | Truth
+**Effect**      | This bow allows the wielder to choose one target at a time. After that, any shots against the chosen target have the chance of hitting with 1 boost, even if the target is completely hidden behind cover.
+**Usage**       | Permanent
+**Description** | This strange-looking longbow is about five feet in length, and it’s made out of a very light-colored, finely grained wood. All across the front of the bow it has human-like eyes engraved onto it, with irises bejeweled in blue crystals, which glow faintly when aimed at the chosen target.
 
 #### Chain Mail of Blur
 
-
-<table>
-  <tr>
-   <td><strong>Type</strong>
-   </td>
-   <td>Armor
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Magic field</strong>
-   </td>
-   <td>Deceit
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Effect</strong>
-   </td>
-   <td>This armor makes the wearer harder to hit by blurring and distorting the attacker’s sight when striking the wearer. It adds 1 drop to the attacker’s Physical Action rolls.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Usage</strong>
-   </td>
-   <td>Permanent.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Description</strong>
-   </td>
-   <td>This looks like regular chain mail armor, with nicely-oiled links made out of dark metal. However, when touched, a very faint, buzzing vibration can be felt.
-   </td>
-  </tr>
-</table>
-
-
+**Type**        | Armor
+**Magic field** | Deceit
+**Effect**      | This armor makes the wearer harder to hit by blurring and distorting the attacker’s sight when striking the wearer. It adds 1 drop to the attacker’s Physical Action rolls.
+**Usage**       | Permanent
+**Description** | This looks like regular chain mail armor, with nicely-oiled links made out of dark metal. However, when touched, a very faint, buzzing vibration can be felt.
 
 #### Potion of Minor Healing
 
+**Type**        | Potion
+**Magic field** | Life
+**Effect**      | Drinking this potion restores 1 damage point to the user.
+**Usage**       | Single use
+**Description** | The vial contains a purplish liquid that’s not totally clear, with some swirling, almost sparkling substance in it.
 
-<table>
-  <tr>
-   <td><strong>Type</strong>
-   </td>
-   <td>Potion
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Magic field</strong>
-   </td>
-   <td>Life
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Effect</strong>
-   </td>
-   <td>Drinking this potion restores 1 damage point to the user.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Usage</strong>
-   </td>
-   <td>Single use.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Description</strong>
-   </td>
-   <td>The vial contains a purplish liquid that’s not totally clear, with some swirling, almost sparkling substance in it.
-   </td>
-  </tr>
-</table>
-
-
-
-
-
-## ACTION ROLL PROBABILITIES
+## Appendix A - Action roll probabilities
 
 As a way to help Game Masters estimate danger, difficulty, and other factors that are important when running a game, here are the raw probability percentages for rolling the highest numbers depending on how many drops or boosts the roll has.
 
-
-<table>
-  <tr>
-   <td><strong>ROLL</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>1</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>2</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>3</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>4</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>5</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>6</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>4 boosts (5d6)
-   </td>
-   <td><p style="text-align: right">
-0.01</p>
-
-   </td>
-   <td><p style="text-align: right">
-0.40</p>
-
-   </td>
-   <td><p style="text-align: right">
-2.71</p>
-
-   </td>
-   <td><p style="text-align: right">
-10.04</p>
-
-   </td>
-   <td><p style="text-align: right">
-27.02</p>
-
-   </td>
-   <td><p style="text-align: right">
-59.81</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>3 boosts (4d6)
-   </td>
-   <td><p style="text-align: right">
-0.08</p>
-
-   </td>
-   <td><p style="text-align: right">
-1.16</p>
-
-   </td>
-   <td><p style="text-align: right">
-5.02</p>
-
-   </td>
-   <td><p style="text-align: right">
-13.50</p>
-
-   </td>
-   <td><p style="text-align: right">
-28.47</p>
-
-   </td>
-   <td><p style="text-align: right">
-51.77</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>2 boosts (3d6)
-   </td>
-   <td><p style="text-align: right">
-0.46</p>
-
-   </td>
-   <td><p style="text-align: right">
-3.24</p>
-
-   </td>
-   <td><p style="text-align: right">
-8.80</p>
-
-   </td>
-   <td><p style="text-align: right">
-17.13</p>
-
-   </td>
-   <td><p style="text-align: right">
-28.24</p>
-
-   </td>
-   <td><p style="text-align: right">
-42.13</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>1 boost (2d6)
-   </td>
-   <td><p style="text-align: right">
-2.78</p>
-
-   </td>
-   <td><p style="text-align: right">
-8.33</p>
-
-   </td>
-   <td><p style="text-align: right">
-13.89</p>
-
-   </td>
-   <td><p style="text-align: right">
-19.44</p>
-
-   </td>
-   <td><p style="text-align: right">
-25.00</p>
-
-   </td>
-   <td><p style="text-align: right">
-30.56</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>No modifiers (1d6)
-   </td>
-   <td><p style="text-align: right">
-16.67</p>
-
-   </td>
-   <td><p style="text-align: right">
-16.67</p>
-
-   </td>
-   <td><p style="text-align: right">
-16.67</p>
-
-   </td>
-   <td><p style="text-align: right">
-16.67</p>
-
-   </td>
-   <td><p style="text-align: right">
-16.67</p>
-
-   </td>
-   <td><p style="text-align: right">
-16.67</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>1 drop (2d6)
-   </td>
-   <td><p style="text-align: right">
-30.56</p>
-
-   </td>
-   <td><p style="text-align: right">
-25.00</p>
-
-   </td>
-   <td><p style="text-align: right">
-19.44</p>
-
-   </td>
-   <td><p style="text-align: right">
-13.89</p>
-
-   </td>
-   <td><p style="text-align: right">
-8.33</p>
-
-   </td>
-   <td><p style="text-align: right">
-2.78</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>2 drops (3d6)
-   </td>
-   <td><p style="text-align: right">
-42.13</p>
-
-   </td>
-   <td><p style="text-align: right">
-28.24</p>
-
-   </td>
-   <td><p style="text-align: right">
-17.13</p>
-
-   </td>
-   <td><p style="text-align: right">
-8.80</p>
-
-   </td>
-   <td><p style="text-align: right">
-3.24</p>
-
-   </td>
-   <td><p style="text-align: right">
-0.46</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>3 drops (4d6)
-   </td>
-   <td><p style="text-align: right">
-51.77</p>
-
-   </td>
-   <td><p style="text-align: right">
-28.47</p>
-
-   </td>
-   <td><p style="text-align: right">
-13.50</p>
-
-   </td>
-   <td><p style="text-align: right">
-5.02</p>
-
-   </td>
-   <td><p style="text-align: right">
-1.16</p>
-
-   </td>
-   <td><p style="text-align: right">
-0.08</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>4 drops (5d6)
-   </td>
-   <td><p style="text-align: right">
-59.81</p>
-
-   </td>
-   <td><p style="text-align: right">
-27.02</p>
-
-   </td>
-   <td><p style="text-align: right">
-10.04</p>
-
-   </td>
-   <td><p style="text-align: right">
-2.71</p>
-
-   </td>
-   <td><p style="text-align: right">
-0.40</p>
-
-   </td>
-   <td><p style="text-align: right">
-0.01</p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-<!-- Docs to Markdown version 1.0β17 -->
+Dice Roll      | 1     | 2     | 3     | 4     | 5     | 6
+---------------|-------|-------|-------|-------|-------|------
+4 boosts (5d6) | 0.01  | 0.40  | 2.71  | 10.04 | 27.02 | 59.81
+3 boosts (4d6) | 0.08  | 1.16  | 5.02  | 13.50 | 28.47 | 51.77
+2 boosts (3d6) | 0.46  | 3.24  | 8.80  | 17.13 | 28.24 | 42.13
+1 boost (2d6)  | 2.78  | 8.33  | 13.89 | 19.44 | 25.00 | 30.56
+No mods (1d6)  | 16.67 | 16.67 | 16.67 | 16.67 | 16.67 | 16.67
