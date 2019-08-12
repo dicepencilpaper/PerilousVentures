@@ -2671,35 +2671,43 @@ Here are a few examples of magical items that could be found in your adventures.
 
 #### Wand of Earthen Wall
 
-**Type**        | Wand
-**Magic field** | Element
-**Effect**      | Creates a wall of rock and dirt 1 zone wide by 1 zone tall. This wall has 6 HP, 2 LP.
-**Usage**       | Limited, 12 lifetime uses.
-**Description** | This wand is about a foot long, and it’s made out of gray, weathered wood which is textured to resemble stacked rocks.
+Aspect      | Description
+------------|-------------------------------------------------
+Type        | Wand
+Magic field | Element
+Effect      | Creates a wall of rock and dirt 1 zone wide by 1 zone tall. This wall has 6 HP, 2 LP.
+Usage       | Limited, 12 lifetime uses.
+Description | This wand is about a foot long, and it’s made out of gray, weathered wood which is textured to resemble stacked rocks.
 
 #### Seeker Longbow
 
-**Type**        | Weapon
-**Magic field** | Truth
-**Effect**      | This bow allows the wielder to choose one target at a time. After that, any shots against the chosen target have the chance of hitting with 1 boost, even if the target is completely hidden behind cover.
-**Usage**       | Permanent
-**Description** | This strange-looking longbow is about five feet in length, and it’s made out of a very light-colored, finely grained wood. All across the front of the bow it has human-like eyes engraved onto it, with irises bejeweled in blue crystals, which glow faintly when aimed at the chosen target.
+Aspect      | Description
+------------|-------------------------------------------------
+Type        | Weapon
+Magic field | Truth
+Effect      | This bow allows the wielder to choose one target at a time. After that, any shots against the chosen target have the chance of hitting with 1 boost, even if the target is completely hidden behind cover.
+Usage       | Permanent
+Description | This strange-looking longbow is about five feet in length, and it’s made out of a very light-colored, finely grained wood. All across the front of the bow it has human-like eyes engraved onto it, with irises bejeweled in blue crystals, which glow faintly when aimed at the chosen target.
 
 #### Chain Mail of Blur
 
-**Type**        | Armor
-**Magic field** | Deceit
-**Effect**      | This armor makes the wearer harder to hit by blurring and distorting the attacker’s sight when striking the wearer. It adds 1 drop to the attacker’s Physical Action rolls.
-**Usage**       | Permanent
-**Description** | This looks like regular chain mail armor, with nicely-oiled links made out of dark metal. However, when touched, a very faint, buzzing vibration can be felt.
+Aspect      | Description
+------------|-------------------------------------------------
+Type        | Armor
+Magic field | Deceit
+Effect      | This armor makes the wearer harder to hit by blurring and distorting the attacker’s sight when striking the wearer. It adds 1 drop to the attacker’s Physical Action rolls.
+Usage       | Permanent
+Description | This looks like regular chain mail armor, with nicely-oiled links made out of dark metal. However, when touched, a very faint, buzzing vibration can be felt.
 
 #### Potion of Minor Healing
 
-**Type**        | Potion
-**Magic field** | Life
-**Effect**      | Drinking this potion restores 1 damage point to the user.
-**Usage**       | Single use
-**Description** | The vial contains a purplish liquid that’s not totally clear, with some swirling, almost sparkling substance in it.
+Aspect      | Description
+------------|-------------------------------------------------
+Type        | Potion
+Magic field | Life
+Effect      | Drinking this potion restores 1 damage point to the user.
+Usage       | Single use
+Description | The vial contains a purplish liquid that’s not totally clear, with some swirling, almost sparkling substance in it.
 
 ## Appendix A - Action roll probabilities
 
