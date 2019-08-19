@@ -64,11 +64,11 @@ _Kick open the door, fight the monsters, get the gold, and as a side quest... Sa
 
 ## Creating a character
 
-If you are planning to participate as a Game Master and want to read more about the mechanics and how to run the game, you can skip to the section _Running the Game_, where it explains in detail all the game mechanics and checks needed to successfully run a game session. However, even if you are planning to be the Game Master, it is important that you understand how player characters are made, since the same mechanisms apply to non-player characters (NPCs), and to an extent, monsters and creatures.
+If you are planning to participate as a Game Master (GM) and want to read more about the mechanics and how to run the game, you can skip to the section _Running the Game_, where it explains in detail all the game mechanics and checks needed to successfully run a game session. However, even if you are planning to be the Game Master, it is important that you understand how player characters are made, since the same mechanisms apply to non-player characters (NPCs), and to an extent, monsters and creatures.
 
 Species and class options are limited, with clear and specific advantages to each one. We keep these roles clearly sharp and well defined, which makes it easy for players to establish how they intend to delve into the adventure.
 
-All you need to create a character are a few six-sided dice (d6) (about four or five is a good amount), blank ruled paper, pencil and eraser, and of course, this book!
+All that is needed to create a character are a few six-sided dice (d6) (about four or five is a good amount), blank ruled paper, pencil and eraser, and of course, this book!
 
 ### Character creation steps
 
@@ -214,6 +214,8 @@ There are four character classes available for player characters: priest, thief,
 Any class-related action roll boosts need to be written down. As we did with the species descriptions, write down your chosen class boost beside the action roll as a “+1”. If it happens that the class you chose has a boost in a roll you already have a boost for, simply write the +1 beside the previous one, as boosts do stack up.
 
 Classes can modify the life points available to your character. Don’t forget to increase or decrease this score if needed, and the related death point score, as life points and death points are always equal.
+
+Some classes might have limitiations on what weapons and armor they can use, and this is specified in each class description. For details on the meaning of those descriptions, please consult the _Weapons_ section below.
 
 ### Action points
 
@@ -375,13 +377,13 @@ By using defensive maneuvering, controlled parrying and evasive movements, the w
 
 ##### Disarm opponent on parry
 
-When parrying, the warrior can opt to try and disarm their opponent. On a successful Physical Defense roll, the opponent will be forced to drop their weapon, if applicable.
+When parrying, the warrior try to disarm their opponent. On a successful Physical Defense roll, the opponent will be forced to drop their weapon, if applicable.
 
 ### Wizard
 
 These are the masters of the arcane arts. Through diligent study and commitment, they have learned to control the divine forces of magic that shape the world and have studied the anatomy and minds of creatures to understand how those powers are channeled through their physical bodies.
 
-They get a boost on Mental Action (MA), but start with 1 less life point due to their dedication to studies leading to a sedentary life. Wizards can only use one-handed and missile weapons, and cannot wear any armor or use shields, as they are not trained in their use and also impedes the flow of their magical spell casting.
+They get a boost on Mental Action (MA), but start with 1 less life point due to their dedication to studies leading to a sedentary life. Wizards can only use one-handed melee weapons, regular missile weapons, and cannot wear any armor or use shields, as they are not trained in their use and also impedes the flow of their magical spell casting.
 
 #### Background
 
@@ -396,11 +398,11 @@ These are some suggested backgrounds for wizards:
 
 A wizard has three magic field mastery levels available when starting as a fresh character. These mastery levels allow a wizard character to choose from one to three magic fields of knowledge. Each point represents a Mastery level in the magical arts.
 
-Spending 1 mastery level on a field makes the wizard an Initiate of that magic field. If the wizard uses 2 levels, that makes them a Veteran of the chosen magic field. Spending all 3 levels on a single magic field turns the wizard into a Master of their chosen magic field.
+Spending 1 mastery level on a field makes the wizard an Initiate of that magic field. If the wizard acquires 2 levels, that makes them a Veteran of the chosen magic field. Spending all 3 levels on a single magic field turns the wizard into a Master of their chosen magic field.
 
 #### Spell action points base cost
 
-Like priests, wizards do not need to have spell memorized. Base cost is presented per Field Mastery level. Wizards recover 1 AP per combat round regardless of the mastery level.
+Like priests, wizards do not need to have spell memorized. Base cost is presented per Field Mastery level in the table below.
 
 Mastery Level | Base Cost
 --------------|----------
@@ -408,7 +410,7 @@ Initiate      | 3
 Veteran       | 2
 Master        | 1
 
-For details on how magic works, please consult the _Magic & Spells _section.
+For details on how magic works, please consult the _Magic & spells _section.
 
 ## Magic & spells
 
@@ -416,15 +418,15 @@ Perilous Ventures uses an action point system to manage magic. Action points, as
 
 It is understood that those who have magical powers, whether from arcane or divine sources, have a full understanding of the Art, and it flows from them naturally. Therefore, there’s no need for rest periods to restore magical capabilities, no spell components, or any other devices to be able to perform magical feats.
 
-There is no need for spell casters to memorize or pre-select spells. The system also has a base mechanism that allows the players to create their own spells. You will find a list of spells below that will give you a good idea on what can be done with this flexible system.
+There is no need for spell casters to memorize or pre-select spells. The system also has a base mechanism that allows the players to create their own spells. However, very complete spell lists have been included here, which can give you a good idea on what can be done with this flexible system.
 
 When a spell is cast, no other action can be performed, not even moving, as casting a spell takes all the effort and concentration from the spell caster. Only one spell per combat round can be cast.
 
-Magic works as a sudden opening of the divine gates of power intrinsic in all creatures. Sustaining the flow of that magical power for extended periods would kill any creature, no matter how powerful. Due to this, all magic spells have very short duration, relatively speaking, with only the most powerful creatures and a few select individuals being able to cast spells that last more than half a minute.
+Magic works as a sudden opening of the divine channels of power intrinsic in all creatures. Sustaining the flow of that magical power for extended periods would kill any creature, no matter how powerful. Due to this, all magic spells have very short duration, relatively speaking, with only the most powerful creatures and a few select individuals being able to cast spells that last more than half a minute.
 
 ### Spellcasters relationship with magic
 
-Magic has deep links to the deities that rule over the known universe. They use creatures of the world as a channel to extend their power and domain throughout the planes of existence. Each principal deity is directly linked to a magic field.
+Magic has deep links to the deities that rule over the known universe. These deities use the creatures of the physical realm as a channel to extend their power and domain throughout the planes of existence. Each magic field is inextricably linked to a deity.
 
 #### Priests
 
@@ -432,7 +434,7 @@ Priests are chosen as heralds of a deity, and as such are their direct represent
 
 #### Wizards
 
-Wizards study and channel magic by tapping and utilizing the life energy conduits used by deities that allow creatures the use of magic and cast spells. This allows them to dabble in diverse magic fields, and why they have magic field mastery levels available to them, as it is dependent on where they’ve placed their efforts as they study the arcane.
+Wizards channel magic by studying, tapping on to, and utilizing the life energy conduits used by deities that allow creatures the use of magic and cast spells. This allows them to dabble in diverse magic fields, and why they have magic field mastery levels available to them, as it is dependent on where they’ve placed their efforts as they study the arcane.
 
 ### Magic fields
 
@@ -462,7 +464,7 @@ The spell causes the target to flip position as chosen by the spellcaster: upsid
 
 ###### Hold Movement
 
-This spell prevents the target from moving, whether a creature or an object. In the case of a creature, they will be under the Paralyzed condition, totally aware but unable to move for the duration of the spell.
+This spell prevents the target from moving, whether a creature or an object. In the case of a creature, they will be under the _paralyzed_ condition, totally aware but unable to move for the duration of the spell.
 
 ###### Hold Portal
 
@@ -470,7 +472,7 @@ This spell is usually cast on a door, gate, or other type of portal closure syst
 
 ###### Increase Speed
 
-This spell increases the movement speed of the spell’s target(s). This includes movement and action speed. For every AP spent on the spell’s effect, movement will be increased by 1 zone, and add 1 boost to every PD roll through the duration of the spell.
+This spell increases the movement speed of the spell’s target(s). This includes movement and action speed. For every action point spent on the spell’s effect, movement will be increased by 1 zone, and add 1 boost to every physical defense roll through the duration of the spell.
 
 ###### Open Portal
 
@@ -504,7 +506,7 @@ Using this type of magic, a spellcaster can animate and control corpses as undea
 
 ##### Limitations
 
-The spellcaster wielding this magic cannot cause permanent direct death on a victim; they can only cause damage and effects that might kill an opponent.
+The spellcaster wielding Death magic cannot cause permanent direct death on a victim; they can only cause damage and effects that might kill an opponent.
 
 ##### Spells
 
@@ -518,7 +520,7 @@ This spell allows the caster to control undead beings that are within the castin
 
 ###### Imbue Fear
 
-By casting this spell, the caster awakens the fear of death in any creature, which is under the afraid condition for the duration of the spell.
+By casting this spell, the caster awakens the fear of death in any creature, which is under the _afraid_ condition for the duration of the spell.
 
 ###### Inflict Sickness
 
@@ -538,15 +540,15 @@ By casting the spell, the caster can talk to any dead creature that might unders
 
 ###### Spoil Sustenance
 
-When cast on an edible item, it will become poisoned. A creature that eats or drinks the product by failing their MD roll will be under the poisoned condition.
+When cast on an edible item, it will become poisoned. A creature that eats or drinks the product by failing their mental defense roll will be under the poisoned condition.
 
 ###### System Shock
 
-When this spell is cast on a creature, it causes a brief pause to the victim’s life support mechanisms; heart, lungs, and brain are stopped for a split second. On a successful spell, the victim will be under the Incapacitated condition for the duration of the spell.
+When this spell is cast on a creature, it causes a brief pause to the victim’s life support mechanisms; heart, lungs, and brain are stopped for a split second. On a successful spell, the victim will be under the _incapacitated_ condition for the duration of the spell.
 
 #### Deceit
 
-Lies, trickery, illusions, and falsehood... Ruco is the master of them all. Their holy symbol is a white, black and teal open hand facing forward, upside down, with a simple smile in its palm. Their physical depiction is that of a genderless, small, cloaked humanoid with four arms, and a face forever hidden.
+Lies, trickery, illusions, and falsehood... Ruco is the master of them all. Their holy symbol is a white, black and teal open hand facing forward, upside down, with a simple curve depicting a smile in its palm. Their physical depiction is that of a genderless, small, cloaked humanoid with four arms, and a face forever hidden.
 
 Ruco’s magic temporarily tricks the minds and senses of others. It can also affect the minds of other creatures to attempt control. Also, spells that produce illusions are included in this field.
 
@@ -562,17 +564,13 @@ None of the effects performed with Deceit magic are permanent. Trying to imbue a
 
 When this spell is cast on a creature, it will make whatever is chosen by the caster to appear invisible, including themselves. This does not mean that the object or creature chosen is invisible, but rather that the target(s) of the spell cannot see the object being hidden by the spell.
 
-###### Deafness
-
-When cast upon a creature, it will cause the target to not be able to hear any sounds for the duration of the spell.
-
 ###### Disguise
 
 For the duration of the spell, the caster can make themself or another creature look totally different, based on the imagination and images in the mind of the caster.
 
 ###### Fool Senses
 
-For the duration of the spell, the caster can change any one of the target’s senses to perceive something different than reality; a foul smell, darkness, a bitter taste in the mouth, a bitter cold.
+For the duration of the spell, the caster can change any one of the target’s senses to perceive something different than reality, such as a foul smell, darkness, a bitter taste in the mouth, a bitter cold, or being unable to hear any sounds.
 
 ###### Friend
 
@@ -653,9 +651,7 @@ A forceful wave of water generates from the caster’s hands and slams on a chos
 
 #### Ethereal
 
-Mosferi is the god of the spiritual and ethereal. His symbol is a swirling ten-spoke star of white and silver, and his physical depiction is that of a floating, ghost-like humanoid shape with floating hands.
-
-His magic, when granted to material creatures, allows them to control the invisible spiritual forces that manipulate the universe, including the lost souls that wander the material plane. The diametric magic for this field is Element.
+Mosferi is the god of the spiritual and ethereal. His symbol is a swirling ten-spoke star of white and silver, and his physical depiction is that of a floating, ghost-like humanoid shape with floating hands. His magic, when granted to material creatures, allows them to control the invisible spiritual forces that manipulate the universe, including the lost souls that wander the material plane. The diametric magic for this field is Element.
 
 Wielders of this magic can have powers such as telekinesis, being able to invoke and control spirits (which can do things for them, including fighting and defending), and form ghostly force fields and barriers.
 
@@ -699,11 +695,9 @@ Through ethereal forces, the spellcaster can move objects for the duration of th
 
 #### Life
 
-The goddess Vid is the bringer of life to the universe. She is depicted as a graceful yet faceless human man with long, flowing blue hair and the body of a glowing star, and her holy symbol, similarly, is that of a blue and white star with 10 long, thin points.
+The goddess Vid is the bringer of life to the universe. She is depicted as a graceful yet faceless human man with long, flowing blue hair and the body of a glowing star, and her holy symbol, similarly, is that of a blue and white star with 10 long, thin points. A wielder of Life magic can heal damage and sickness, provide resistance against damage, provide sustenance, and create magical shields and barriers to protect life.
 
-A wielder of Life magic can heal damage and sickness, provide resistance against damage, provide sustenance, and create magical shields and barriers to protect life.
-
-Its diametric magic is Death.
+Its diametric magic field is Death.
 
 ##### Limitations
 
@@ -713,13 +707,9 @@ Life magic can heal and bring back an entity from the brink of death, but cannot
 
 ###### Destroy Undead
 
-Through this spell, the caster can destroy one or more undead creatures instantly on a successful attack. The undead creature will drop to the ground and will disintegrate quickly, leaving behind anything that it might have been wearing or carrying.
+Through this spell, the caster can destroy one or more undead creatures instantly on a successful attack by negating the Death magic that animaes them. The undead creature will drop to the ground and will disintegrate quickly, leaving behind anything that it might have been wearing or carrying.
 
-###### Divine Strike
-
-A floating, glowing weapon appears out of thin air, and it strikes one opponent for damage.
-
-###### Healing
+##### Healing
 
 Casting this spell on a wounded creature or on themselves heals 1 point of damage. As stated in the rules, life point damage is healed first, then hero point damage.
 
@@ -730,6 +720,10 @@ Through this spell, the caster grants inspiration and power to the target(s), as
 ###### Remove Poison
 
 This spell allows the caster to remove poison from any food, liquid, or a person.
+
+###### Control Beasts
+
+This spell provides temporary control to the caster over any non-intelligent beasts and creatures for the duration of the spell.
 
 ###### Restore Health
 
@@ -769,15 +763,19 @@ This spell allows the spellcaster to erase any tspecies of any creature’s pass
 
 When casting this spell on an object, it repairs the item to its original, undamaged condition.
 
+###### Negate Alteration
+
+With this spell, the caster can remove any effects performed through Change magic.
+
 ###### Purify Sustenance
 
 This spell allows the caster to take back any food or water to an untainted condition, ready for consumption by any living being.
 
-###### Restore Naturality
+###### Restoration
 
 This spell removes any unnatural condition from a victim, such as magical paralyzation, magically-induced illness, poisoning, or any other condition that has been caused through magical intervention. Natural illness cannot be removed with this spell.
 
-###### Send Back
+###### Return
 
 This spell causes any physical entity that has been brought to a location via magical effects to be returned immediately to its original location. The spellcaster doesn’t need to see the original location for the spell to be effective.
 
@@ -847,7 +845,7 @@ Truth        | Find       | Object    | Find an object of which the spellcaster 
 
 #### Spell aspects
 
-Spells are defined by elements known as aspects. Each of these aspects represents the basic characteristics of a spell.
+Spells are defined by aspects, which represent the basic characteristics of a spell.
 
 ##### Area
 
@@ -913,15 +911,13 @@ A character’s background selection is important, as they determine the charact
 
 These areas can be broad and allow the character to have specialized skills that allow them to perform actions they would not be normally able to do. A background grants you advantages when performing skills related to it. For example, knowing how to fix metal if you have an Armorer background.
 
-A character who tries to perform an action tied to their background will have a base roll of 2d6 and comparing the top die roll result against a set skill difficulty score between 1 and 5. If the skill roll is higher than the difficulty score set, the action is successful.
+A character who tries to perform an action tied to their background will have a base roll of 3d6 and comparing the top die roll result against a set skill difficulty score between 1 and 5. If the skill roll is higher than the difficulty score set, the action is successful.
 
 The number of dice that need to be rolled for a skill check can be affected by boosts and drops through environmental situations, conditions, or magical effects.
 
-### Choosing your backgrounds
+### Choosing player character backgrounds
 
-Characters start off with any three backgrounds available. For species other than humans, a suggestion of fitting backgrounds is presented. However, you can still choose any other backgrounds that you prefer for your character.
-
-Below the Combat Rolls section, write down “Backgrounds” as the title of a new section in your sheet, as we’re going to start filling in that information too. As you read the species descriptions and choose one, make sure to write down the backgrounds chosen for your character if you choose to do so at the moment. You can always leave background selection for the end of the process, when you have an idea on who you want your character to be.
+Characters start off with any three backgrounds. Below the Action Rolls section, write down “Backgrounds” as the title of a new section in your sheet, as we’re going to start filling in that information too. You can always leave background selection for the end of the character creation process, when you have a better idea on who you want the character to be.
 
 ### Character backgrounds
 
@@ -931,11 +927,11 @@ Remember that backgrounds must be kept relatively well-focused, and not made far
 
 #### Alchemist
 
-The character is well versed in the art of mixing chemicals and materials. It has a deep knowledge of components and will recognize these components by using its well-developed senses. A character with this background will be able to recognize materials and chemicals, possess knowledge about preparing things such as powder, and have relatively easy access to one or more good suppliers.
+The character is well versed in the art of mixing chemicals and materials. They have a deep knowledge of components and will recognize these components by using its well-developed senses. A character with this background will be able to recognize materials and chemicals, possess knowledge about preparing things such as powder, and have relatively easy access to one or more good suppliers.
 
 #### Arcanist
 
-This background provides knowledge in magical and arcane subjects. This does not mean that the character necessarily knows how to cast spells; it just means that the character is well read or educated in the subject matter. It can read and understand arcane material, recognize spellcasting actions, and might have a good chance of identifying a magical item after studying it closely.
+This background provides knowledge in magical and arcane subjects. This does not mean that the character necessarily knows how to cast spells; it just means that the character is well read or educated in the subject matter. They can read and understand arcane material, recognize spellcasting actions, and might have a good chance of identifying a magical item after studying it closely.
 
 #### Artist
 
@@ -943,11 +939,11 @@ The character excels in the visual arts: drawing, painting and sculpting. They a
 
 #### Artisan
 
-The character is very skilled in a particular trade like tinkerer, leather worker, or jeweler. It is also a member of a guild, or at least knows members of the guild related to its profession.
+The character is very skilled in a particular trade like tinkerer, leather worker, or jeweler. They could also be a member of a guild, or at least knows members of the guild related to its profession.
 
 #### Charlatan
 
-Hustler, street dealer, huckster... A character with this background has spent some time of their life tricking people for money and fame. It will have a definite advantage when persuading people, and will be good with trickery and sleight of hand.
+Hustler, street dealer, huckster... A character with this background has spent some time of their life tricking people for money and fame. They will have a definite advantage when persuading people, and will be good with trickery and sleight of hand.
 
 #### Clergy
 
@@ -959,7 +955,7 @@ A character with the crafting background is adept at building items like simple 
 
 #### Criminal
 
-The character has a checkered past of run-ins with the law. They will have an advantage when dealing with shady types. The criminal background can also land the character into trouble when going into cities where it has lived a life of crime. It will have good knowledge of hidden crime guilds and organizations, and probably know about their most notorious members.
+The character has a checkered past of run-ins with the law. They will have an advantage when dealing with shady types. The criminal background can also land the character into trouble when going into cities where it has lived a life of crime. They will have good knowledge of hidden crime guilds and organizations, and probably know about their most notorious members.
 
 #### Entertainer
 
@@ -967,7 +963,7 @@ The character has plenty of experience performing for a crowd, be it as a singer
 
 #### Entrepreneur
 
-The character has solid experience running a business, accounting procedures, and general management. It will be competent at leading people and taking charge, and will have knowledge of business procedures and contracts.
+The character has solid experience running a business, accounting procedures, and general management. They will be competent at leading people and taking charge, and will have knowledge of business procedures and contracts.
 
 #### Forgery
 
@@ -975,11 +971,11 @@ The character is an expert in forging documents by using the correct vocabulary,
 
 #### Herbalist
 
-This background gives the character knowledge in herbs and plants. The character can prepare teas, antidotes, and healing mixtures. It can identify vegetation species and their characteristics.
+This background gives the character knowledge in herbs and plants. The character can prepare teas, antidotes, and healing mixtures. This background also helps identify vegetation species and their characteristics.
 
 #### Hometown Hero
 
-The character is well-known in his hometown for some daring action that saved the inhabitants. This grants the character preferential treatment in that city or town, including lower prices on everything (around a 25% discount is about right). If the city or town is big enough, the character could be known in the surrounding areas, too.
+The character is well-known in his hometown for some daring action that saved the inhabitants. This grants the character preferential treatment in that city or town, including lower prices on everything (a discount of one wealth level should be about right). If the city or town is big enough, the character could be known in the surrounding areas, too.
 
 #### Mercenary
 
@@ -1035,8 +1031,6 @@ The character roams the streets illegally looking for those who commit crimes, a
 
 ## Weapons & gear
 
-It is time to equip your character with gear and weapons, to get them ready for adventuring. There are two options available for acquiring your initial gear, and this is something that you need to arrange with the Game Master.
-
 ### Money
 
 Money is not tracked in detail down to coins and coin values. Goods, services, and treasure have one of five values assigned to them: Poor, Modest, Average, Upscale, and Rich. Player characters, NPCs, and creatures can have different wealth levels assigned to them that are equivalent to the five values mentioned. A player character usually starts at the Average level, unless there is a valid backstory reason for them not to. The wealth level can also be rolled as follows:
@@ -1051,11 +1045,9 @@ Roll (2d6) | Wealth Level
 
 #### Wealth points (WP)
 
-A character's wealth level is only affected by any purchases performed at their current wealth level and the adjacent lower level. Player characters will have at the start 1d6+4 wealth points available. For every single purchase made at the current level, or for every 10 purchases made at the immediate lower level, the character will lose 1 wealth point.
+A character's wealth level is only affected by any purchases performed at their current wealth level and the adjacent lower level. Player characters will have at the start 1d6+4 wealth points available. For every single purchase made at the current level, or for every 10 purchases made at the immediate lower level, the character will lose 1 wealth point. Any purchases made from items belonging to two or more levels down are inconsequential to the character.
 
-If the character decides to buy an item from the next highest wealth level, they will lose all their wealth points and go down a wealth level.
-
-Any purchases made from items belonging to two or more levels down are inconsequential to the character. For example, an Upscale character buying items of Modest cost doesn't lose any wealth points.
+For example, a character in the Upscale wealth level will spend 1 WP on every single Upscale purchase, or on 10 Average purchases. Modest or Poor items have no effect on the character's wealth points. This character will not be able to buy any items from the Rich wealth level.
 
 If a character loses all their wealth points, they in fact go down to the next lower wealth level with 10 wealth points, with all the disadvantages that implies.
 
@@ -1063,16 +1055,88 @@ If a character loses all their wealth points, they in fact go down to the next l
 
 An option when starting up is to let the players get whatever equipment the character needs for free. This can be a way to hasten things in terms of game preparation, or if the adventure will be a tough one and both the GM and the players want to make sure they are not lacking in terms of gear and weapons. The Game Master needs to make sure that none of the items provided to the player character exceed their wealth level, unless there is a solid story reason for this (for example, being hired by a very wealthy individual, thus bein provided the equipment necessary).
 
+##### Adventurer packs
+
+To make the equipping process easier, what follows is a set of adventurer packs appropriate for each wealth level.
+
+###### Poor
+
+Description               | Value
+--------------------------|--------
+Bread                     | Poor
+Knife                     | Poor
+Pole, 10' long            | Poor
+Sack, small               | Poor
+Sack, large               | Poor
+Stakes, 3                 | Poor
+Torches, 5                | Poor
+Waterskin                 | Poor
+
+###### Modest
+
+Description               | Value
+--------------------------|----------
+Backpack, small           | Modest
+Bread                     | Poor
+Flask of oil              | Modest
+Iron spikes, 12           | Poor
+Knife, small              | Poor
+Mallet                    | Modest
+Rope, 50'                 | Modest
+Sack, small               | Poor
+Stakes, 3                 | Poor
+Tinderbox (flint & steel) | Modest
+Torches, 5                | Poor
+Waterskin                 | Poor
+
+###### Average
+
+Description               | Value
+--------------------------|--------
+Backpack, large           | Average
+Bread                     | Poor
+Flask of oil              | Modest
+Iron spikes, 12           | Poor
+Knife, small              | Poor
+Lantern, oil              | Average
+Mallet                    | Modest
+Rations, standard, 1 week | Average
+Rope, 50'                 | Modest
+Sack, small               | Poor
+Silver mirror, small      | Average
+Stakes, 3                 | Poor
+Tinderbox (flint & steel) | Modest
+Torches, 5                | Poor
+Waterskin                 | Poor
+
+###### Upscale & rich
+
+Description               | Value
+--------------------------|--------
+Backpack, large           | Average
+Flask of oil              | Modest
+Iron spikes, 12           | Poor
+Knife, small              | Poor
+Lantern, hooded           | Upscale
+Mallet                    | Modest
+Pole, 10' long            | Poor
+Rations, standard, 1 week | Average
+Rope, 50'                 | Modest
+Silver mirror, small      | Average
+Stakes, 3                 | Poor
+Tinderbox (flint & steel) | Modest
+Torches, 5                | Poor
+Waterskin                 | Poor
+Wine, 1 quart             | Upscale
+
 ### Weapons
 
-There are two types of melee weapons available: one-handed and two-handed. An attack made with a one-handed weapon provides 1 boost to the attack roll, while a two-handed weapon adds 2 boosts to the attack roll. Being that there are only two weapon types available, weapon choice within each type becomes more of a way to give color and style to a character, although most two-handed weapons might be too expensive for most player characters.
-
-Similarly, missile weapons are split between two types: light, and heavy. A light missile weapon provides 1 boost to the attack action roll, while a heavy missile weapons provides two boosts.
+There are two types of melee weapons available: one-handed and two-handed. An attack made with a one-handed weapon provides 1 boost to the attack roll, while a two-handed weapon adds 2 boosts to the attack roll. Similarly, missile weapons are split between two types: regular, and power. A regular missile weapon provides 1 boost to the attack action roll, while a power missile weapons provides two boosts.
 
 For weapons, the range presented here is the maximum range with no penalties. Beyond that range, all attacks are performed with 1 drop applied. Any attack made beyond maximum range will automatically fail.
 
 Category | Type                  | Description        | Range | Max Range | Value (ammo)
----------|-----------------------|--------------------|-------|-----------|-------------
+---------|-----------------------|--------------------|-------|-----------|-------------------
 Melee    | One-handed (1 boost)  | Club               |       |           | Poor
 .        |                       | Dagger             | 1     | 2         | Modest
 .        |                       | Hammer             |       |           | Average
@@ -1088,13 +1152,12 @@ Melee    | One-handed (1 boost)  | Club               |       |           | Poor
 .        | Two-handed (2 boosts) | Great axe          |       |           | Rich
 .        |                       | Greatsword         |       |           | Rich
 .        |                       | Halberd            |       | 2         | Rich
-Missile  | Light (1 boost)       | Dart               | 2     | 3         | Poor
-.        |                       | Hand crossbow      | 4     | 8         | Upscale
-.        |                       | Shortbow           | 15    | 30        | Average
-.        |                       | Sling              | 3     | 6         | Poor
-.        | Heavy (2 boosts)      | Crossbow           | 18    | 36        | Rich
-.        |                       | Heavy crossbow     | 20    | 40        | Rich
-.        |                       | Longbow            | 24    | 48        | Upscale
+Missile  | Regular (1 boost)     | Dart               | 2     | 3         | Poor
+.        |                       | Crossbow           | 4     | 8         | Upscale (Average)
+.        |                       | Shortbow           | 15    | 30        | Average (Modest)
+.        |                       | Sling              | 3     | 6         | Poor(Poor)
+.        | Power (2 boosts)      | Heavy crossbow     | 18    | 36        | Rich (Average)
+.        |                       | Longbow            | 24    | 48        | Upscale (Modest)
 
 ### Armor
 
@@ -1102,7 +1165,7 @@ Some character classes can wear armor to protect themselves from damage. There a
 
 #### Shields
 
-Using a shield gives you 1 boost to your Physical Defense. Not all classes can use a shield, and it can only be worn if the weapon used is a one-handed unit.
+Using a shield adds 1 boost to your Physical Defense. Not all classes can use a shield, and it can only be worn if the weapon used is a one-handed unit.
 
 Description   | Type    | Value
 --------------|---------|--------
@@ -1120,8 +1183,10 @@ Description               | Value
 --------------------------|--------
 Backpack, large           | Average
 Backpack, small           | Modest
+Bread                     | Poor
 Flask of oil              | Modest
 Iron spikes, 12           | Poor
+Knife, small              | Poor
 Lantern, oil              | Average
 Lantern, hooded           | Upscale
 Mallet                    | Modest
@@ -1133,7 +1198,8 @@ Sack, large               | Poor
 Silver mirror, small      | Average
 Stakes, 3                 | Poor
 Tinderbox (flint & steel) | Modest
-Waterskin                 | Modest
+Torches, 5                | Poor
+Waterskin                 | Poor
 Wine, 1 quart             | Upscale
 
 ## Finalizing the details
@@ -1144,7 +1210,7 @@ By now, your character should be well-defined in terms of numbers and stats, but
 
 #### Spontaneous growth
 
-It is perfectly good to not have an idea of who your character is, their personality and traits, and yet have a very enjoyable game session. It turns out that most of the time, as you play your character, you will inevitably develop certain characteristics as you play. Also, some of the actions performed during gameplay spark ideas and concepts that will allow you to define who your character is.
+It is perfectly normal to _not_ have an idea of who your character is, their personality and traits, and yet have a very enjoyable game session. It turns out that most of the time, as you play your character, you will inevitably develop certain characteristics as you play, so having your character being rather "undefined" allows the player to explore the character's growth as a person in the world. Also, some of the actions performed during gameplay spark ideas and concepts that will allow you to define who your character is.
 
 Sometimes, players who have a clear idea of who their character is before starting off the very first game session see their character change and grow, and sometimes becoming something quite different from their original idea. This is good, as this means the player is really involved in the game and using game events and game relationships to provide depth to the character.
 
@@ -1154,11 +1220,7 @@ Your character’s name is very important, as it also helps set the mood. You ca
 
 ## Running the game
 
-You have decided to be the Game Master and lead your friends into a world of adventure and excitement. Fantastic! To do this, you need to understand how to run combat, manage monsters, and keep track of all the happenings in every session. It might sound daunting, but Perilous Ventures is designed to be easy to run.
-
-### The ORC Engine
-
-This game uses the Opposed Roll Contest engine (ORC) to determine combat & magic action results.
+This game uses the Opposed Roll Contest Engine, or ORC Engine, to determine combat & magic action results.
 
 In its most basic form, there are two rolls related to an action, thus called an Action Roll. For example, in combat there is an attacker and a defender. Both sides roll the required amount of dice based on any modifiers. But the dice are not added up, instead, only the top die from each roll is picked. If the attacker’s highest die is higher than the defender’s highest die, the attack is successful and inflicts damage. If the defender wins, they avoid receiving damage.
 
@@ -1166,35 +1228,33 @@ As an example: Rolfar the dwarf warrior swings at a hobgoblin with his axe. As a
 
 The only die used in this system is the 6-sided die (d6), the reason for this being accessibility; You can find six-sided dice everywhere, and can be acquired cheaply or taken from most common board games.
 
-#### Action rolls (AR)
+### Action rolls (AR)
 
 Characters and creatures do not have ability stats as in other RPGs. Capabilities are determined by action rolls. These action rolls will always consist of a set of opposed actions, except for skill checks. Action rolls cover a wide gamut of skills that are “blended” together for a final purpose.
 
-##### Weapon combat
+#### Weapon combat
 
-###### Physical Action (PA)
+##### Physical Action (PA)
 
 This action roll covers all the skills involved in melee and missile combat: using a weapon properly, knowing its strengths and weaknesses, and how to use it most effectively. Physical Action is used when a character or creature attempts to strike an opponent with a physical weapon, either melee or missile, or performs an unarmed attack. This also includes creature attacks made with claws, biting, or similar types of strikes.
 
-###### Physical Defense (PD)
+##### Physical Defense (PD)
 
-This action covers defensive battle knowledge such as parrying, knowing the limits and capabilities of weapons and using that to avoid damage, and strategic movement in combat to better defend themselves.
+This action covers defensive battle knowledge such as parrying, knowing the limits and capabilities of weapons and using that to avoid damage, and strategic movement in combat to better defend themselves. The target of a Physical Action performs this dice roll to compete against the attack roll and avoid receiving damage.
 
-The target of a Physical Action performs this dice roll to compete against the attack roll and avoid receiving damage.
+#### Spells & magical devices
 
-##### Spells & magical devices
-
-###### Mental Action (MA)
+##### Mental Action (MA)
 
 This action roll covers knowledge of the arcane and the mystical. It also delves into an entity’s ability to manage and handle magical powers, either by nature or by training. This combination of factors makes someone being able to handle magical powers either through magic spells or by using a magical device.
 
 This is the roll used by spellcasters to determine their success when utilizing spells. Any player characters using magical devices such as staves or wands also performs this dice roll.
 
-###### Mental Defense (MD)
+##### Mental Defense (MD)
 
 This is a mix of natural resilience and resistance to magic, and also knowledge on how to diminish or entirely avoid spells and their effects. This is the dice roll made by the target of a Magic Action attack to avoid receiving damage or any other spell effects. Note that if the target of a spell is a willing recipient of such magic, this roll is not needed.
 
-##### Skill checks
+#### Skill checks
 
 A character might try to perform a non-combat action like performing a song, making a high jump, or deduct the meaning of an arcane writing. These skill check rolls have diverse levels of difficulty, and the character’s ability to be successful in these checks is determined by the character’s background.
 
@@ -1212,31 +1272,29 @@ A character with a background will roll 2d6, pick the top die result and compare
 
 If a player fails at a skill check roll, successive skill checks for the same character will be performed at +1 drop per retry. See below for an explanation of the boosts and drops mechanism.
 
-###### Non-background checks
+##### Non-background checks
 
 If a character has no relevant background to perform the task, the GM needs to briefly analyze what the player intends to do and judge accordingly. There might be actions that the GM decrees that it would be impossible for the character to try to perform the action, for example, forging a knife without the _Armorer _background.
 
 On other occasions, there might be a chance for the character to perform the task; for example, trying to emulate a signature without the _Embezzler _background. In such a situation, the GM can determine that the skill check will be made with a straight 1d6 roll, or even add one or more drops if the task is considered to be quite difficult, specific, or obscure in nature.
 
-#### Boosts & drops
+### Boosts & drops
 
 Modifications to action rolls and skill checks are needed for different reasons: species & class modifiers, magical effects, or special situations. Modifying a dice roll is done with the boosts and drops mechanism. These change the rolls being performed, altering the chances of an action being successful.
 
-##### Boost
+#### Boost
 
-For most of the game, action rolls are performed with boosts; you can see it as the system’s default operating mode for its action mechanics and resolution.
+For most of the game, action rolls are performed with boosts; it is the ORC Engine's default operating mode for its action mechanics and resolution.
 
-One boost equals an additional d6 to include in the dice roll. But boosts are not added to your roll sum total. If you have 1 boost for a roll, you will roll 2d6 (basic d6 roll + 1 boost die), but as explained above, your final result is determined by the highest die result. For example, if you rolled 4  and 1, you only keep the 4 as your final result.
-
-This process is exactly the same regardless of how many boosts you have; you always keep only the highest die roll. The more boosts you have, the greater the chances of rolling a higher number as the top die roll.
+One boost equals an additional d6 to include in the dice roll. But boosts are not added to the roll sum total. If one roll has 1 boost, 2d6 (basic d6 roll + 1 boost die) is rolled, and the final result is determined by the _highest_ die result. For example, if a player rolls 4 and 1, 4  is considered as the final result. This process is exactly the same regardless of how many boosts you have; only the highest die roll is kept. The more boosts there are for an action roll, the greater the chances of rolling a higher number as the top die roll.
 
 ##### Drop
 
-These are the opposite of boosts. For example, if you have 1 drop that applies to your action, you would roll 2d6, then choose the lower die roll. Using the same rolls from the example for boosts above, you would pick 1 as your final roll result.
+These are the opposite of boosts. For example, if 1 drop that applies to an action, the player would roll 2d6, then choose the _lower_ die roll as the final result. Using the same rolls from the example for boosts above, 1 would be the final roll result.
 
 #### Simultaneous boosts and drops
 
-In the rare case that you have simultaneous boosts and drops for an action roll, find the difference between boosts and drops. If there are more boosts than drops, then the roll will be boosted by that difference. If there are more drops than rolls, the roll will be dropped by said difference.
+In the rare case that there are simultaneous boosts and drops for an action roll, find the difference between boosts and drops. If there are more boosts than drops, then the roll will be boosted by that difference. If there are more drops than rolls, the roll will be dropped by said difference.
 
 For example, if you have a roll with 2 boosts (which would normally be 3d6, and sum up the three highest) and 1 drop, the formula would be:
 
@@ -1260,9 +1318,7 @@ Combat resolution follows these steps:
 
 ### Initiative
 
-Initiative for combatants is determined by group. This is a fundamental change from how initiative is used in most systems, especially for player characters.
-
-Instead of rolling per player character, there is only one roll that represents the complete character group. This simplifies the process, and allows players to have full control of strategy, as they can choose and change the fighting order per round. This eliminates having to keep track of things like holding a player’s action waiting for a trigger from another player.
+Initiative for combatants is determined by group; instead of rolling per player character, there is only one roll that represents the complete character group. This simplifies the process, and allows players to have full control of strategy, as they can choose and change the fighting order per round. This eliminates having to keep track of things like holding a player’s action waiting for a trigger from another player.
 
 Initiative is rolled only once at the beginning of the encounter, before actual combat actions take place.
 
@@ -1278,7 +1334,7 @@ For boss monsters, or maybe even for an exceptionally strong and dangerous leade
 
 #### Surprise
 
-Normally, if the highest initiative roll for a group is equal to 1, that is considered surprised, and thus caught flat-footed and cannot act for one round of combat. This is optional, and it is left to the discretion of the GM based on the situation. Here are a few examples:
+Normally, if the highest initiative roll for a group is equal to 1, that group is considered surprised, and thus caught flat-footed and cannot act for one round of combat. This is optional, and it is left to the discretion of the GM based on the situation. Here are a few examples:
 
 *   If the characters make noise entering a dungeon room, whatever monsters are inside will know about the character’s presence, and will not be surprised. However, the characters could be surprised in this situation, for example, if they did not listen for noises or simply expect the room to be empty.
 
@@ -1288,7 +1344,7 @@ Use common sense with these situations as a GM, trust your instincts, and go for
 
 ### Combat round
 
-With initiative set, actual combat can begin. Combat events and actions are sliced into rounds. A round is roughly equal to around 5 seconds of real time. Within each round, there is a sequence of events that happen when the players encounter an enemy and combat ensues.
+With initiative set, actual combat can begin. Combat events and actions are sliced into _rounds_. A combat round is roughly equal to around 5 seconds of real time. Within each round, there is a sequence of events that happen when the players encounter an enemy and combat ensues.
 
 ### Events
 
@@ -1298,10 +1354,9 @@ Every combat round has a series of events that take place to determine the resul
 
 Characters and creatures can move away to hide, take cover, engage an enemy, or any other reason that might be appropriate. They can also choose not to move and remain in the same position. They might choose to move first and perform an action later, or the opposite. There are limitations to moving, as explained below.
 
-
 ##### Zones & distance
 
-For combat purposes, distance is measured in zones. Each zone starts from zero (see _Engaged_, below), and from that point out, each zone equals 25 feet in any direction. A creature or player character can usually move only a distance of one zone per round of combat. There might be exceptions to this such as an extremely quick creature, or a magical device or spell that enhances speed.
+For combat purposes, distance is measured in zones. Each zone starts from zero (see _Engaged (ZZ)_, below), and from that point out, each zone equals 25 feet in any direction. A creature or player character can usually move only a distance of one zone per round of combat. There might be exceptions to this such as an extremely quick creature, or a magical device or spell that enhances speed.
 
 You can call out zones by their level, starting from ZZ (zone zero) as two units being adjacent to each other, and go from there (Z1 up to 25 feet, Z2 up to 50 feet, and so on).
 
@@ -1440,11 +1495,11 @@ If a character is under the care of someone with a Medical background, this numb
 
 ### Conditions
 
-Not only can creatures receive damage reflected as hits, they can also be subject to different conditions that affect their health and can definitely endanger them in combat. Here are some common conditions, caused by combat results and magical effects.
+Not only can creatures receive damage reflected as hits, they can also be subject to different conditions that affect their health and can definitely endanger them in combat. Here are some common conditions, caused by combat results and magical effects. If a condition has a temporary effect, the Game Master will roll 1d6 to determine for how long it lasts.
 
 #### Ablaze
 
-If an entity has caught fire, and they move out of the source of fire, they will be ablaze for 1d6 rounds of combat. They will take damage for each round that the entity is on fire. If the entity spends one combat round stomping out the flames by any means (rolling on the ground, dousing with water, etc.), the fire will be put out immediately.
+If an entity has caught fire, they will take damage for each round that they are on fire as determined by the GM's roll for duration. If the entity spends one combat round stomping out the flames by any means (rolling on the ground, dousing with water, etc.), the fire will be put out immediately.
 
 #### Afraid
 
@@ -1458,11 +1513,11 @@ Roll | Result
 
 #### Exhausted
 
-A creature that is exhausted is awake but moves at half speed due to exertion and tiredness, meaning that regularly it will take the creature two rounds to move a whole zone. An exhausted creature can attack and defend but will do so with 1 drop added to their roll, and no boosts can be applied, regardless of their existing boosts when out of the exhaustion condition.
+A creature that is exhausted is awake but moves at half speed due to exertion and tiredness, meaning that regularly it will take the creature two rounds to move a whole zone. An exhausted creature can attack and defend but will do so with 1 drop added to their roll.
 
 #### Incapacitated
 
-A creature with this condition is awake and aware, but cannot move or act at full capacity due to some ailment or damage received. An incapacitated creature does all actions with 3 drops.
+A creature with this condition is awake and aware, but cannot move or act at full capacity due to some ailment or damage received. An incapacitated creature does all actions with zero boosts and 3 drops.
 
 #### Paralyzed
 
@@ -1480,6 +1535,19 @@ An entity that is sick will perform all actions with 1 drop added to their rolls
 
 All attacks against an unconscious entity automatically hit and the target receives lethal damage. To be awakened, they need to roll a d6 against a set difficulty score between 1 and 5, based on the reason why the creature is unconscious. For example, if simply asleep they will only need to roll a 1 to wake up, while someone under some sort of chemical or magical unconsciousness might need to roll 4 or more.
 
+#### Condition summary
+
+Condition     | Boost | Drop | Effect
+--------------|-------|------|--------------------------------------------------------------
+Ablaze        | --    | --   | 1 point of damage per round.
+Afraid        | --    | --   | Random reaction.
+Exhausted     | --    | 1    | Half-speed movement.
+Incapacitated | 0     | 3    |
+Paralyzed     | --    | --   | No actions cam be taken, automatically takes damage.
+Poisoned      | --    | --   | 1 point of damage per round.
+Sick          | --    | 1    |
+Unconscious   | --    | --   | Automatic damage until awakened, roll against DS to wake up.
+
 ### Action points
 
 Each character class has a pool of Action Points (AP) available. These are used differently by each character class; for warriors and thieves, they are used to perform special combat maneuvers. For priests and wizards, it determines their spellcasting capacity.
@@ -1495,30 +1563,6 @@ A character can consume more than the number of action points available to them,
 However, when a push happens, the character has over-exerted, and some conditions will apply. They will be under the condition of _exhaustion_ as long as its AP are below zero, and of course cannot use any of its abilities that require action points.
 
 Once the character reaches zero AP, it is out of the exhaustion condition.
-
-### Weapons
-
-There are two types of weapons available for players, one-handed and two-handed. Weapon selection can be limited by character class and race. A weapon level determines how many boosts are added to the attack roll, therefore affecting its chances of inflicting direct Life Points to its target.
-
-#### One-Handed
-
-These weapons get 1 boost on a Physical Action attack roll. Examples of one-handed weapons are daggers, clubs, hand axes, longswords, slings, and morningstars.
-
-#### Two-handed
-
-These types of weapons add 2 boosts to Physical Action rolls. Examples of these are: Two-handed swords, bastard swords, flails, great axes.
-
-#### Missile weapons
-
-All missile weapons add 1 boost to their attack roll,
-
-### Armor
-
-Most character classes can wear armor to protect themselves from damage. Armor adds 1 boost to the wearer’s Physical Defense rolls. Any type of armor provides this boost, therefore, armor selection is more of an item of character appearance and characterization.
-
-#### Shields
-
-There’s only one type of shield available. A shield adds 1 boost to all of the defender’s rolls, both Physical Defense and Mental Defense.
 
 ## Monsters
 
@@ -1546,11 +1590,11 @@ This section presents how many points of damage the creature can take. You have 
 
 #### Speed
 
-This shows the movement speed of the creature in a combat round. It’s presented in zones. When a monster shows a movement of 0, that doesn’t mean that it can’t move, but rather that it moves only enough to cover a distance of around five feet. When the creature is unable to move, double dashes will be shown here.
+This shows the movement speed of the creature in a combat round. It’s presented in zones. When a monster shows a movement of 0, it means that either it cannot move, or moves only about 5 feet per combat round. When the creature is unable to move, double dashes will be shown here.
 
 #### Physical
 
-This section shows the statistics used in physical combat, in the form of how many dice need to be rolled for the action being performed. If the number shown is followed by a negative sign, the roll being performed is dropped (thus, the lowest die is picked).
+This section shows the statistics used in physical combat, in the form of how many dice need to be rolled for the action being performed.
 
 ##### Action
 
@@ -1562,7 +1606,7 @@ This presents the number of dice to be rolled for the defense roll when facing m
 
 #### Mental
 
-This section shows the statistics used in mental actions, including magical combat if it applies. Same as with the Physical section above, for the attack and defense modifiers shown, If the value shown is a positive value, boost the attack roll by that many dice.
+This section shows the statistics used in mental actions, including magical combat if it applies.
 
 ##### Action
 
@@ -1572,8 +1616,7 @@ This is the total number of dice that must be rolled when performing a mental ac
 
 This presents the dice that need to be rolled for the defense roll when the monster is the target of a magical attack.
 
-
-##### ACTION POINTS (AP)
+##### Action points
 
 In the case of monsters that can cast magic, the total amount of available action points will be shown here. All monsters have a base spell cost of 1, and recover action points at the rate of 1 AP per round.
 
@@ -1585,9 +1628,9 @@ This section describes the attacks available to the monster. If there’s a numb
 
 Creatures wondrous and dangerous, marvelous or humble, diminutive or gigantic... They are all found in this world. What follows is a list of some of these beasts and entities, information captured throughout the years by diligent adventurers and chroniclers, for the purpose of helping future adventurers as they follow their own perilous ventures...
 
-## A
+### A
 
-### Amaroq
+#### Amaroq
 
 **Damage:**  HP 3, LP 1
 
@@ -1607,7 +1650,7 @@ The amaroq's appearance changes depending on its location. Those from cold, snow
 
 They are fairly intelligent and have evolved to recognize humanoids as direct threats to their hunts and their environments. Therefore, an amaroq will not hesitate in attacking a group of humans as long as that group is not too large.
 
-### Ant, giant
+#### Ant, giant
 
 **Damage:** HP 3, LP 3
 
@@ -1623,7 +1666,7 @@ Vicious, fast, and incredibly tough just like their normal-sized counterparts, g
 
 Their underground lairs are an affair of complicated, impossible tunnels. A small creature like a halfling or a goblin could potentially crawl through these tunnels to find who knows what kind of strange treasure and objects.
 
-### Ape, carnivorous
+#### Ape, carnivorous
 
 **Damage:** HP 4, LP 2
 
@@ -1639,7 +1682,7 @@ They are nearly indistinguishable from their herbivore counterparts except for t
 
 They are quite strong although not that agile, and one of their favorite ways to attack and capture their victims is to slam them with their whole bodies, stunning their prey, and then punching and biting their unfortunate prey until it dies.
 
-### Assassin vine
+#### Assassin vine
 
 **Damage:** HP 5, LP 1
 
@@ -1655,9 +1698,9 @@ These appear as innocuous vines with lush green leaves and their characteristic,
 
 Once they detect a living being touching them, the vines immediately respond in a very aggressive manner, either slamming their victim with their thick, strong vines (around 1” thick), or trying to grapple and choke the victim to death.
 
-## B
+### B
 
-### Basilisk
+#### Basilisk
 
 **Damage:** HP 5, LP 2
 
@@ -1676,7 +1719,7 @@ Their eyes are a beautiful purple hue that contrasts beautifully against the bla
 When a paralysis attack is successful. The victim will be under the paralyzed condition for 1d6 rounds or until the condition is removed through medical or magical means.
 
 
-### Bear, grizzly
+#### Bear, grizzly
 
 **Damage:** HP 4, LP 3
 
@@ -1691,7 +1734,7 @@ When a paralysis attack is successful. The victim will be under the paralyzed co
 Grizzly bears, like most wildlife creatures, will generally stay away from the path of adventurers. However, if feeling threatened, they will not hesitate to attack and pursue anyone. Sometimes they will perform a bear hug and grapple a victim. In this situation a PA/PD contest will need to be rolled on every combat round, or else the victim takes one point of damage from the bear’s incredibly strong hug.
 
 
-### Bee, giant
+#### Bee, giant
 
 **Damage:** HP 0, LP 1
 
@@ -1708,7 +1751,7 @@ A giant bee looks just like a regular bee but it’s roughly the size of a pigeo
 Giant bees build amazing, giant beehives that can be more than 50 feet high, and their honey is quite prized and expensive. Unfortunately, trying to get this honey is a dangerous endeavor, as the bees will protect their hive at all costs.
 
 
-### Boggart
+#### Boggart
 
 **Damage:** HP 1, LP 1
 
@@ -1727,7 +1770,7 @@ Personality-wise, they tend to be more even-tempered than their bigger counterpa
 Boggarts have a mischievous side to them and can also drive a hard bargain. They tend to support each other more than other goblinoids and have a tighter culture, so when a boggart is slighted by someone, it is not uncommon for them to join forces and take revenge.
 
 
-### Bugbear
+#### Bugbear
 
 **Damage:** HP 4, LP 2
 
@@ -1745,9 +1788,9 @@ Bugbears have a traditional preference for axes in combat, with the stronger one
 
 For unknown reasons, magic doesn’t flow well through bugbears. Very few have had the willpower and sheer force to learn the arcane arts and become wizards. Ironically, these individuals become quite powerful due to their relentless dedication to the magical arts.
 
-## C
+### C
 
-### Centipede, giant
+#### Centipede, giant
 
 **Damage:** HP 1, LP 1
 
@@ -1763,7 +1806,7 @@ You can usually hear them inside a dungeon with a characteristic continuous, qui
 
 Their bite can sometimes be venomous (SL 2), which will cause the victim to become incapacitated, shivering on the ground until the effect passes away or is healed.
 
-### Cobold
+#### Cobold
 
 **Damage:** HP 1, LP 1
 
@@ -1779,9 +1822,9 @@ Usually reviled and rejected in society, cobolds are odd creatures with an unkno
 
 Cobolds are known to make demands to towns, castles, and other types of residences and settlements for food and other things, even gold. If their demands are not met, they will usually assemble a mob and invade the place, crawling all over the buildings, going down chimneys, forcing their way in through windows and doors, attacking the people and stealing valuables from them.
 
-## D
+### D
 
-### Dragon
+#### Dragon
 
 **Damage:** HP 10, LP 5
 
@@ -1795,7 +1838,7 @@ Cobolds are known to make demands to towns, castles, and other types of residenc
 
 Unique, powerful, dangerous, dragons are magnificent creatures of legend and lore. They can be symbols of justice and good as well as for evil and death. They are reptilian in nature, with giant wings, long tails, and powerful breath powers that can devastate large areas.
 
-#### Aging
+##### Aging
 
 As dragons are able to live thousands of years, adventurers have a chance of meeting dragons of different ages, from young, barely-hatched ones, to adults at the peak of their power, to ancient, dying dragons. Each dragon age range has its own stats, as these stats apply to all types of dragons.
 
@@ -1810,9 +1853,9 @@ Mature     | -- | -- | -1 | -1 | +1 | -- | +2
 Old        | -2 | -1 | -2 | -2 | +2 | +1 | +4
 Ancient    | -5 | -3 | -3 | -2 | +3 | +2 | +8
 
-## G
+### G
 
-### Gargoyle
+#### Gargoyle
 
 **Damage:** HP 3, LP 3
 
@@ -1828,7 +1871,7 @@ Gargoyles are magical creatures made of stone, which means they must be the idea
 
 They regularly are used to guard buildings and entrances, simulating statues, unmoving and weathered by the elements. Therefore, they get 1 boost on their initiative rolls as they surprise any unwitting adventurers. Due to their stone skin, gargoyles are immune to slashing or stabbing attacks (as from a sword or an arrow), and can only take damage from bludgeoning weapons like maces, hammers, and such.
 
-### Ghoul
+#### Ghoul
 
 **Damage:** HP 3, LP 1
 
@@ -1844,7 +1887,7 @@ Ghouls are unspeakably evil creatures who usually dwell in abandoned places by t
 
 However, they do not possess the victim’s memories. They are intelligent enough to attempt to act normally when planning and trying to capture a victim, as the ghoul might have learned a couple of mannerisms and expressions from their previous prey, therefore having a chance of passing undetected.
 
-## Giant, Frost
+### Giant, Frost
 
 **Damage:** HP 10, LP 5
 
@@ -1860,7 +1903,7 @@ Frost giants are the inhabitants of very tall, cold mountains. Their appearance 
 
 They are reserved and do not tend to interfere with the affairs of the external world, but they are fiercely territorial and will not hesitate to attack any invaders after a very brief warning.
 
-### Goblin
+#### Goblin
 
 **Damage:** HP 1, LP 1
 
@@ -1876,7 +1919,7 @@ Goblins are small creatures about 36 inches tall. Their bodies are quite skinny 
 
 They are well known for being excellent thieves and spies due to their natural agility and small size. They are also very courageous and sometimes even too brash, punching blindly above their weight sometimes. This makes them valuable companions but also an enemy that, even though not that strong, makes up for that in sheer determination.
 
-### Griffin
+#### Griffin
 
 **Damage:** HP 5, LP 2
 
@@ -1894,9 +1937,9 @@ Their flight speed in combat is quite fast, and they are agile and nimble even w
 
 One of their more fearsome attacks is to grab a victim, take flight quickly, and drop them onto a hard surface to their death.
 
-## H
+### H
 
-### Hellhound
+#### Hellhound
 
 **Damage:** HP 5, LP 2
 
@@ -1914,7 +1957,7 @@ Hellhounds are usually deployed to guard an area and prevent intruders from ente
 
 Their most fearsome attack is their fire breath, which can strike a target from more than 50 feet away, causing burns for 1d6 rounds or until the fire is put out.
 
-### Hobgoblin
+#### Hobgoblin
 
 **Damage:** HP 3, LP 2
 
@@ -1930,9 +1973,9 @@ The larger cousin of goblins, hobgoblins are taller, more muscular, and are more
 
 Hobgoblins have a natural tendency to be hot-headed and impulsive. But that does not mean they are not intelligent and capable. In fact, a seasoned hobgoblin warrior is a fearsome opponent for anyone. Like their larger cousins, the bugbears, they tend to prefer all sorts of axes for combat and don’t care much for metal armor.
 
-## L
+### L
 
-### Lizardfolk
+#### Lizardfolk
 
 **Damage:** HP 2, LP 2
 
@@ -1950,9 +1993,9 @@ Lizardfolk are amphibious, and as such can stay underwater for prolonged periods
 
 They favor lighter armor and rely on the resiliency of  their skin. Lizardfolk favor spears and bows in combat. They have chosen to remain rather separated from most societies and settlements, but that doesn't mean that some manage to integrate into the population of large cities, and even though they guard their own settlements with zeal, they are welcoming to visitors.
 
-## M
+### M
 
-### Minotaur
+#### Minotaur
 
 **Damage:** HP 5, LP 3
 
@@ -1968,7 +2011,7 @@ Minotaurs are amazingly strong creatures with a large human body but the head of
 
 Minotaurs are fierce warriors and absolutely bearsome in combat. They handle two-handed weapons with ease, and are cunning and relentless in battle. They integrate well into regular society, and are admired for their hard-working ethics and courage. However, even though they have no problems with integration, they regularly migrate to their ancestral home, celebrating festivals to whom no person from any other species is invited.
 
-### Mummy
+#### Mummy
 
 **Damage:** HP 3, LP 3
 
@@ -1984,9 +2027,9 @@ Mummies are undead entities who've gone through extensive physical and mystical 
 
 Mummies are very single-minded in their purpose, and will be relentless and almost unstoppable in it. Due to their condition as corpses (even though preserved), mummies have a chance to inflict sickness on their victims. Anyone struck in such a way will be under the sick condition for 1d6 rounds or until healed by some means.
 
-## O
+### O
 
-### Ogre
+#### Ogre
 
 **Damage:** HP 7, LP 4
 
@@ -2004,7 +2047,7 @@ Their heads are rather large in proportion to their bodies, with very thick neck
 
 Their bodies are not that good at controlling their temperature, so ogres enjoy bathing in mud and keeping their bodies covered in dried mud, as this helps them keep their body temperature at a comfortable level. This is part of the reason why they wear barely any clothing, with many opting for simply being naked all the time. They have a preference from eating raw meat, and will not hesitate in eating other humanoids if they can.
 
-### Orc
+#### Orc
 
 **Damage:** HP 4, LP 2
 
@@ -2022,9 +2065,9 @@ Their skin ranges from dark to light sepia-gray, with prominent body hair throug
 
 Orcs have a very complex culture, with many superstitions, and even as they integrate with society even in large cities, and achieve high positions in them (especially in the military), this integration is somewhat of a recent happening, and for that reason they are adamant about remembering their origins and will sometimes perform certain small rituals (like moving their hand in a certain pattern after closing a business deal) that reflect those old beliefs.
 
-## P
+### P
 
-### Piskie
+#### Piskie
 
 **Damage:** HP 1, LP 1
 
@@ -2040,9 +2083,9 @@ Piskies are clever and naughty fey creatures that are tiny, mischievous, and qui
 
 Some piskies are said to steal children or to lead travellers astray. They are drawn to horses, riding them for pleasure and making tangled ringlets in the manes of those horses they ride. They are great explorers familiar with the caves of the ocean, the hidden sources of the streams and the recesses of the land, so if adventurers are able to befriend or negotiate with a piskie, they could gain a worthy guide. However, as mentioned above, some piskies cannot resist the chance of tricking adventurers and taking advantage of them.
 
-## R
+### R
 
-### Rat, giant
+#### Rat, giant
 
 **Damage:** HP 1, LP 1
 
@@ -2056,9 +2099,9 @@ Some piskies are said to steal children or to lead travellers astray. They are d
 
 Giant rats are just like their normal counterparts but about 48 inches in length. They are sneaky, sometimes aggressive, and will definitely eat through materials, opening their way into unwanted places. Sometimes they can transmit illness with their bite; in the case that happens, the victim will be under the Sick condition for 2d6 rounds.
 
-## S
+### S
 
-### Shrieker
+#### Shrieker
 
 **Damage:** HP 0, LP 1
 
@@ -2076,7 +2119,7 @@ These mushrooms are harmless per se, and you can make a fantastic tea out of the
 
 There’s a 1-4 in 1d6 chance of a nearby creature becoming attracted to the shrieking sound.
 
-### Skeleton
+#### Skeleton
 
 **Damage:** HP 4, LP 1
 
@@ -2094,7 +2137,7 @@ Skeletons are not smart, and will follow whatever orders they are given in an un
 
 They have a natural weakness against blunt weapons, which lowers their physical defense by 1 drop when attacked with that type of weapon. Note that bare fists do not count as blunt weapons for this purpose, as they don’t carry enough power when they hit.
 
-### Snake, giant rattlesnake
+#### Snake, giant rattlesnake
 
 **Damage:** HP 2, LP 1
 
@@ -2110,7 +2153,7 @@ A giant rattlesnake is about 25 feet long, with the familiar patterns that ident
 
 Sometimes the attack of a rattlesnake will allow it to inject its venom into a victim. This venom lasts for 1d6 rounds, and the victim will be under the poisoned condition for that length of time unless healed.
 
-### Spider, giant
+#### Spider, giant
 
 **Damage:** HP 3, LP 1
 
@@ -2126,9 +2169,9 @@ Giant spiders are found in dark, hidden areas in abandoned dungeons and castles,
 
 They are quite aggressive and territorial and will attack on sight. On some occasions they will grapple an opponent and use their web to wrap them in it. A victim in this situation is considered to be under the incapacitated condition. A spun web will have a strength score from 1 to 5. Victims need to roll a successful physical defense on every round to break free from the web.
 
-## T
+### T
 
-### Topiar
+#### Topiar
 
 **Damage:** HP 6, LP 3
 
@@ -2144,7 +2187,7 @@ Topiars are living trees, usually about 10 to 20 feet in height. When resting, t
 
 They are generally gentle creatures with a calm demeanor and the wisdom of hundreds of years of life, but they are fierce defenders of their surroundings, and will unhesitantly attack anyone who willfully harms their forest home.
 
-### Troll
+#### Troll
 
 **Damage:** HP 6, LP 4
 
@@ -2160,9 +2203,9 @@ Large, imposing, and deadly, trolls are found all over the world, usually living
 
 Trolls do not get along with any other species, and basically consider everything else that moves as possible food. They are quite aggressive, will fight with berserker rage, but are not very clever. Negotiating with a troll can become an exercise in futility, as they are very stubborn.
 
-## V
+### V
 
-### Vestige
+#### Vestige
 
 When deities directly interfere in the world in one way or another (as opposed to the manifestation of magic through spells or magical devices), rifts and distortions in the fabric of reality in the physical world provoke manifestations, fragments of raw divine power, that take shape in diverse ways. These manifestations are known as vestiges.
 
@@ -2184,7 +2227,7 @@ Roll | Magic Field
 11   | Deceit
 12   | Death
 
-#### Essence
+##### Essence
 
 **Damage:** HP 2, LP 1
 
@@ -2202,7 +2245,7 @@ For example, an Element essence might be akin to a floating, swirling fireball, 
 
 Based on the essence’s magic field, you can select the spell that it will channel and use from the spells listed in the _Magic & spells_ section.
 
-#### Incarnate
+##### Incarnate
 
 **Damage:** HP 6, LP 3
 
@@ -2218,7 +2261,7 @@ A powerful entity that is a physical embodiment of a single magic field. When th
 
 Incarnates are cunning and tend to be dangerous, as they tend to mix their incredibly strong magical prowess with the mental pitfalls of material creatures; therefore things like greed, lust, and avarice tend to take hold of them. Sometimes they might, in fact, think they are doing something good for the world, unable to see their errors through the madness.
 
-#### Paragon
+##### Paragon
 
 **Damage:** HP 10, LP 6
 
@@ -2242,7 +2285,7 @@ Their powers are almost god-like, and are highly resistance to most types of dam
 
 If you want to create your own monsters, especially since this is a Playtest Edition of the game with only a few of them listed, here are some guidelines that will give you an idea on how to design your own wondrous beasts. For this, let’s revisit monster statistics and see how we can manipulate those to design a monster that fits our view.
 
-#### Damage capacity
+### Damage capacity
 
 For this, we can use the basic warrior as a measuring stick on how many hero points and life points we’ll assign to the beast. Starting off, the warrior character class is not intended to be as low-powered as what usually is a first level character in your typical RPG system. It’s expected that a warrior (and indeed, all the other classes) start off as a mid-low level adventurer.
 
@@ -2250,27 +2293,27 @@ As a way to illustrate this, if we used a scale from 1 to 10, 1 being a total ne
 
 A warrior starts in its most basic form with 4 hero points and 3 life points., which means that if you want to create a monster weaker than a regular warrior, it’s as easy as assigning less hero points and life points to your creation. But what do those scores represent?
 
-##### Hero Points
+#### Hero Points
 
 These represent a combination of physical endurance with sheer willpower and motivation. It determines how much damage someone can take and ignore to a certain extent. Losing hero points doesn’t kill someone outright, but it does weaken the player or creature, leading to an eventual death.
 
-##### Life Points
+#### Life Points
 
 You can think of life points as the actual bodily resistance to damage of the creature. That’s why losing all life points inevitably leads to death. Thus, lethal damage caused by solid weapon hits, spells, or an accident, will cause the character or creature to take life point damage directly.
 
-##### Application in monster design
+#### Application in monster design
 
 This means that if, for example, we intend to create a monster that is extremely tough and resistant to damage, the amount of life points will be rather high. Keep in mind that life points can never be higher than hero points.
 
 On the other hand, we could be creating a monster that possesses a lot of willpower and courage in fighting, but in reality  is rather weak physically. This monster could have a relatively high amount of hero points, but probably only two or one life points.
 
-#### Speed
+### Speed
 
 A regular player character moves 1 zone per combat round, which is about 25-30 feet. Based on this, make a calculation and estimating how quick the creature is, establish a base speed, measured in zones.
 
 If the monster possesses an additional method of movement, like flying, assign a (usually higher) value for this.
 
-#### Attack and defense rolls
+### Attack and defense rolls
 
 These show how many dice to roll for attack and defense rolls, physical and magical. Again, base your numbers on the typical warrior, which usually will have a PA of 3, and a PD of 2.
 
@@ -2282,15 +2325,15 @@ By default, the top die roll for inflicting direct lethal damage is 6. You can c
 
 Optionally, you can also add some sort of special effect to the top damage roll: poison, grapple, or any other effect that applies.
 
-#### Attacks
+### Attacks
 
 What kind of attacks does this monster perform? It might be as simple as a weapon or a bite attack, or something more complicated as an attack, such as entangling the victim, or poisoning. You can also have a special attack that is triggered by the monster’s top roll; usually that would be its most deadly strike.
 
-### Random monster generation tables
+## Random monster generation tables
 
 These tables will help you create random new monsters on the fly, or serve as a base for a more elaborate creation to throw at your players.
 
-#### Type (2d6)
+### Type (2d6)
 
 Roll | Type
 -----|-------------
